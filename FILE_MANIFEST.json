@@ -1,0 +1,3758 @@
+[
+  {
+    "original": "25mm Micro Spur Gear Motor_PDF00.pdf",
+    "repository_path": "docs/references/25mm Micro Spur Gear Motor_PDF00.pdf",
+    "bytes": 831219,
+    "sha256": "93e1a9fe78d76fe0ff975cad68bad411732c44750f26c9ea4a47317684b590ff"
+  },
+  {
+    "original": "Furuta_Pendulum_Electrical_Connections_Report.pdf",
+    "repository_path": "docs/existing_reports/Furuta_Pendulum_Electrical_Connections_Report.pdf",
+    "bytes": 817212,
+    "sha256": "f116c9711b5bfff7a2219ece78e0c68e57ce84e0c35319021372612460248c26"
+  },
+  {
+    "original": "modern conttrol 3 .png",
+    "repository_path": "results/cad_images/modern conttrol 3 .png",
+    "bytes": 675751,
+    "sha256": "2287cd11a80f7409e5df4d7028f0a6cc74dedbb229602c6870ea9628369090f6"
+  },
+  {
+    "original": "modern conttrol.png",
+    "repository_path": "results/cad_images/modern conttrol.png",
+    "bytes": 762690,
+    "sha256": "616ca2755d32127acb2a7f95df29f8d152353d1e0a6c90023ac5d47fdc943aa6"
+  },
+  {
+    "original": "cad files/modern conttrol.ipj",
+    "repository_path": "cad/inventor/original/modern conttrol.ipj",
+    "bytes": 10984,
+    "sha256": "b6b813c3ed8714b2746d70d6c52e0e2490deae4bbaad42e46eb756c8a63a52ac"
+  },
+  {
+    "original": "cad files/modern conttrol.ipj.old",
+    "repository_path": "cad/inventor/original/modern conttrol.ipj.old",
+    "bytes": 10574,
+    "sha256": "c629a8e81e0341662fb99df33c1b13d76f29481a236d68547a873faf149a83bd"
+  },
+  {
+    "original": "cad files/packngo.log",
+    "repository_path": "cad/inventor/original/packngo.log",
+    "bytes": 6556,
+    "sha256": "70a39e1b7718de93b6628d26061a8cb793062e88f0c3e50e2e46ee6092488dc6"
+  },
+  {
+    "original": "simple parts  inventor-solidworks/Assem1.SLDASM",
+    "repository_path": "cad/solidworks/simplified_assembly/Assem1.SLDASM",
+    "bytes": 42845016,
+    "sha256": "c29bcb0dbfccef1ce1329df51f32bcd9bbb64710b2172a9857195db95feb875c"
+  },
+  {
+    "original": "simple parts  inventor-solidworks/modern conttrol_ BASE .ipt",
+    "repository_path": "cad/solidworks/simplified_assembly/modern conttrol_ BASE .ipt",
+    "bytes": 28235776,
+    "sha256": "64d0df742e737206a846f60f6e221938620b58fb500764bc2018d065a8335955"
+  },
+  {
+    "original": "simple parts  inventor-solidworks/modern conttrol_ BASE .stp",
+    "repository_path": "cad/solidworks/simplified_assembly/modern conttrol_ BASE .stp",
+    "bytes": 61064455,
+    "sha256": "0795fe88839f8e5a03db007bcc952efd226b07eaa6fa5e4e3f984b20f1b899e9"
+  },
+  {
+    "original": "simple parts  inventor-solidworks/modern conttrol_ horizontal_arm .ipt",
+    "repository_path": "cad/solidworks/simplified_assembly/modern conttrol_ horizontal_arm .ipt",
+    "bytes": 6775808,
+    "sha256": "19178e7a9aa36c855d00800f3a68d31599a145dc0bd7580bc1b76b7f850c0a24"
+  },
+  {
+    "original": "simple parts  inventor-solidworks/modern conttrol_ horizontal_arm .stp",
+    "repository_path": "cad/solidworks/simplified_assembly/modern conttrol_ horizontal_arm .stp",
+    "bytes": 16938307,
+    "sha256": "df87d13b1fb2109674cd57f8a9a303379488951557f552fab25ed0611bc2b851"
+  },
+  {
+    "original": "simple parts  inventor-solidworks/modern conttrol_Pendulum .ipt",
+    "repository_path": "cad/solidworks/simplified_assembly/modern conttrol_Pendulum .ipt",
+    "bytes": 267776,
+    "sha256": "dd866ff83014025ebdf9a4f03bff4eb25632ed5743c208157bbf7e971b4733f6"
+  },
+  {
+    "original": "simple parts  inventor-solidworks/modern conttrol_Pendulum .stp",
+    "repository_path": "cad/solidworks/simplified_assembly/modern conttrol_Pendulum .stp",
+    "bytes": 87631,
+    "sha256": "0bd0c57d84b09ae1c773b573b99da17b86d04e4344ed18161cfcc05241dbc451"
+  },
+  {
+    "original": "simple parts  inventor-solidworks/modern conttrol_Pendulum .stp.SLDPRT",
+    "repository_path": "cad/solidworks/simplified_assembly/modern conttrol_Pendulum .stp.SLDPRT",
+    "bytes": 132246,
+    "sha256": "da82026d2fdbca995e5e777fbe24123e7fbf667b036d56506b13ce751b8578ef"
+  },
+  {
+    "original": "simple parts  inventor-solidworks/~$Assem1.SLDASM",
+    "repository_path": "cad/solidworks/simplified_assembly/~$Assem1.SLDASM",
+    "bytes": 6,
+    "sha256": "73981931e8c216385795b8d705e047b7d1a5169da1522a64050cc5472591fa37"
+  },
+  {
+    "original": "simple parts  inventor-solidworks/~$modern conttrol_Pendulum .stp.SLDPRT",
+    "repository_path": "cad/solidworks/simplified_assembly/~$modern conttrol_Pendulum .stp.SLDPRT",
+    "bytes": 6,
+    "sha256": "73981931e8c216385795b8d705e047b7d1a5169da1522a64050cc5472591fa37"
+  },
+  {
+    "original": "sloidworks version/01_AS 1427 - M3.5 x 8(5) I.step",
+    "repository_path": "cad/step_exchange/full_assembly_and_parts/01_AS 1427 - M3.5 x 8(5) I.step",
+    "bytes": 67986,
+    "sha256": "9033b8ba5b4fcbd51e2a7ab9816733c39076960f79ffc111975bb2bb16380fd1"
+  },
+  {
+    "original": "sloidworks version/02_Female DC-Power-to-Screw-Terminals-Adapter.step",
+    "repository_path": "cad/step_exchange/full_assembly_and_parts/02_Female DC-Power-to-Screw-Terminals-Adapter.step",
+    "bytes": 2159419,
+    "sha256": "77a3884a74565420238ea3789595a64e17995a17c81dcb8916d4b84bc53b744c"
+  },
+  {
+    "original": "sloidworks version/03_Threaded insert M3x5x4.step",
+    "repository_path": "cad/step_exchange/full_assembly_and_parts/03_Threaded insert M3x5x4.step",
+    "bytes": 2456064,
+    "sha256": "355ddab24d1d38f30da7bcedf369e8f085d2da0b8674f3f6905389667349bd3b"
+  },
+  {
+    "original": "sloidworks version/04_Half-Size Breadboard.step",
+    "repository_path": "cad/step_exchange/full_assembly_and_parts/04_Half-Size Breadboard.step",
+    "bytes": 6617534,
+    "sha256": "9dedcc7e3a29c8df0585b2d5d4b20f81b348990fbd8321bc7cdd66c110f35b27"
+  },
+  {
+    "original": "sloidworks version/05_ESP32 WROOM.step",
+    "repository_path": "cad/step_exchange/full_assembly_and_parts/05_ESP32 WROOM.step",
+    "bytes": 3518516,
+    "sha256": "bf46bdafc742b1af80a5c12ea9a22f75b8fb5d3366c067e644eec725b8ed9fc1"
+  },
+  {
+    "original": "sloidworks version/06_LM2596_5V.step",
+    "repository_path": "cad/step_exchange/full_assembly_and_parts/06_LM2596_5V.step",
+    "bytes": 3524970,
+    "sha256": "d46544812865ac8b084e03a89dd11d0a7ad070eb50cf0de4300b8d570d71d9b0"
+  },
+  {
+    "original": "sloidworks version/07_Untitled.step",
+    "repository_path": "cad/step_exchange/full_assembly_and_parts/07_Untitled.step",
+    "bytes": 8094831,
+    "sha256": "f38c895f333814e827256e923ebe3b26da6a2c99f01d0d22d473f835f5abe933"
+  },
+  {
+    "original": "sloidworks version/08_cover for electrical box.step",
+    "repository_path": "cad/step_exchange/full_assembly_and_parts/08_cover for electrical box.step",
+    "bytes": 74951,
+    "sha256": "fa813ad1e0cfda8c0d4b57a3d29b5f9ff31b97e5315130215fabfee9ed71b984"
+  },
+  {
+    "original": "sloidworks version/09_body.step",
+    "repository_path": "cad/step_exchange/full_assembly_and_parts/09_body.step",
+    "bytes": 50337,
+    "sha256": "f7c0c9f337d2c7cfbe45bdc5765fd68a6ab6c625acd012c0665da6ec6788d11c"
+  },
+  {
+    "original": "sloidworks version/10_AS 1427 - M3.5 x 20(5) I.step",
+    "repository_path": "cad/step_exchange/full_assembly_and_parts/10_AS 1427 - M3.5 x 20(5) I.step",
+    "bytes": 67902,
+    "sha256": "1a122768887537b289740ec9baa76b9e6e6b0c7997d1c6276a0baf74254e8ad1"
+  },
+  {
+    "original": "sloidworks version/11_AS 1427 - M3 x 8(5) I.step",
+    "repository_path": "cad/step_exchange/full_assembly_and_parts/11_AS 1427 - M3 x 8(5) I.step",
+    "bytes": 66198,
+    "sha256": "b0965710528e6268a27a257d75555a2777e4d9d36e049549d3997adf1cfaf5cf"
+  },
+  {
+    "original": "sloidworks version/12_AS 1427 - M3.5 x 16(5) I.step",
+    "repository_path": "cad/step_exchange/full_assembly_and_parts/12_AS 1427 - M3.5 x 16(5) I.step",
+    "bytes": 67921,
+    "sha256": "17b7c9941dfa77f696c6e8aa725c0f3a70ff9d3869708c63870fa4541044203a"
+  },
+  {
+    "original": "sloidworks version/13_bracket for encoder.step",
+    "repository_path": "cad/step_exchange/full_assembly_and_parts/13_bracket for encoder.step",
+    "bytes": 52861,
+    "sha256": "6929a2d11a952b33eb1511ca0520559b38a1227bcef0087f2848ddca067e3569"
+  },
+  {
+    "original": "sloidworks version/14_AS 1427 - M2.5 x 10(1).step",
+    "repository_path": "cad/step_exchange/full_assembly_and_parts/14_AS 1427 - M2.5 x 10(1).step",
+    "bytes": 19090,
+    "sha256": "ec504d986353b6a22a11412755ef69141a193eb5d23cebef6c236e96a9e49b9b"
+  },
+  {
+    "original": "sloidworks version/15_motor_JGA25-370_EN_LR25.step",
+    "repository_path": "cad/step_exchange/full_assembly_and_parts/15_motor_JGA25-370_EN_LR25.step",
+    "bytes": 876030,
+    "sha256": "78f2cedc9164990c90545acc624e1da4e684a4a8ae875a99cc0b0788878adf46"
+  },
+  {
+    "original": "sloidworks version/16_Rigid Coupling.step",
+    "repository_path": "cad/step_exchange/full_assembly_and_parts/16_Rigid Coupling.step",
+    "bytes": 62759,
+    "sha256": "4f2e11ef80e303ede48ca7d824a9ad214d2e0f160b2f514c8d39d76add2c2502"
+  },
+  {
+    "original": "sloidworks version/17_shaft.step",
+    "repository_path": "cad/step_exchange/full_assembly_and_parts/17_shaft.step",
+    "bytes": 14752,
+    "sha256": "a0e3dbde9651ae54ceeadff7fe5cc167fd017c506a7e7c2ad43fe8884e5110e1"
+  },
+  {
+    "original": "sloidworks version/18_cover.step",
+    "repository_path": "cad/step_exchange/full_assembly_and_parts/18_cover.step",
+    "bytes": 29994,
+    "sha256": "32c179681701864e2065c4c142d8323c17f5cfbb796fbf06347b723908013e7f"
+  },
+  {
+    "original": "sloidworks version/19_part.step",
+    "repository_path": "cad/step_exchange/full_assembly_and_parts/19_part.step",
+    "bytes": 54746,
+    "sha256": "db287be757fc956a615519b85cbd26e7d599c220e0f464479afafe3683841790"
+  },
+  {
+    "original": "sloidworks version/20_Aluminum Alloy Flange Coupling, 4 mm SHAFT HO.step",
+    "repository_path": "cad/step_exchange/full_assembly_and_parts/20_Aluminum Alloy Flange Coupling, 4 mm SHAFT HO.step",
+    "bytes": 38008,
+    "sha256": "392a0ca5ce94ffeff0ea357e483aab43c8e117b47c826c761713081976bd7013"
+  },
+  {
+    "original": "sloidworks version/21_ANSI_AFBMA 21.1 NTW - 08NTW12 8 x 21 x 0.8.step",
+    "repository_path": "cad/step_exchange/full_assembly_and_parts/21_ANSI_AFBMA 21.1 NTW - 08NTW12 8 x 21 x 0.8.step",
+    "bytes": 14366,
+    "sha256": "e8618f48a718a2341afc781a45af520361def35348abb38b90ffa9828b107663"
+  },
+  {
+    "original": "sloidworks version/22_ANSI_AFBMA 21.1 NT - 08NT01(1).step",
+    "repository_path": "cad/step_exchange/full_assembly_and_parts/22_ANSI_AFBMA 21.1 NT - 08NT01(1).step",
+    "bytes": 61440,
+    "sha256": "aba3e4b437382b3af5d7ff71ab268286edd867f9e61c8676761648b897579760"
+  },
+  {
+    "original": "sloidworks version/23_motor holder.step",
+    "repository_path": "cad/step_exchange/full_assembly_and_parts/23_motor holder.step",
+    "bytes": 44475,
+    "sha256": "a69442638527864046065523bbc55d06e76cecb98a3c44fb6c28b35c58fb5de4"
+  },
+  {
+    "original": "sloidworks version/24_rotary encoder.step",
+    "repository_path": "cad/step_exchange/full_assembly_and_parts/24_rotary encoder.step",
+    "bytes": 42216,
+    "sha256": "1b4a938eb161a3781291414ce537f70e062df92056a25d12ef8aaf2039a28982"
+  },
+  {
+    "original": "sloidworks version/25_modern conttrol.step",
+    "repository_path": "cad/step_exchange/full_assembly_and_parts/25_modern conttrol.step",
+    "bytes": 29071863,
+    "sha256": "07c87e16903a20440b680818304c975c61c3137111e2a358d15ca80fb337c198"
+  },
+  {
+    "original": "sloidworks version/conversion_manifest.json",
+    "repository_path": "cad/step_exchange/full_assembly_and_parts/conversion_manifest.json",
+    "bytes": 155818,
+    "sha256": "6ddfdd7ae9fdecf06652da26cf93c97d633836f3f367c7099005f955aa490c54"
+  },
+  {
+    "original": "sloidworks version/step_verification.json",
+    "repository_path": "cad/step_exchange/full_assembly_and_parts/step_verification.json",
+    "bytes": 7706,
+    "sha256": "476cfdb92f5bea89ebe31bf34b916ac69b80ca8d3efad9fe2adbb699e6527491"
+  },
+  {
+    "original": "Week6_Submission/package_manifest.json",
+    "repository_path": "archive/previous_week6_package/package_manifest.json",
+    "bytes": 59053,
+    "sha256": "bb857961821a11347593e1c14e5721873b1ae344e29f7b7fe1e59c83cb9f2455"
+  },
+  {
+    "original": "Week6_Submission/START_HERE.md",
+    "repository_path": "archive/previous_week6_package/START_HERE.md",
+    "bytes": 2214,
+    "sha256": "7f550708e1bf6864918f4cc8fae5e17199c9ff46a2c119c166cfa0f4b07f3898"
+  },
+  {
+    "original": "Week6_Submission/Week6_Technical_Report.md",
+    "repository_path": "archive/previous_week6_package/Week6_Technical_Report.md",
+    "bytes": 14255,
+    "sha256": "73bebb87a53ce83dadf1f024107c967c6623ab10340c59f80380fb57ef55314f"
+  },
+  {
+    "original": "Week6_Submission/Week6_Technical_Report.pdf",
+    "repository_path": "archive/previous_week6_package/Week6_Technical_Report.pdf",
+    "bytes": 87643,
+    "sha256": "d607d340d7ae58330a6af8270a773bac266ce06b3dfa9034688d5e300fa4e316"
+  },
+  {
+    "original": "xml files/Assem1.xml",
+    "repository_path": "simulation/multibody/Assem1.xml",
+    "bytes": 7792,
+    "sha256": "82b04e8a073fef5c4f0505669cb131112b7783c1b40340895b852cb913494853"
+  },
+  {
+    "original": "xml files/Assem11.slx",
+    "repository_path": "simulation/multibody/Assem11.slx",
+    "bytes": 225220,
+    "sha256": "99d478080065d66d0bbc598f1346df29b465ff21fca01e4e3dff6fc96ef65f3e"
+  },
+  {
+    "original": "xml files/Assem11.slx.original",
+    "repository_path": "archive/simulation_generated/Assem11.slx.original",
+    "bytes": 115561,
+    "sha256": "919eabeb0db22ac9998280770c18b6e035566b3726c1e961a22187e57262e9c7"
+  },
+  {
+    "original": "xml files/Assem11.slxc",
+    "repository_path": "archive/simulation_generated/Assem11.slxc",
+    "bytes": 5049,
+    "sha256": "dd2b5242c869242bdfd47465279b083275db01f238ab85e72f1badc828472635"
+  },
+  {
+    "original": "xml files/Assem1_DataFile.m",
+    "repository_path": "simulation/multibody/Assem1_DataFile.m",
+    "bytes": 5143,
+    "sha256": "0ee094b9908f30f3fa747095f8aa328e7e2a219c4e9c12fcf928d3e8934abee3"
+  },
+  {
+    "original": "xml files/free-fall result,.png",
+    "repository_path": "results/existing_images/free-fall result,.png",
+    "bytes": 54647,
+    "sha256": "5d291503b9e2d5354ecf583140041937c82ab1283d406d970a94c24f8b439148"
+  },
+  {
+    "original": "xml files/HTB1EauHeUKF3KVjSZFEq6xExFXaH.png",
+    "repository_path": "results/existing_images/HTB1EauHeUKF3KVjSZFEq6xExFXaH.png",
+    "bytes": 42074,
+    "sha256": "75b5b01ce6dde47120db3e317c1cc5bb8c8e0997e19ccd55f8c30073d2759b02"
+  },
+  {
+    "original": "xml files/modern conttrol_ BASE .stp_Default_sldprt.STEP",
+    "repository_path": "simulation/multibody/modern conttrol_ BASE .stp_Default_sldprt.STEP",
+    "bytes": 79390534,
+    "sha256": "ecf337594c2d55a2ad5a70a7226db94bc5cbfe48a3e4ad8cd4d7d7be56d86843"
+  },
+  {
+    "original": "xml files/modern conttrol_ horizontal_arm .stp_Default_sldprt.STEP",
+    "repository_path": "simulation/multibody/modern conttrol_ horizontal_arm .stp_Default_sldprt.STEP",
+    "bytes": 22681377,
+    "sha256": "c5df2f181dac6b3bbaacf8363bcf5fede23ef440ea97faddfd111bfe0ca6320a"
+  },
+  {
+    "original": "xml files/modern conttrol_Pendulum .stp_Default_sldprt.STEP",
+    "repository_path": "simulation/multibody/modern conttrol_Pendulum .stp_Default_sldprt.STEP",
+    "bytes": 243526,
+    "sha256": "53d057586313c6b27bba1ea7134187e6abfec65ee0d00f18d58f1dfe55276200"
+  },
+  {
+    "original": "xml files/videos.zip",
+    "repository_path": "results/videos/videos.zip",
+    "bytes": 4331252,
+    "sha256": "f53c3aa925afe1c403ef1f95c11a0d909f63f800df97828fd8a4d9f57adeef90"
+  },
+  {
+    "original": "cad files/Design Data/balloon.xml",
+    "repository_path": "cad/inventor/original/Design Data/balloon.xml",
+    "bytes": 34807,
+    "sha256": "c336c1698ff9d4f479343ec50b14bb7e83e4d74b2ca4c41126693914e51bc247"
+  },
+  {
+    "original": "cad files/Design Data/centermark.xml",
+    "repository_path": "cad/inventor/original/Design Data/centermark.xml",
+    "bytes": 7025,
+    "sha256": "35221e0e410e963bc203fcceda546f6c06e6b6a200c299b001da492ac6400efd"
+  },
+  {
+    "original": "cad files/Design Data/datumtarget.xml",
+    "repository_path": "cad/inventor/original/Design Data/datumtarget.xml",
+    "bytes": 33565,
+    "sha256": "a749e9b2ba80646514d205217579409f6c937e850c4f64e2b393ed422bb16143"
+  },
+  {
+    "original": "cad files/Design Data/dimension.xml",
+    "repository_path": "cad/inventor/original/Design Data/dimension.xml",
+    "bytes": 2494695,
+    "sha256": "7a40e73a7ac57a0af1791e8e63645b53ad6addfedb3195cbcd9e24eb0607eebb"
+  },
+  {
+    "original": "cad files/Design Data/edgesymbol.xml",
+    "repository_path": "cad/inventor/original/Design Data/edgesymbol.xml",
+    "bytes": 1867,
+    "sha256": "24ad1a27b9f699e02fcfa7b88ff7fa1740794c832f782d7a72a1e392550227bc"
+  },
+  {
+    "original": "cad files/Design Data/externalmaterialmapping.xml",
+    "repository_path": "cad/inventor/original/Design Data/externalmaterialmapping.xml",
+    "bytes": 11802,
+    "sha256": "1d8bedf571698dac2e8998076e2e247761a38cb422dd89b9fae0889b29ce26ec"
+  },
+  {
+    "original": "cad files/Design Data/featureautoname.xml",
+    "repository_path": "cad/inventor/original/Design Data/featureautoname.xml",
+    "bytes": 19757,
+    "sha256": "36ad5f7b8970196fd51a1052d62be687e2a4f370a064ef04736b1ea344c587c4"
+  },
+  {
+    "original": "cad files/Design Data/featurecontrolframe.xml",
+    "repository_path": "cad/inventor/original/Design Data/featurecontrolframe.xml",
+    "bytes": 35298,
+    "sha256": "0c7f98c4ab7ba5cfd6aa5c6bf3e1b2401cd9a388bb95f122af580871a83bb7aa"
+  },
+  {
+    "original": "cad files/Design Data/hatch.xml",
+    "repository_path": "cad/inventor/original/Design Data/hatch.xml",
+    "bytes": 3927,
+    "sha256": "b09c695f820dfd71a068ff21b5beb6bb3e18f040adb5a26532c8b3440c925c60"
+  },
+  {
+    "original": "cad files/Design Data/holetable.xml",
+    "repository_path": "cad/inventor/original/Design Data/holetable.xml",
+    "bytes": 1133662,
+    "sha256": "90d2d055d1634a8f43e49bdeefb318566ec799f3d1bb9565faea3ba3bcfc3b2f"
+  },
+  {
+    "original": "cad files/Design Data/id.xml",
+    "repository_path": "cad/inventor/original/Design Data/id.xml",
+    "bytes": 39470,
+    "sha256": "9fc18bfaf65433cd036ce4af94008ce198793df0c3323b6b0ebf98e1d455b55c"
+  },
+  {
+    "original": "cad files/Design Data/layers.xml",
+    "repository_path": "cad/inventor/original/Design Data/layers.xml",
+    "bytes": 89453,
+    "sha256": "b6ba09f85b481731eb6fa73dfc50d61d0a015a4248b81b90ec84b94103563a14"
+  },
+  {
+    "original": "cad files/Design Data/leader.xml",
+    "repository_path": "cad/inventor/original/Design Data/leader.xml",
+    "bytes": 36758,
+    "sha256": "ee123069fad9e070c6dc33c027df8421a6a0e22532eb23a4d30977b272a680e9"
+  },
+  {
+    "original": "cad files/Design Data/lighting.xml",
+    "repository_path": "cad/inventor/original/Design Data/lighting.xml",
+    "bytes": 47718,
+    "sha256": "c6d65257457ac7fb36adf1f103c1312b030af8cd5d0fc6fc8d21246a0bb6b2c5"
+  },
+  {
+    "original": "cad files/Design Data/mark.xml",
+    "repository_path": "cad/inventor/original/Design Data/mark.xml",
+    "bytes": 2789,
+    "sha256": "a76d6af9473d76285b50654e56493572b4c2eadd6894f2754c062d8b0710b6e0"
+  },
+  {
+    "original": "cad files/Design Data/materialmapping.xml",
+    "repository_path": "cad/inventor/original/Design Data/materialmapping.xml",
+    "bytes": 106745,
+    "sha256": "9e73a7c0112f0e7ffb395eedda5ff08acba57bdb30bc34b711c54139e7cc9aa5"
+  },
+  {
+    "original": "cad files/Design Data/objectdefaults.xml",
+    "repository_path": "cad/inventor/original/Design Data/objectdefaults.xml",
+    "bytes": 300422,
+    "sha256": "9e452b217445eb05e6f3e119ec03d13d758d140aaaa637063c68c70bba41ea9c"
+  },
+  {
+    "original": "cad files/Design Data/partslist.xml",
+    "repository_path": "cad/inventor/original/Design Data/partslist.xml",
+    "bytes": 187337,
+    "sha256": "aad1bbebb6eef02e0f09715ba761e13c32488af10359670909a8beb7f594f422"
+  },
+  {
+    "original": "cad files/Design Data/propertymap.xml",
+    "repository_path": "cad/inventor/original/Design Data/propertymap.xml",
+    "bytes": 14552,
+    "sha256": "80d32eff5f1c12ffa71ee8f87cd587bf1e1703022c7bf0675ae7c4cbd8fdb1e5"
+  },
+  {
+    "original": "cad files/Design Data/proteinmapping.xml",
+    "repository_path": "cad/inventor/original/Design Data/proteinmapping.xml",
+    "bytes": 341667,
+    "sha256": "543db5ef4928dc4f4de48990d4a7da9ad584de31dae1e2ba78daa7ed18c0c5e7"
+  },
+  {
+    "original": "cad files/Design Data/revisiontable.xml",
+    "repository_path": "cad/inventor/original/Design Data/revisiontable.xml",
+    "bytes": 58082,
+    "sha256": "5331fa40a263d7f459b2b239cc17389cba8605ec1a0dd1429fcefc3976e1a9ca"
+  },
+  {
+    "original": "cad files/Design Data/sheetmetalrules.xml",
+    "repository_path": "cad/inventor/original/Design Data/sheetmetalrules.xml",
+    "bytes": 3518,
+    "sha256": "1198f562d384f9821e76c2d4257513769b0a478b12e507464e117e572c44e5da"
+  },
+  {
+    "original": "cad files/Design Data/sheetmetalunfold.xml",
+    "repository_path": "cad/inventor/original/Design Data/sheetmetalunfold.xml",
+    "bytes": 3335,
+    "sha256": "336178ad3e03a2cb188a3cc029c1296209536fd5bdaa009b4d920f7af35484b6"
+  },
+  {
+    "original": "cad files/Design Data/standard.xml",
+    "repository_path": "cad/inventor/original/Design Data/standard.xml",
+    "bytes": 222153,
+    "sha256": "a3350a0de8b98f7426369de40c731ef2b768794bbe64b16ea06d3a84055cceb9"
+  },
+  {
+    "original": "cad files/Design Data/studioimagebasedlighting.xml",
+    "repository_path": "cad/inventor/original/Design Data/studioimagebasedlighting.xml",
+    "bytes": 7545,
+    "sha256": "08c846b04b0ffa0176a900c129a03ac3445acae290d3f0acafa55797d1a6035b"
+  },
+  {
+    "original": "cad files/Design Data/studiolighting.xml",
+    "repository_path": "cad/inventor/original/Design Data/studiolighting.xml",
+    "bytes": 29179,
+    "sha256": "7c087b58360ee4045071496929e0893ba08fd8a49eeeb8aa3024f9f6f96e8e01"
+  },
+  {
+    "original": "cad files/Design Data/studioscene.xml",
+    "repository_path": "cad/inventor/original/Design Data/studioscene.xml",
+    "bytes": 12155,
+    "sha256": "4789a482bb15ad63a5d20e60dfb603662b28bb9ba669387e3f689d6d58e9f083"
+  },
+  {
+    "original": "cad files/Design Data/surfacetexture.xml",
+    "repository_path": "cad/inventor/original/Design Data/surfacetexture.xml",
+    "bytes": 28238,
+    "sha256": "eb323a2ecb85df8be2c03f936a9ddf277fb35d2df14810bb1aa1aaf9d19a73f1"
+  },
+  {
+    "original": "cad files/Design Data/table.xml",
+    "repository_path": "cad/inventor/original/Design Data/table.xml",
+    "bytes": 21036,
+    "sha256": "62a9e2c49d557a086fecaf16a6d005e6bffcb2944d366a31173f7fdc887a0d15"
+  },
+  {
+    "original": "cad files/Design Data/Template.config",
+    "repository_path": "cad/inventor/original/Design Data/Template.config",
+    "bytes": 133,
+    "sha256": "5c0c973145e294224b945289f12d9c2160da80274bb5a1c0b5ff9bd8a505af66"
+  },
+  {
+    "original": "cad files/Design Data/text.xml",
+    "repository_path": "cad/inventor/original/Design Data/text.xml",
+    "bytes": 23354,
+    "sha256": "32206cfd3b7e827c3a28c5041e73577871f7ec1cb307cbd27bdf27d14de9bcf8"
+  },
+  {
+    "original": "cad files/Design Data/transitionsymbol.xml",
+    "repository_path": "cad/inventor/original/Design Data/transitionsymbol.xml",
+    "bytes": 2006,
+    "sha256": "fe609affe69616ef0955db7c5bd4a5adb282005f5a07a4c8d7a3fc3d5da8c999"
+  },
+  {
+    "original": "cad files/Design Data/viewannotation.xml",
+    "repository_path": "cad/inventor/original/Design Data/viewannotation.xml",
+    "bytes": 16118,
+    "sha256": "f567118d63929c9c9bafb4fae6c5e8374af6814c231cc5d7937cd9e27aca80a3"
+  },
+  {
+    "original": "cad files/Design Data/weld.xml",
+    "repository_path": "cad/inventor/original/Design Data/weld.xml",
+    "bytes": 39680,
+    "sha256": "c6e142cea22089d20710882503923863710879f2ecef748597d0f9c55191dbea"
+  },
+  {
+    "original": "cad files/Design Data/weldbead.xml",
+    "repository_path": "cad/inventor/original/Design Data/weldbead.xml",
+    "bytes": 7816,
+    "sha256": "9eef3a99da427369f5e15636230701fc17d0ddf61b65001f3c88376fab44e18e"
+  },
+  {
+    "original": "cad files/OldVersions/modern conttrol.ipj.bak",
+    "repository_path": "cad/inventor/original/OldVersions/modern conttrol.ipj.bak",
+    "bytes": 10984,
+    "sha256": "b6b813c3ed8714b2746d70d6c52e0e2490deae4bbaad42e46eb756c8a63a52ac"
+  },
+  {
+    "original": "cad files/OldVersions/modern conttrol.ipj.old.bak",
+    "repository_path": "cad/inventor/original/OldVersions/modern conttrol.ipj.old.bak",
+    "bytes": 10574,
+    "sha256": "c629a8e81e0341662fb99df33c1b13d76f29481a236d68547a873faf149a83bd"
+  },
+  {
+    "original": "cad files/Templates/Blank - DVR Carousel.pdf",
+    "repository_path": "cad/inventor/original/Templates/Blank - DVR Carousel.pdf",
+    "bytes": 54537,
+    "sha256": "ac9af115e12b9d63ec42bec8d3ac1101511e9776cf375e19a9ef6e0d0c05eb38"
+  },
+  {
+    "original": "cad files/Templates/Blank.pdf",
+    "repository_path": "cad/inventor/original/Templates/Blank.pdf",
+    "bytes": 31375,
+    "sha256": "094a0564a2a601347aebde64bbfca8a14939096b1ded8f5b8d17a3f37df550a4"
+  },
+  {
+    "original": "cad files/Templates/IMPORTANT - Template Files.txt",
+    "repository_path": "cad/inventor/original/Templates/IMPORTANT - Template Files.txt",
+    "bytes": 1083,
+    "sha256": "fd46f9a7d480289403b3791a28e9b2c21e8e1ea92131d94a09b985cd62207db6"
+  },
+  {
+    "original": "cad files/Templates/Sample Assembly Template.pdf",
+    "repository_path": "cad/inventor/original/Templates/Sample Assembly Template.pdf",
+    "bytes": 987794,
+    "sha256": "1fbf839eef8bd80de14368effc506232afeb8b75ffd787733ebf7868f4cd7124"
+  },
+  {
+    "original": "cad files/Templates/Sample Part Template.pdf",
+    "repository_path": "cad/inventor/original/Templates/Sample Part Template.pdf",
+    "bytes": 50312,
+    "sha256": "e68ee26e85a663657d171208a035da24576743d0ac63c533f9042c546c97ddd5"
+  },
+  {
+    "original": "cad files/Templates/Sheet Metal.ipt",
+    "repository_path": "cad/inventor/original/Templates/Sheet Metal.ipt",
+    "bytes": 77824,
+    "sha256": "7a048afade1e9c2c5392c1f024fcf22dd70b7714aec264fdcdf6ff14381b0911"
+  },
+  {
+    "original": "cad files/Templates/standard.dwg",
+    "repository_path": "cad/inventor/original/Templates/standard.dwg",
+    "bytes": 203944,
+    "sha256": "a91d07ceb945d6ea09d44117519594dc6afcf2843d7c4ed4525dabde7c73f18e"
+  },
+  {
+    "original": "cad files/Templates/Standard.iam",
+    "repository_path": "cad/inventor/original/Templates/Standard.iam",
+    "bytes": 65536,
+    "sha256": "07bca72c7814ac1eaa2e49479788abf3f36dc0874ba2a511f62162f0828257ba"
+  },
+  {
+    "original": "cad files/Templates/Standard.idw",
+    "repository_path": "cad/inventor/original/Templates/Standard.idw",
+    "bytes": 203264,
+    "sha256": "53191f6f64be2a5cabbd4896dc130b41826b8794dad2ebf3099a6a7819dcb446"
+  },
+  {
+    "original": "cad files/Templates/Standard.ipn",
+    "repository_path": "cad/inventor/original/Templates/Standard.ipn",
+    "bytes": 196608,
+    "sha256": "a3e573963eae20ff4c75ee12007fd38469cad3dfb98ed396dcc2d61b6a9569fc"
+  },
+  {
+    "original": "cad files/Templates/Standard.ipt",
+    "repository_path": "cad/inventor/original/Templates/Standard.ipt",
+    "bytes": 71680,
+    "sha256": "81dec46fd5ca233ebdae12d72f5afd425f69eac6aa11361d89fc8ec6108a7efd"
+  },
+  {
+    "original": "cad files/Templates/Weldment.iam",
+    "repository_path": "cad/inventor/original/Templates/Weldment.iam",
+    "bytes": 351232,
+    "sha256": "db80c607957aab2b9b8da8aab4d458ccf25de7e3e1ee0e1d84c95cec9eac72ed"
+  },
+  {
+    "original": "cad files/Design Data/Bend Tables/bend table (in).txt",
+    "repository_path": "cad/inventor/original/Design Data/Bend Tables/bend table (in).txt",
+    "bytes": 10593,
+    "sha256": "2b7a2dfcf8f729c3fadd15edcf0c53c452a9db5ed691c4cb4b768de5d12f9611"
+  },
+  {
+    "original": "cad files/Design Data/Bend Tables/bend table (in).xlsx",
+    "repository_path": "cad/inventor/original/Design Data/Bend Tables/bend table (in).xlsx",
+    "bytes": 25098,
+    "sha256": "5846c19288a57b0bbb2658bfcfdf88fbff681aec3fc1ac0fce1224730be3b27f"
+  },
+  {
+    "original": "cad files/Design Data/Bend Tables/bend table (mm).txt",
+    "repository_path": "cad/inventor/original/Design Data/Bend Tables/bend table (mm).txt",
+    "bytes": 10577,
+    "sha256": "946814fc0442ef587fb77429daaa54c48f21fd074fe292010a205234034cc468"
+  },
+  {
+    "original": "cad files/Design Data/Bend Tables/bend table (mm).xlsx",
+    "repository_path": "cad/inventor/original/Design Data/Bend Tables/bend table (mm).xlsx",
+    "bytes": 24985,
+    "sha256": "9c653c2ccce1e5f27f630e6e355b8982dc381ecaf361e123aae48364c6f42714"
+  },
+  {
+    "original": "cad files/Design Data/Dictionaries/cat.dct",
+    "repository_path": "cad/inventor/original/Design Data/Dictionaries/cat.dct",
+    "bytes": 639845,
+    "sha256": "5a94ba811afe4751eee6c753b2ed5fb45e089d63aa80d81c118b3700066bd336"
+  },
+  {
+    "original": "cad files/Design Data/Dictionaries/csy.dct",
+    "repository_path": "cad/inventor/original/Design Data/Dictionaries/csy.dct",
+    "bytes": 1146791,
+    "sha256": "0894ed5809187f9b32158ee9657e0d85c3aedcb8ef805a3241b736a569dd71a4"
+  },
+  {
+    "original": "cad files/Design Data/Dictionaries/dan.dct",
+    "repository_path": "cad/inventor/original/Design Data/Dictionaries/dan.dct",
+    "bytes": 7784,
+    "sha256": "cca7190f2ff97b69ccbaae5e9f8b408a319c5fcbc2a16af7310fc53b920503af"
+  },
+  {
+    "original": "cad files/Design Data/Dictionaries/dan2.dct",
+    "repository_path": "cad/inventor/original/Design Data/Dictionaries/dan2.dct",
+    "bytes": 749025,
+    "sha256": "c828045fd8da517869963ce4f3c13569fca1db6cf4bb1e87c8456dfa11a967ab"
+  },
+  {
+    "original": "cad files/Design Data/Dictionaries/deu.dct",
+    "repository_path": "cad/inventor/original/Design Data/Dictionaries/deu.dct",
+    "bytes": 9794,
+    "sha256": "d50c9aead4ea63ffa7ce257f945e2ab973d552df792b8376795c9c915733fe82"
+  },
+  {
+    "original": "cad files/Design Data/Dictionaries/deu2.dct",
+    "repository_path": "cad/inventor/original/Design Data/Dictionaries/deu2.dct",
+    "bytes": 901363,
+    "sha256": "ca68fb11205966190c00c0191f1320d1e2559863e89d0cbd21f4e4d123ef8f03"
+  },
+  {
+    "original": "cad files/Design Data/Dictionaries/deuo2.dct",
+    "repository_path": "cad/inventor/original/Design Data/Dictionaries/deuo2.dct",
+    "bytes": 905647,
+    "sha256": "7a27ea219e1cd619865acbccfd41e6c0b5c77147a0aef855c3169d9e76d1d79f"
+  },
+  {
+    "original": "cad files/Design Data/Dictionaries/enc.dct",
+    "repository_path": "cad/inventor/original/Design Data/Dictionaries/enc.dct",
+    "bytes": 7798,
+    "sha256": "029354cff3194df395eaf2c08d30b75c256c44716c65a12ba6abbdd0910edd15"
+  },
+  {
+    "original": "cad files/Design Data/Dictionaries/enc2.dct",
+    "repository_path": "cad/inventor/original/Design Data/Dictionaries/enc2.dct",
+    "bytes": 328407,
+    "sha256": "e131e26c8fd84b989c9b65ae86f5fe1bd60bbaa7206497d6a8ee280b8510e9d6"
+  },
+  {
+    "original": "cad files/Design Data/Dictionaries/eng.dct",
+    "repository_path": "cad/inventor/original/Design Data/Dictionaries/eng.dct",
+    "bytes": 7798,
+    "sha256": "029354cff3194df395eaf2c08d30b75c256c44716c65a12ba6abbdd0910edd15"
+  },
+  {
+    "original": "cad files/Design Data/Dictionaries/eng2.dct",
+    "repository_path": "cad/inventor/original/Design Data/Dictionaries/eng2.dct",
+    "bytes": 330075,
+    "sha256": "e52919edeee6f3759de4bb1845baa3534d43bd74bbbf97ac14247ea0caf46187"
+  },
+  {
+    "original": "cad files/Design Data/Dictionaries/enu.dct",
+    "repository_path": "cad/inventor/original/Design Data/Dictionaries/enu.dct",
+    "bytes": 7796,
+    "sha256": "019e3797c2fed58c9344d666744aa965d11a3996f9e4f5cce07f5dc96a910a0c"
+  },
+  {
+    "original": "cad files/Design Data/Dictionaries/enu2.dct",
+    "repository_path": "cad/inventor/original/Design Data/Dictionaries/enu2.dct",
+    "bytes": 327608,
+    "sha256": "32de74afb5493e0cedc104060bf91c17ff4aad5a9021b886f966a0f30865ea7d"
+  },
+  {
+    "original": "cad files/Design Data/Dictionaries/esp.dct",
+    "repository_path": "cad/inventor/original/Design Data/Dictionaries/esp.dct",
+    "bytes": 1756,
+    "sha256": "1b22aae0c79457568f90a10dbe375d85600edd3783e1d01b57d3660572c87788"
+  },
+  {
+    "original": "cad files/Design Data/Dictionaries/esp2.dct",
+    "repository_path": "cad/inventor/original/Design Data/Dictionaries/esp2.dct",
+    "bytes": 819704,
+    "sha256": "2a19a215370e599dad00abb5e9f6997e4f9308a5189a232ed222d9206e42eb56"
+  },
+  {
+    "original": "cad files/Design Data/Dictionaries/fin.dct",
+    "repository_path": "cad/inventor/original/Design Data/Dictionaries/fin.dct",
+    "bytes": 17536,
+    "sha256": "a0a50ce520b8635810dd0ddd308f5a117fb58a914e89c6d3241cd05b7ed1fdf9"
+  },
+  {
+    "original": "cad files/Design Data/Dictionaries/fin2.dct",
+    "repository_path": "cad/inventor/original/Design Data/Dictionaries/fin2.dct",
+    "bytes": 947604,
+    "sha256": "49ba839a86d7d8da0b8fe6b63c60b5801fdc8a7b925b74f677f20bdca8707bbf"
+  },
+  {
+    "original": "cad files/Design Data/Dictionaries/fra.dct",
+    "repository_path": "cad/inventor/original/Design Data/Dictionaries/fra.dct",
+    "bytes": 5538,
+    "sha256": "4685e882d5ff7a5b585cba08de079621e686249b868718a179594b16c78d5d51"
+  },
+  {
+    "original": "cad files/Design Data/Dictionaries/fra2.dct",
+    "repository_path": "cad/inventor/original/Design Data/Dictionaries/fra2.dct",
+    "bytes": 348158,
+    "sha256": "5b208ae8fbcfeeb505edeefc819073df6157e8e4652f7319d249d6883206dc1f"
+  },
+  {
+    "original": "cad files/Design Data/Dictionaries/ita.dct",
+    "repository_path": "cad/inventor/original/Design Data/Dictionaries/ita.dct",
+    "bytes": 7731,
+    "sha256": "8754b18f4c2358c536289dba2998e9f036d32247ce2ea92d39f64152b1afb21b"
+  },
+  {
+    "original": "cad files/Design Data/Dictionaries/ita2.dct",
+    "repository_path": "cad/inventor/original/Design Data/Dictionaries/ita2.dct",
+    "bytes": 978593,
+    "sha256": "a8bf56e5d5e60b6ce90accc676d2f8d2e28d4d39b8d76056318658b8681033da"
+  },
+  {
+    "original": "cad files/Design Data/Dictionaries/nld.dct",
+    "repository_path": "cad/inventor/original/Design Data/Dictionaries/nld.dct",
+    "bytes": 7895,
+    "sha256": "4ac0389267809d949060dfe48685fc9325dbf2d86716b26ce59598c16aad140e"
+  },
+  {
+    "original": "cad files/Design Data/Dictionaries/nld2.dct",
+    "repository_path": "cad/inventor/original/Design Data/Dictionaries/nld2.dct",
+    "bytes": 766185,
+    "sha256": "ac58b0ceb03643d86e319a3877a381aeea0b7049ffbe4221d8ef0f9fb838758f"
+  },
+  {
+    "original": "cad files/Design Data/Dictionaries/nor.dct",
+    "repository_path": "cad/inventor/original/Design Data/Dictionaries/nor.dct",
+    "bytes": 7150,
+    "sha256": "c933a676df0781f94fdd43d1b80ec063bc94ac0c1aeec7cfa263c8b6c8388d30"
+  },
+  {
+    "original": "cad files/Design Data/Dictionaries/nor2.dct",
+    "repository_path": "cad/inventor/original/Design Data/Dictionaries/nor2.dct",
+    "bytes": 311021,
+    "sha256": "ec47b869d6953cfc1f683194cbec961e964ef9403c0fb327447c8407f8752847"
+  },
+  {
+    "original": "cad files/Design Data/Dictionaries/ptb.dct",
+    "repository_path": "cad/inventor/original/Design Data/Dictionaries/ptb.dct",
+    "bytes": 8385,
+    "sha256": "1f20e4bb22aa2f626b3cac140f27ad16d17d1715b030688c6e4526c52f81e92c"
+  },
+  {
+    "original": "cad files/Design Data/Dictionaries/ptb2.dct",
+    "repository_path": "cad/inventor/original/Design Data/Dictionaries/ptb2.dct",
+    "bytes": 311004,
+    "sha256": "d29bdcd1b38189b03c5cc6e0d052ad647f7ff08252214d8f9b00f8d243ae9771"
+  },
+  {
+    "original": "cad files/Design Data/Dictionaries/ptg.dct",
+    "repository_path": "cad/inventor/original/Design Data/Dictionaries/ptg.dct",
+    "bytes": 6232,
+    "sha256": "f85a1907c101626b62673402963c45117015617d65d05f767e982d9b66c8c623"
+  },
+  {
+    "original": "cad files/Design Data/Dictionaries/ptg2.dct",
+    "repository_path": "cad/inventor/original/Design Data/Dictionaries/ptg2.dct",
+    "bytes": 376283,
+    "sha256": "6fd1b266f5b2e69dbba02d4e266d7124136ff47bf31404cb6cf03e73d145e81e"
+  },
+  {
+    "original": "cad files/Design Data/Dictionaries/rus.dct",
+    "repository_path": "cad/inventor/original/Design Data/Dictionaries/rus.dct",
+    "bytes": 734464,
+    "sha256": "32b78892f42045a17153e843bc871fdf6b9525b091ba306ad88ab327aafc6a67"
+  },
+  {
+    "original": "cad files/Design Data/Dictionaries/sve.dct",
+    "repository_path": "cad/inventor/original/Design Data/Dictionaries/sve.dct",
+    "bytes": 878,
+    "sha256": "2151cf3d40a4e1eb93b5be11c22d3a4087b5f1c3c03b278e01d8267386ea07ee"
+  },
+  {
+    "original": "cad files/Design Data/Dictionaries/sve2.dct",
+    "repository_path": "cad/inventor/original/Design Data/Dictionaries/sve2.dct",
+    "bytes": 303231,
+    "sha256": "732311065995798865478846f9e5406c6bc85c889869e8f7dbaf6e1fddbbb035"
+  },
+  {
+    "original": "cad files/Design Data/DWG-DXF/exportdwg.ini",
+    "repository_path": "cad/inventor/original/Design Data/DWG-DXF/exportdwg.ini",
+    "bytes": 1053,
+    "sha256": "d0e7dd22ad8c7dd3ad57e9aba8b1ae37e292a36072afde451f20212f50f33e78"
+  },
+  {
+    "original": "cad files/Design Data/DWG-DXF/exportdxf.ini",
+    "repository_path": "cad/inventor/original/Design Data/DWG-DXF/exportdxf.ini",
+    "bytes": 1031,
+    "sha256": "dc2c49d85fc876a10729168ed7709321f60c92a92856dd8a341e82495a854496"
+  },
+  {
+    "original": "cad files/Design Data/DWG-DXF/FaceLoops.xml",
+    "repository_path": "cad/inventor/original/Design Data/DWG-DXF/FaceLoops.xml",
+    "bytes": 3229,
+    "sha256": "eeaa29b6dffa37effb6ab32b8294feae495d106efb99989ce74bdd87fc846fd7"
+  },
+  {
+    "original": "cad files/Design Data/DWG-DXF/FlatPattern.xml",
+    "repository_path": "cad/inventor/original/Design Data/DWG-DXF/FlatPattern.xml",
+    "bytes": 3921,
+    "sha256": "9239090cbd6f698609025d5ce0b953fae670521badbad9befb600a13b18868c4"
+  },
+  {
+    "original": "cad files/Design Data/DWG-DXF/FlatPatternExportOpts.xml",
+    "repository_path": "cad/inventor/original/Design Data/DWG-DXF/FlatPatternExportOpts.xml",
+    "bytes": 1664,
+    "sha256": "19ecd56c797e5c62f1f6b4aac2bc037e5c41f0f0c7695703c3e1d680491fcf22"
+  },
+  {
+    "original": "cad files/Design Data/DWG-DXF/importacad.ini",
+    "repository_path": "cad/inventor/original/Design Data/DWG-DXF/importacad.ini",
+    "bytes": 994,
+    "sha256": "584bf502f75f17a54cc8bd71abf01005ca2120e6e6e3be819c85544d43c53250"
+  },
+  {
+    "original": "cad files/Design Data/DWG-DXF/importdxf.ini",
+    "repository_path": "cad/inventor/original/Design Data/DWG-DXF/importdxf.ini",
+    "bytes": 986,
+    "sha256": "a90b7863c5ef71ba611622b436cd5fe97673b271fe12cf444d0137d2cfe980e0"
+  },
+  {
+    "original": "cad files/Design Data/DWG-DXF/importmdt.ini",
+    "repository_path": "cad/inventor/original/Design Data/DWG-DXF/importmdt.ini",
+    "bytes": 990,
+    "sha256": "2124370c6f0df7a789332ac0298791fa4b0707a4cb116476e713daf4f7b82919"
+  },
+  {
+    "original": "cad files/Design Data/Import Properties/PropertyMap_Catia.xml",
+    "repository_path": "cad/inventor/original/Design Data/Import Properties/PropertyMap_Catia.xml",
+    "bytes": 4617,
+    "sha256": "bd599755abc692193d6c149f60297693ee837068a22ceba98601489b767ed837"
+  },
+  {
+    "original": "cad files/Design Data/Import Properties/PropertyMap_Creo.xml",
+    "repository_path": "cad/inventor/original/Design Data/Import Properties/PropertyMap_Creo.xml",
+    "bytes": 4482,
+    "sha256": "d7c82d24022b329590302fe9ab80dacdcbc6c3cafcda0e460b63d77e2e246240"
+  },
+  {
+    "original": "cad files/Design Data/Import Properties/PropertyMap_Fusion.xml",
+    "repository_path": "cad/inventor/original/Design Data/Import Properties/PropertyMap_Fusion.xml",
+    "bytes": 3698,
+    "sha256": "d755de0569dd1837c293fd2ad38cf31a7417bf70c102ca017443216b048cbb9d"
+  },
+  {
+    "original": "cad files/Design Data/Import Properties/PropertyMap_NX.xml",
+    "repository_path": "cad/inventor/original/Design Data/Import Properties/PropertyMap_NX.xml",
+    "bytes": 4586,
+    "sha256": "b4e0ba97f516a89d99859db14a238df7d6916c43867b3eb1572eea59ec7c35be"
+  },
+  {
+    "original": "cad files/Design Data/Import Properties/PropertyMap_SolidEdge.xml",
+    "repository_path": "cad/inventor/original/Design Data/Import Properties/PropertyMap_SolidEdge.xml",
+    "bytes": 3882,
+    "sha256": "94486476af84517630a3ef4b1835a8179e6a9a8c4776224b94923357609e277d"
+  },
+  {
+    "original": "cad files/Design Data/Import Properties/PropertyMap_STEP.xml",
+    "repository_path": "cad/inventor/original/Design Data/Import Properties/PropertyMap_STEP.xml",
+    "bytes": 3849,
+    "sha256": "d5a8399e33609a9ef53f2f3be87c4df1cb62a5ba09a7f762dd6184511c3416d4"
+  },
+  {
+    "original": "cad files/Design Data/Import Properties/PropertyMap_SW.xml",
+    "repository_path": "cad/inventor/original/Design Data/Import Properties/PropertyMap_SW.xml",
+    "bytes": 5155,
+    "sha256": "64bd80eec0ac12370771e377d55d641edbb6cc6e96acb9470b2fb673e61569bf"
+  },
+  {
+    "original": "cad files/Design Data/Materials/InventorMaterialLibrary-chs.xlf",
+    "repository_path": "cad/inventor/original/Design Data/Materials/InventorMaterialLibrary-chs.xlf",
+    "bytes": 1215337,
+    "sha256": "e137130de3e4cedecdbfe5eb8d8ed81b247a19502812c7f8b7d934193cb246c7"
+  },
+  {
+    "original": "cad files/Design Data/Materials/InventorMaterialLibrary-cht.xlf",
+    "repository_path": "cad/inventor/original/Design Data/Materials/InventorMaterialLibrary-cht.xlf",
+    "bytes": 1213745,
+    "sha256": "bd201f6fc48913e08adc4604d00d51f2d900c7a2ab9effb629730c019c2e3a40"
+  },
+  {
+    "original": "cad files/Design Data/Materials/InventorMaterialLibrary-csy.xlf",
+    "repository_path": "cad/inventor/original/Design Data/Materials/InventorMaterialLibrary-csy.xlf",
+    "bytes": 1271606,
+    "sha256": "fb6616f7c7a676216a65c96da8ed08fa89e07dc3d9fbd82f38199b6b46bf6e8b"
+  },
+  {
+    "original": "cad files/Design Data/Materials/InventorMaterialLibrary-deu.xlf",
+    "repository_path": "cad/inventor/original/Design Data/Materials/InventorMaterialLibrary-deu.xlf",
+    "bytes": 1255688,
+    "sha256": "01c0376d8fbe2728f77f74ae768c3f4e4084075f6aaf9ad9b6299d572e1a878f"
+  },
+  {
+    "original": "cad files/Design Data/Materials/InventorMaterialLibrary-eng.xlf",
+    "repository_path": "cad/inventor/original/Design Data/Materials/InventorMaterialLibrary-eng.xlf",
+    "bytes": 1226551,
+    "sha256": "d5732bcce30a2cd88e251b20e9aea4f607c9b7ba974de53000ecfe987893a389"
+  },
+  {
+    "original": "cad files/Design Data/Materials/InventorMaterialLibrary-esp.xlf",
+    "repository_path": "cad/inventor/original/Design Data/Materials/InventorMaterialLibrary-esp.xlf",
+    "bytes": 1261694,
+    "sha256": "6349ff4adc52e7d7a9a7fc7870104f7c5380b126522ec75ad485781c041c1763"
+  },
+  {
+    "original": "cad files/Design Data/Materials/InventorMaterialLibrary-fra.xlf",
+    "repository_path": "cad/inventor/original/Design Data/Materials/InventorMaterialLibrary-fra.xlf",
+    "bytes": 1260074,
+    "sha256": "0cffd093c8a0680e4b7eeae6e7cc69cb9b491c8947409b7a0b73ac3c777a5b8a"
+  },
+  {
+    "original": "cad files/Design Data/Materials/InventorMaterialLibrary-hun.xlf",
+    "repository_path": "cad/inventor/original/Design Data/Materials/InventorMaterialLibrary-hun.xlf",
+    "bytes": 951916,
+    "sha256": "92db681a6c4ecbeaed5599be0b78c57d6a9b4b508da2c6e57c72092898a07c56"
+  },
+  {
+    "original": "cad files/Design Data/Materials/InventorMaterialLibrary-ita.xlf",
+    "repository_path": "cad/inventor/original/Design Data/Materials/InventorMaterialLibrary-ita.xlf",
+    "bytes": 1270241,
+    "sha256": "af7e7773e101ef8254a613bbb739bff103135d9af9751fd36943264d6ae51bff"
+  },
+  {
+    "original": "cad files/Design Data/Materials/InventorMaterialLibrary-jpn.xlf",
+    "repository_path": "cad/inventor/original/Design Data/Materials/InventorMaterialLibrary-jpn.xlf",
+    "bytes": 1293078,
+    "sha256": "0b2b1285a73af58f45e9bedf2c50c8e390675d377b3438e886bad74104b12087"
+  },
+  {
+    "original": "cad files/Design Data/Materials/InventorMaterialLibrary-kor.xlf",
+    "repository_path": "cad/inventor/original/Design Data/Materials/InventorMaterialLibrary-kor.xlf",
+    "bytes": 1253721,
+    "sha256": "3c4a9adee99a264e0b71b8e1bce06b04c7fe7786b4ed51663b45f8e12cf0981f"
+  },
+  {
+    "original": "cad files/Design Data/Materials/InventorMaterialLibrary-plk.xlf",
+    "repository_path": "cad/inventor/original/Design Data/Materials/InventorMaterialLibrary-plk.xlf",
+    "bytes": 1281440,
+    "sha256": "9568844cd7622d8dfc27ba6ab23a93b64608a03eca0a020f7d123c31554c710c"
+  },
+  {
+    "original": "cad files/Design Data/Materials/InventorMaterialLibrary-ptb.xlf",
+    "repository_path": "cad/inventor/original/Design Data/Materials/InventorMaterialLibrary-ptb.xlf",
+    "bytes": 1260672,
+    "sha256": "6c0b6940f3deecef35ae06d7cf274ab11504e5d6161cfef5827933513cd43424"
+  },
+  {
+    "original": "cad files/Design Data/Materials/InventorMaterialLibrary-rus.xlf",
+    "repository_path": "cad/inventor/original/Design Data/Materials/InventorMaterialLibrary-rus.xlf",
+    "bytes": 1468319,
+    "sha256": "3cab5a2f83e6d0d942b2a9ca5555ddba5b62e3a472a10a3dccce97f35a8be4be"
+  },
+  {
+    "original": "cad files/Design Data/Materials/InventorMaterialLibrary.adsklib",
+    "repository_path": "cad/inventor/original/Design Data/Materials/InventorMaterialLibrary.adsklib",
+    "bytes": 163186,
+    "sha256": "cd9078ebd2f20425677e0c40de5c64aeb5df702895fe9a69f6444b49c958e6f7"
+  },
+  {
+    "original": "cad files/Design Data/AIT/Mold Design/mold design stop pin.ipt",
+    "repository_path": "cad/inventor/original/Design Data/AIT/Mold Design/mold design stop pin.ipt",
+    "bytes": 201728,
+    "sha256": "9084803fa98274c6a607b6eb47697fbc70dc2b3eef672ef68600be35758e9616"
+  },
+  {
+    "original": "cad files/Design Data/AIT/AIT Library/Configuration/mold base.xml",
+    "repository_path": "cad/inventor/original/Design Data/AIT/AIT Library/Configuration/mold base.xml",
+    "bytes": 115608,
+    "sha256": "54f33c597f4f6ac6f2f446a56a49db2ff9e74df54ab767811a2d8a65a4bbd6e3"
+  },
+  {
+    "original": "cad files/Design Data/Cable & Harness/en-US/Cable&HarnessDefaultLibrary.iwl",
+    "repository_path": "cad/inventor/original/Design Data/Cable & Harness/en-US/Cable&HarnessDefaultLibrary.iwl",
+    "bytes": 421800,
+    "sha256": "f50c00ab14fcfcb73fe8acd1977a567dfa9f72f24284a55d7545ffaebdac4a5f"
+  },
+  {
+    "original": "cad files/Design Data/Cable & Harness/en-US/harness.iam",
+    "repository_path": "cad/inventor/original/Design Data/Cable & Harness/en-US/harness.iam",
+    "bytes": 241152,
+    "sha256": "d8ff329ff402f380496e1131f8b90cc8d8647ca101b4ccec88b1d49da85e4278"
+  },
+  {
+    "original": "cad files/Design Data/Content Center/Settings/Favorites.xml",
+    "repository_path": "cad/inventor/original/Design Data/Content Center/Settings/Favorites.xml",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "cad files/Design Data/Dictionaries/Custom/Custom.cus",
+    "repository_path": "cad/inventor/original/Design Data/Dictionaries/Custom/Custom.cus",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "cad files/Design Data/GOST/en-US/Defaults.ini",
+    "repository_path": "cad/inventor/original/Design Data/GOST/en-US/Defaults.ini",
+    "bytes": 3818,
+    "sha256": "c7feacaee4dd8a0da2d336acc8610eeebb1c465e73ce99f8cfd791050909143f"
+  },
+  {
+    "original": "cad files/Design Data/GOST/en-US/MaterialsFavorites.xml",
+    "repository_path": "cad/inventor/original/Design Data/GOST/en-US/MaterialsFavorites.xml",
+    "bytes": 2544,
+    "sha256": "4462264fe7cd8997a98567b9544c4d195d7ae7e8268d1889b2ec75a28b1ab204"
+  },
+  {
+    "original": "cad files/Design Data/GOST/en-US/PartsListGroup1.xls",
+    "repository_path": "cad/inventor/original/Design Data/GOST/en-US/PartsListGroup1.xls",
+    "bytes": 67072,
+    "sha256": "8f586ddb21d7c58c67a208ff27bad7933fca0db7c9b98dd5741b1be98e0c05e6"
+  },
+  {
+    "original": "cad files/Design Data/GOST/en-US/PartsListGroup1b.xls",
+    "repository_path": "cad/inventor/original/Design Data/GOST/en-US/PartsListGroup1b.xls",
+    "bytes": 73216,
+    "sha256": "eeb1a512d2a7cff07ad2269e36e00be0fd236504ca538955b8667159b704d39f"
+  },
+  {
+    "original": "cad files/Design Data/GOST/en-US/PartsListTemplate.xls",
+    "repository_path": "cad/inventor/original/Design Data/GOST/en-US/PartsListTemplate.xls",
+    "bytes": 56320,
+    "sha256": "fcef158172a5e5321e1277a4721ac419d377dddc3c142fd4188bc40d92ff3626"
+  },
+  {
+    "original": "cad files/Design Data/GOST/en-US/WeldFavorites.ini",
+    "repository_path": "cad/inventor/original/Design Data/GOST/en-US/WeldFavorites.ini",
+    "bytes": 988,
+    "sha256": "2174301f5eceaa395107433070a11506e64eb18479356b24dd69519700bf456d"
+  },
+  {
+    "original": "cad files/Design Data/GOST/Technical Requirements.Base/Assembly drawings.tr",
+    "repository_path": "cad/inventor/original/Design Data/GOST/Technical Requirements.Base/Assembly drawings.tr",
+    "bytes": 2822,
+    "sha256": "1836f6eb75b29434885821a2f2aee4fe06b3a60bdbddd33641e5e93bf07dedb1"
+  },
+  {
+    "original": "cad files/Design Data/GOST/Technical Requirements.Base/Cold punching parts.tr",
+    "repository_path": "cad/inventor/original/Design Data/GOST/Technical Requirements.Base/Cold punching parts.tr",
+    "bytes": 1576,
+    "sha256": "dcbd198883a3304d4166bcdccb8c7c4416084faf65921795c38f399ba8c37b63"
+  },
+  {
+    "original": "cad files/Design Data/GOST/Technical Requirements.Base/Electrical cases.tr",
+    "repository_path": "cad/inventor/original/Design Data/GOST/Technical Requirements.Base/Electrical cases.tr",
+    "bytes": 2186,
+    "sha256": "ae8003948a4723fbb4c5c6fd8eb55fb149d41f193489305f324ba75a664f0995"
+  },
+  {
+    "original": "cad files/Design Data/GOST/Technical Requirements.Base/Forged parts.tr",
+    "repository_path": "cad/inventor/original/Design Data/GOST/Technical Requirements.Base/Forged parts.tr",
+    "bytes": 1558,
+    "sha256": "550149a1a6c925bfc8cbf4a4e08ab88de60ba18197cfa47fcf3eb535d7889aa8"
+  },
+  {
+    "original": "cad files/Design Data/GOST/Technical Requirements.Base/Mechanical parts.tr",
+    "repository_path": "cad/inventor/original/Design Data/GOST/Technical Requirements.Base/Mechanical parts.tr",
+    "bytes": 2170,
+    "sha256": "87f3142d395afb40dc42dc778affc9641f3913ec47cfbd73362055151e928689"
+  },
+  {
+    "original": "cad files/Design Data/GOST/Technical Requirements.Base/Mold parts.tr",
+    "repository_path": "cad/inventor/original/Design Data/GOST/Technical Requirements.Base/Mold parts.tr",
+    "bytes": 2568,
+    "sha256": "3e7f473b0058b6be715229106c22528485bb4d536434f30f533b0e84f87e7fae"
+  },
+  {
+    "original": "cad files/Design Data/GOST/Technical Requirements.Base/Pipes.tr",
+    "repository_path": "cad/inventor/original/Design Data/GOST/Technical Requirements.Base/Pipes.tr",
+    "bytes": 1194,
+    "sha256": "4a7b1dad5dba29cd99b454bb149d14ab0cb2a7fddf904b06134feb5848ead0b4"
+  },
+  {
+    "original": "cad files/Design Data/GOST/Technical Requirements.Base/Steel mold parts.tr",
+    "repository_path": "cad/inventor/original/Design Data/GOST/Technical Requirements.Base/Steel mold parts.tr",
+    "bytes": 2084,
+    "sha256": "40f3e446eaef03a69c126507d7a952262659870a63adf2020e17ccb937877146"
+  },
+  {
+    "original": "cad files/Design Data/GOST/Technical Requirements.Base/Surface coatings.tr",
+    "repository_path": "cad/inventor/original/Design Data/GOST/Technical Requirements.Base/Surface coatings.tr",
+    "bytes": 384,
+    "sha256": "2f2cb767a15384a87809f2d388a98338043984b53af0d2b82b1357243655a23c"
+  },
+  {
+    "original": "cad files/Design Data/GOST/Technical Requirements.Base/Weld assemblies.tr",
+    "repository_path": "cad/inventor/original/Design Data/GOST/Technical Requirements.Base/Weld assemblies.tr",
+    "bytes": 1154,
+    "sha256": "5b39675f3e3e90736c7e8a674722919138558e4843daf8ce8e05fdd5ebe59baf"
+  },
+  {
+    "original": "cad files/Design Data/GOST/Technical Requirements/en-US/Assembly drawings.tr",
+    "repository_path": "cad/inventor/original/Design Data/GOST/Technical Requirements/en-US/Assembly drawings.tr",
+    "bytes": 2822,
+    "sha256": "1836f6eb75b29434885821a2f2aee4fe06b3a60bdbddd33641e5e93bf07dedb1"
+  },
+  {
+    "original": "cad files/Design Data/GOST/Technical Requirements/en-US/Cold punching parts.tr",
+    "repository_path": "cad/inventor/original/Design Data/GOST/Technical Requirements/en-US/Cold punching parts.tr",
+    "bytes": 1576,
+    "sha256": "dcbd198883a3304d4166bcdccb8c7c4416084faf65921795c38f399ba8c37b63"
+  },
+  {
+    "original": "cad files/Design Data/GOST/Technical Requirements/en-US/Electrical cases.tr",
+    "repository_path": "cad/inventor/original/Design Data/GOST/Technical Requirements/en-US/Electrical cases.tr",
+    "bytes": 2186,
+    "sha256": "ae8003948a4723fbb4c5c6fd8eb55fb149d41f193489305f324ba75a664f0995"
+  },
+  {
+    "original": "cad files/Design Data/GOST/Technical Requirements/en-US/Forged parts.tr",
+    "repository_path": "cad/inventor/original/Design Data/GOST/Technical Requirements/en-US/Forged parts.tr",
+    "bytes": 1558,
+    "sha256": "550149a1a6c925bfc8cbf4a4e08ab88de60ba18197cfa47fcf3eb535d7889aa8"
+  },
+  {
+    "original": "cad files/Design Data/GOST/Technical Requirements/en-US/Mechanical parts.tr",
+    "repository_path": "cad/inventor/original/Design Data/GOST/Technical Requirements/en-US/Mechanical parts.tr",
+    "bytes": 2170,
+    "sha256": "87f3142d395afb40dc42dc778affc9641f3913ec47cfbd73362055151e928689"
+  },
+  {
+    "original": "cad files/Design Data/GOST/Technical Requirements/en-US/Mold parts.tr",
+    "repository_path": "cad/inventor/original/Design Data/GOST/Technical Requirements/en-US/Mold parts.tr",
+    "bytes": 2568,
+    "sha256": "3e7f473b0058b6be715229106c22528485bb4d536434f30f533b0e84f87e7fae"
+  },
+  {
+    "original": "cad files/Design Data/GOST/Technical Requirements/en-US/Pipes.tr",
+    "repository_path": "cad/inventor/original/Design Data/GOST/Technical Requirements/en-US/Pipes.tr",
+    "bytes": 1194,
+    "sha256": "4a7b1dad5dba29cd99b454bb149d14ab0cb2a7fddf904b06134feb5848ead0b4"
+  },
+  {
+    "original": "cad files/Design Data/GOST/Technical Requirements/en-US/Steel mold parts.tr",
+    "repository_path": "cad/inventor/original/Design Data/GOST/Technical Requirements/en-US/Steel mold parts.tr",
+    "bytes": 2084,
+    "sha256": "40f3e446eaef03a69c126507d7a952262659870a63adf2020e17ccb937877146"
+  },
+  {
+    "original": "cad files/Design Data/GOST/Technical Requirements/en-US/Surface coatings.tr",
+    "repository_path": "cad/inventor/original/Design Data/GOST/Technical Requirements/en-US/Surface coatings.tr",
+    "bytes": 384,
+    "sha256": "2f2cb767a15384a87809f2d388a98338043984b53af0d2b82b1357243655a23c"
+  },
+  {
+    "original": "cad files/Design Data/GOST/Technical Requirements/en-US/Weld assemblies.tr",
+    "repository_path": "cad/inventor/original/Design Data/GOST/Technical Requirements/en-US/Weld assemblies.tr",
+    "bytes": 1154,
+    "sha256": "5b39675f3e3e90736c7e8a674722919138558e4843daf8ce8e05fdd5ebe59baf"
+  },
+  {
+    "original": "cad files/Design Data/Materials/InventorMaterialLibrary.fbm/Graphics/GraphicsUI.xml",
+    "repository_path": "cad/inventor/original/Design Data/Materials/InventorMaterialLibrary.fbm/Graphics/GraphicsUI.xml",
+    "bytes": 3669,
+    "sha256": "0aee14899d9a030d3fa50550af5eb0c6089155cbf63d7bea289b7cc98cc3a462"
+  },
+  {
+    "original": "cad files/Design Data/Materials/InventorMaterialLibrary.fbm/PhysicalMat/PhysMatUI.xml",
+    "repository_path": "cad/inventor/original/Design Data/Materials/InventorMaterialLibrary.fbm/PhysicalMat/PhysMatUI.xml",
+    "bytes": 3080,
+    "sha256": "9a1f267b75531269bbdf3ba6c79a0297ceb5c44ff297b56d2d9bb3804c0d8a92"
+  },
+  {
+    "original": "cad files/Design Data/Materials/InventorMaterialLibrary.fbm/schema_files/CommonSchema.xml",
+    "repository_path": "cad/inventor/original/Design Data/Materials/InventorMaterialLibrary.fbm/schema_files/CommonSchema.xml",
+    "bytes": 2317,
+    "sha256": "d7dd5ae9a508076a1a3d12b7c74b01125990a4ab190d8d76aac7f951dfc9a702"
+  },
+  {
+    "original": "cad files/Design Data/Materials/InventorMaterialLibrary.fbm/schema_files/PhysMatSchema.xml",
+    "repository_path": "cad/inventor/original/Design Data/Materials/InventorMaterialLibrary.fbm/schema_files/PhysMatSchema.xml",
+    "bytes": 3622,
+    "sha256": "eeb4d626c5f7aff8db50eda59cdb5fa56757212466734894e5ff001291e92d73"
+  },
+  {
+    "original": "cad files/Design Data/Materials/InventorMaterialLibrary.fbm/schema_files/StructuralCommonSchema.xml",
+    "repository_path": "cad/inventor/original/Design Data/Materials/InventorMaterialLibrary.fbm/schema_files/StructuralCommonSchema.xml",
+    "bytes": 1926,
+    "sha256": "ac1f0b878b6901ddda6b8c5c4f2d4e3d5932a9d34203cd267986c56c5f54114c"
+  },
+  {
+    "original": "cad files/Design Data/Materials/InventorMaterialLibrary.fbm/schema_files/StructuralConcreteSchema.xml",
+    "repository_path": "cad/inventor/original/Design Data/Materials/InventorMaterialLibrary.fbm/schema_files/StructuralConcreteSchema.xml",
+    "bytes": 1185,
+    "sha256": "f0d091981609d60039784b358c2513bc5885adb81fa92eaf279a258bdc6635f6"
+  },
+  {
+    "original": "cad files/Design Data/Materials/InventorMaterialLibrary.fbm/schema_files/StructuralFatigueSchema.xml",
+    "repository_path": "cad/inventor/original/Design Data/Materials/InventorMaterialLibrary.fbm/schema_files/StructuralFatigueSchema.xml",
+    "bytes": 5560,
+    "sha256": "e69521685da91bb45a51c12cb6511977bf9729a5cb4493a6256730087883d06b"
+  },
+  {
+    "original": "cad files/Design Data/Materials/InventorMaterialLibrary.fbm/schema_files/StructuralGenericSchema.xml",
+    "repository_path": "cad/inventor/original/Design Data/Materials/InventorMaterialLibrary.fbm/schema_files/StructuralGenericSchema.xml",
+    "bytes": 616,
+    "sha256": "a706cf60997d57bacd0f30e924273badf37b5027e7f77d93319955a6272a8d37"
+  },
+  {
+    "original": "cad files/Design Data/Materials/InventorMaterialLibrary.fbm/schema_files/StructuralMetalSchema.xml",
+    "repository_path": "cad/inventor/original/Design Data/Materials/InventorMaterialLibrary.fbm/schema_files/StructuralMetalSchema.xml",
+    "bytes": 723,
+    "sha256": "0df2429af8d9ef652c118c7dbb7c9b9eaa13d00a914d30585fab27c21dcf7881"
+  },
+  {
+    "original": "cad files/Design Data/Materials/InventorMaterialLibrary.fbm/schema_files/StructuralNonlinearSchema.xml",
+    "repository_path": "cad/inventor/original/Design Data/Materials/InventorMaterialLibrary.fbm/schema_files/StructuralNonlinearSchema.xml",
+    "bytes": 11473,
+    "sha256": "82243d85ff24a0c80828598ffb2b1d43a4b6d3c6d984d3ce5ee0c069d0039ed1"
+  },
+  {
+    "original": "cad files/Design Data/Materials/InventorMaterialLibrary.fbm/schema_files/StructuralPlasticSchema.xml",
+    "repository_path": "cad/inventor/original/Design Data/Materials/InventorMaterialLibrary.fbm/schema_files/StructuralPlasticSchema.xml",
+    "bytes": 616,
+    "sha256": "9bf7d858e3c4bbb3f9183da46d3a3fc28f148e96348c872ed1b3d13358979017"
+  },
+  {
+    "original": "cad files/Design Data/Materials/InventorMaterialLibrary.fbm/schema_files/StructuralWoodSchema.xml",
+    "repository_path": "cad/inventor/original/Design Data/Materials/InventorMaterialLibrary.fbm/schema_files/StructuralWoodSchema.xml",
+    "bytes": 3032,
+    "sha256": "a042c104e17042cfd9c3d3df8de80dbf785c7b9caf4b76723f3a77b5f2000ac5"
+  },
+  {
+    "original": "cad files/Design Data/Materials/InventorMaterialLibrary.fbm/schema_files/ThermalCommonSchema.xml",
+    "repository_path": "cad/inventor/original/Design Data/Materials/InventorMaterialLibrary.fbm/schema_files/ThermalCommonSchema.xml",
+    "bytes": 1987,
+    "sha256": "cc9b0fca39acbd57a43a911a6914b251410c479feced3bc7b7f71961d857b609"
+  },
+  {
+    "original": "cad files/Design Data/Materials/InventorMaterialLibrary.fbm/schema_files/ThermalGasSchema.xml",
+    "repository_path": "cad/inventor/original/Design Data/Materials/InventorMaterialLibrary.fbm/schema_files/ThermalGasSchema.xml",
+    "bytes": 1003,
+    "sha256": "28e522326a867502acfd0139348c0c33783bfff77a11bbf701b371b60d403cf3"
+  },
+  {
+    "original": "cad files/Design Data/Materials/InventorMaterialLibrary.fbm/schema_files/ThermalLiquidSchema.xml",
+    "repository_path": "cad/inventor/original/Design Data/Materials/InventorMaterialLibrary.fbm/schema_files/ThermalLiquidSchema.xml",
+    "bytes": 1507,
+    "sha256": "a6c77abda32eddbd2b2d8fa8f5bb75e8c85d24a79c7e459f13522ebda63709d8"
+  },
+  {
+    "original": "cad files/Design Data/Materials/InventorMaterialLibrary.fbm/schema_files/ThermalSolidSchema.xml",
+    "repository_path": "cad/inventor/original/Design Data/Materials/InventorMaterialLibrary.fbm/schema_files/ThermalSolidSchema.xml",
+    "bytes": 2636,
+    "sha256": "0aabfd642b3e44a05fe2680f4176269fbdaa1e6dfa9fe03022c227dd7bedbda6"
+  },
+  {
+    "original": "cad files/Design Data/Materials/InventorMaterialLibrary.fbm/Structural/Basic/BasicStructuralUI.xml",
+    "repository_path": "cad/inventor/original/Design Data/Materials/InventorMaterialLibrary.fbm/Structural/Basic/BasicStructuralUI.xml",
+    "bytes": 1692,
+    "sha256": "2b96f450efa71e0822ddbca2b5125972af7a24109d94fd98ccaad866123eaf22"
+  },
+  {
+    "original": "cad files/Design Data/Materials/InventorMaterialLibrary.fbm/Structural/Concrete/ConcreteStructuralUI.xml",
+    "repository_path": "cad/inventor/original/Design Data/Materials/InventorMaterialLibrary.fbm/Structural/Concrete/ConcreteStructuralUI.xml",
+    "bytes": 12989,
+    "sha256": "e03e1f35f0d4742e6bb0cb75fb1992e56dda6541d9620109e0ff6696cdf4f7a4"
+  },
+  {
+    "original": "cad files/Design Data/Materials/InventorMaterialLibrary.fbm/Structural/Fatigue/FatigueStructuralUI.xml",
+    "repository_path": "cad/inventor/original/Design Data/Materials/InventorMaterialLibrary.fbm/Structural/Fatigue/FatigueStructuralUI.xml",
+    "bytes": 4616,
+    "sha256": "4eab9b01adb2ab97fa7735ba2bdee519939413d20b4f6dd35f525b9bfc19d742"
+  },
+  {
+    "original": "cad files/Design Data/Materials/InventorMaterialLibrary.fbm/Structural/Gas/GasStructuralUI.xml",
+    "repository_path": "cad/inventor/original/Design Data/Materials/InventorMaterialLibrary.fbm/Structural/Gas/GasStructuralUI.xml",
+    "bytes": 1952,
+    "sha256": "a8607e2610c42b52cf412a78823ba32eaca8292a4399fea5088cfa651c2c2e57"
+  },
+  {
+    "original": "cad files/Design Data/Materials/InventorMaterialLibrary.fbm/Structural/Generic/GenericStructuralUI.xml",
+    "repository_path": "cad/inventor/original/Design Data/Materials/InventorMaterialLibrary.fbm/Structural/Generic/GenericStructuralUI.xml",
+    "bytes": 12543,
+    "sha256": "9065564aaebb23f0854e7dced3b5e9fed71040070b4653475772d3505f886002"
+  },
+  {
+    "original": "cad files/Design Data/Materials/InventorMaterialLibrary.fbm/Structural/Metal/MetalStructuralUI.xml",
+    "repository_path": "cad/inventor/original/Design Data/Materials/InventorMaterialLibrary.fbm/Structural/Metal/MetalStructuralUI.xml",
+    "bytes": 12672,
+    "sha256": "301c24a2c2cdfacd350d57f85e0b89e644655026d9c138b99cb0689d0116b4ca"
+  },
+  {
+    "original": "cad files/Design Data/Materials/InventorMaterialLibrary.fbm/Structural/Nonlinear/NonlinearStructuralUI.xml",
+    "repository_path": "cad/inventor/original/Design Data/Materials/InventorMaterialLibrary.fbm/Structural/Nonlinear/NonlinearStructuralUI.xml",
+    "bytes": 9764,
+    "sha256": "663676a78c22444437a0c3d5d476ea442343706d3fb31ff9f3c4b3f0bd756849"
+  },
+  {
+    "original": "cad files/Design Data/Materials/InventorMaterialLibrary.fbm/Structural/Plastic/PlasticStructuralUI.xml",
+    "repository_path": "cad/inventor/original/Design Data/Materials/InventorMaterialLibrary.fbm/Structural/Plastic/PlasticStructuralUI.xml",
+    "bytes": 12565,
+    "sha256": "f728ff42303a1cc9cdc05c8eb6d282c93a830929f6d35607bb65fa1520d5c193"
+  },
+  {
+    "original": "cad files/Design Data/Materials/InventorMaterialLibrary.fbm/Structural/Wood/WoodStructuralUI.xml",
+    "repository_path": "cad/inventor/original/Design Data/Materials/InventorMaterialLibrary.fbm/Structural/Wood/WoodStructuralUI.xml",
+    "bytes": 14859,
+    "sha256": "ab6369597bd510b471d2c6c814e842af435902e825c75c9ca1be64045e8261ad"
+  },
+  {
+    "original": "cad files/Design Data/Materials/InventorMaterialLibrary.fbm/Thermal/Gas/GasThermalUI.xml",
+    "repository_path": "cad/inventor/original/Design Data/Materials/InventorMaterialLibrary.fbm/Thermal/Gas/GasThermalUI.xml",
+    "bytes": 2215,
+    "sha256": "68e9ef0eb31641cf797e3570da3a4f450072fcf90333c15a7d4263ee2368a0d6"
+  },
+  {
+    "original": "cad files/Design Data/Materials/InventorMaterialLibrary.fbm/Thermal/Liquid/LiquidThermalUI.xml",
+    "repository_path": "cad/inventor/original/Design Data/Materials/InventorMaterialLibrary.fbm/Thermal/Liquid/LiquidThermalUI.xml",
+    "bytes": 2681,
+    "sha256": "2094e823369cd7300b8da653d9b61f3ef1b639e2deea96f41e8c8b0f7fd137b9"
+  },
+  {
+    "original": "cad files/Design Data/Materials/InventorMaterialLibrary.fbm/Thermal/Solid/SolidThermalUI.xml",
+    "repository_path": "cad/inventor/original/Design Data/Materials/InventorMaterialLibrary.fbm/Thermal/Solid/SolidThermalUI.xml",
+    "bytes": 4218,
+    "sha256": "4130e74250379cdfd15dcd0e9623753a538db7fcc3d4aafa73dbc212f7c44faa"
+  },
+  {
+    "original": "cad files/Design Data/Simulation/Report/Autodesk_Logo_Black.png",
+    "repository_path": "cad/inventor/original/Design Data/Simulation/Report/Autodesk_Logo_Black.png",
+    "bytes": 2636,
+    "sha256": "64a2710bc027197c1ef3ecf84e62e3bca4b6f0e8acc249b85cb3197c7b43b467"
+  },
+  {
+    "original": "cad files/Design Data/Simulation/Report/Configuration.htm",
+    "repository_path": "cad/inventor/original/Design Data/Simulation/Report/Configuration.htm",
+    "bytes": 20338,
+    "sha256": "98e7360dc430fe4a4fe5e6b0845215c6d0b404896cc4ebedf8aa3f627367c6f3"
+  },
+  {
+    "original": "cad files/Design Data/Simulation/Report/Constraint.htm",
+    "repository_path": "cad/inventor/original/Design Data/Simulation/Report/Constraint.htm",
+    "bytes": 439,
+    "sha256": "05809f1e45eb39174dc91ce28477eb22e3febeddff5eea357f467c4e7e40326c"
+  },
+  {
+    "original": "cad files/Design Data/Simulation/Report/Contact.htm",
+    "repository_path": "cad/inventor/original/Design Data/Simulation/Report/Contact.htm",
+    "bytes": 185,
+    "sha256": "63941ca1e58a97dfa36dee47435a28ce742d97d1becc6596df74bca5a903431f"
+  },
+  {
+    "original": "cad files/Design Data/Simulation/Report/Figure.htm",
+    "repository_path": "cad/inventor/original/Design Data/Simulation/Report/Figure.htm",
+    "bytes": 224,
+    "sha256": "a9b8236ec0118d92fa26925bcf94c4eafab64e6e1dffdefe42446d07132b6e82"
+  },
+  {
+    "original": "cad files/Design Data/Simulation/Report/Load.htm",
+    "repository_path": "cad/inventor/original/Design Data/Simulation/Report/Load.htm",
+    "bytes": 419,
+    "sha256": "a1889fa4d2c2a91748798844e54f49f889b6eda4ea93a87a8aac5a8b10626f9f"
+  },
+  {
+    "original": "cad files/Design Data/Simulation/Report/Main.htm",
+    "repository_path": "cad/inventor/original/Design Data/Simulation/Report/Main.htm",
+    "bytes": 4602,
+    "sha256": "3b2ced8b29197fb5a22853a0d4013c40469c84874713d3b5e39610ee87b05638"
+  },
+  {
+    "original": "cad files/Design Data/Simulation/Report/Material.htm",
+    "repository_path": "cad/inventor/original/Design Data/Simulation/Report/Material.htm",
+    "bytes": 954,
+    "sha256": "d6e4da932df88f642722efb3ea65a7800f29e136bb7a8ab13ec34d43a738ef3e"
+  },
+  {
+    "original": "cad files/Design Data/Simulation/Report/ReactionForces.htm",
+    "repository_path": "cad/inventor/original/Design Data/Simulation/Report/ReactionForces.htm",
+    "bytes": 287,
+    "sha256": "d4c2fca87be6f4e8cadb7a2aaeea943a6e09231dec0d5ea5fd055bb301a6fb2c"
+  },
+  {
+    "original": "cad files/Design Data/Simulation/Report/Shell.htm",
+    "repository_path": "cad/inventor/original/Design Data/Simulation/Report/Shell.htm",
+    "bytes": 181,
+    "sha256": "654b04c07b3095631a74bc1bd206577de31e8d4a9f75fe19e1f7d5f0e64b73f4"
+  },
+  {
+    "original": "cad files/Design Data/Simulation/Report/Simulation.htm",
+    "repository_path": "cad/inventor/original/Design Data/Simulation/Report/Simulation.htm",
+    "bytes": 3880,
+    "sha256": "ddc1e68e2c55133253a3d871b2ad3114aa834e411f842d208a115c233b8ec5c2"
+  },
+  {
+    "original": "cad files/Design Data/Tube & Pipe/en-US/piping runs.iam",
+    "repository_path": "cad/inventor/original/Design Data/Tube & Pipe/en-US/piping runs.iam",
+    "bytes": 451072,
+    "sha256": "969ae8d5c2bd0b4834d7fdea8e65bcbdea56d593576399d4ac9ad039183c7926"
+  },
+  {
+    "original": "cad files/Design Data/XLS/en-US/clearance.xlsx",
+    "repository_path": "cad/inventor/original/Design Data/XLS/en-US/clearance.xlsx",
+    "bytes": 65729,
+    "sha256": "cdeb81ff6dea03dacff49741d06e3484142c25e82b61967ad58a3b1a7a4be1f2"
+  },
+  {
+    "original": "cad files/Design Data/XLS/en-US/thread.xlsx",
+    "repository_path": "cad/inventor/original/Design Data/XLS/en-US/thread.xlsx",
+    "bytes": 771102,
+    "sha256": "9765cc7ef69accd61196e650f2155a50ef7f55bec8f01db6069b18a1b1d1dee9"
+  },
+  {
+    "original": "cad files/Design Data/XML/en-US/finish.xml",
+    "repository_path": "cad/inventor/original/Design Data/XML/en-US/finish.xml",
+    "bytes": 4363,
+    "sha256": "b717ff5504a527a1b6013ef1fe629a6c75a4c511929cc60e2b725f038c75f439"
+  },
+  {
+    "original": "cad files/Libraries/Content Center Files/en-US/ANSI AFBMA 21.1 NT(2)/ANSI_AFBMA 21.1 NT - 08NT01(1).ipt",
+    "repository_path": "cad/inventor/original/Libraries/Content Center Files/en-US/ANSI AFBMA 21.1 NT(2)/ANSI_AFBMA 21.1 NT - 08NT01(1).ipt",
+    "bytes": 179712,
+    "sha256": "892f096b6c2a49b181c345ba1471094a73c832c770b9185c0b1975fdd2e824aa"
+  },
+  {
+    "original": "cad files/Libraries/Content Center Files/en-US/ANSI AFBMA 21.1 NTW/ANSI_AFBMA 21.1 NTW - 08NTW12 8 x 21 x 0.8.ipt",
+    "repository_path": "cad/inventor/original/Libraries/Content Center Files/en-US/ANSI AFBMA 21.1 NTW/ANSI_AFBMA 21.1 NTW - 08NTW12 8 x 21 x 0.8.ipt",
+    "bytes": 112128,
+    "sha256": "5179a81643d291a9ace965b852a0a59d67ae4ed339b4ccc0439db41ca79e34ed"
+  },
+  {
+    "original": "cad files/Libraries/Content Center Files/en-US/AS 1427(03)/AS 1427 - M2.5 x 10(1).ipt",
+    "repository_path": "cad/inventor/original/Libraries/Content Center Files/en-US/AS 1427(03)/AS 1427 - M2.5 x 10(1).ipt",
+    "bytes": 166912,
+    "sha256": "84b49629a636038f042cf39007e066d4ac900a79762c20156b7a9e66253c03bd"
+  },
+  {
+    "original": "cad files/Libraries/Content Center Files/en-US/AS 1427(04)/AS 1427 - M3 x 8(5) I.ipt",
+    "repository_path": "cad/inventor/original/Libraries/Content Center Files/en-US/AS 1427(04)/AS 1427 - M3 x 8(5) I.ipt",
+    "bytes": 227328,
+    "sha256": "9225b94c35b56e61c857ac6839f68afcba125cccb3609a2335402b1e316317f6"
+  },
+  {
+    "original": "cad files/Libraries/Content Center Files/en-US/AS 1427(04)/AS 1427 - M3.5 x 16(5) I.ipt",
+    "repository_path": "cad/inventor/original/Libraries/Content Center Files/en-US/AS 1427(04)/AS 1427 - M3.5 x 16(5) I.ipt",
+    "bytes": 224256,
+    "sha256": "b9295556156906bde3eaf462de475b3ada9c13c89b3928065e34c887698db24a"
+  },
+  {
+    "original": "cad files/Libraries/Content Center Files/en-US/AS 1427(04)/AS 1427 - M3.5 x 20(5) I.ipt",
+    "repository_path": "cad/inventor/original/Libraries/Content Center Files/en-US/AS 1427(04)/AS 1427 - M3.5 x 20(5) I.ipt",
+    "bytes": 221696,
+    "sha256": "dcaac71a874351b52f0ae2f41584c9a5491edd489fdfef5f6ddad6c151e1e418"
+  },
+  {
+    "original": "cad files/Libraries/Content Center Files/en-US/AS 1427(04)/AS 1427 - M3.5 x 8(5) I.ipt",
+    "repository_path": "cad/inventor/original/Libraries/Content Center Files/en-US/AS 1427(04)/AS 1427 - M3.5 x 8(5) I.ipt",
+    "bytes": 229376,
+    "sha256": "cd1e6c400a75d9bd90673ec9f091ed86153a7ba86c58b8cc76dc054714e22c37"
+  },
+  {
+    "original": "cad files/Templates/English/ANSI (in).dwg",
+    "repository_path": "cad/inventor/original/Templates/English/ANSI (in).dwg",
+    "bytes": 203944,
+    "sha256": "a91d07ceb945d6ea09d44117519594dc6afcf2843d7c4ed4525dabde7c73f18e"
+  },
+  {
+    "original": "cad files/Templates/English/ANSI (in).idw",
+    "repository_path": "cad/inventor/original/Templates/English/ANSI (in).idw",
+    "bytes": 203264,
+    "sha256": "53191f6f64be2a5cabbd4896dc130b41826b8794dad2ebf3099a6a7819dcb446"
+  },
+  {
+    "original": "cad files/Templates/English/Mold Design (in).iam",
+    "repository_path": "cad/inventor/original/Templates/English/Mold Design (in).iam",
+    "bytes": 227840,
+    "sha256": "b0053d73722cf702c2d05042bf728827327b7864a9e841a99b2161ea2b5ee56c"
+  },
+  {
+    "original": "cad files/Templates/English/Sheet Metal (in).ipt",
+    "repository_path": "cad/inventor/original/Templates/English/Sheet Metal (in).ipt",
+    "bytes": 77824,
+    "sha256": "7a048afade1e9c2c5392c1f024fcf22dd70b7714aec264fdcdf6ff14381b0911"
+  },
+  {
+    "original": "cad files/Templates/English/Standard (in).iam",
+    "repository_path": "cad/inventor/original/Templates/English/Standard (in).iam",
+    "bytes": 65536,
+    "sha256": "07bca72c7814ac1eaa2e49479788abf3f36dc0874ba2a511f62162f0828257ba"
+  },
+  {
+    "original": "cad files/Templates/English/Standard (in).ipn",
+    "repository_path": "cad/inventor/original/Templates/English/Standard (in).ipn",
+    "bytes": 196608,
+    "sha256": "a3e573963eae20ff4c75ee12007fd38469cad3dfb98ed396dcc2d61b6a9569fc"
+  },
+  {
+    "original": "cad files/Templates/English/Standard (in).ipt",
+    "repository_path": "cad/inventor/original/Templates/English/Standard (in).ipt",
+    "bytes": 71680,
+    "sha256": "81dec46fd5ca233ebdae12d72f5afd425f69eac6aa11361d89fc8ec6108a7efd"
+  },
+  {
+    "original": "cad files/Templates/English/Weldment (ANSI).iam",
+    "repository_path": "cad/inventor/original/Templates/English/Weldment (ANSI).iam",
+    "bytes": 351232,
+    "sha256": "db80c607957aab2b9b8da8aab4d458ccf25de7e3e1ee0e1d84c95cec9eac72ed"
+  },
+  {
+    "original": "cad files/Templates/Metric/ANSI (mm).dwg",
+    "repository_path": "cad/inventor/original/Templates/Metric/ANSI (mm).dwg",
+    "bytes": 200001,
+    "sha256": "f0a0e76626afc4024308892bf1367d6c5d22daa05cea8c9368cbff84e999207c"
+  },
+  {
+    "original": "cad files/Templates/Metric/ANSI (mm).idw",
+    "repository_path": "cad/inventor/original/Templates/Metric/ANSI (mm).idw",
+    "bytes": 192512,
+    "sha256": "5905f6fd7e851597ec31b6336e9b0dce5b25c588b9f4ab6814e636dd9d21c90c"
+  },
+  {
+    "original": "cad files/Templates/Metric/BSI.dwg",
+    "repository_path": "cad/inventor/original/Templates/Metric/BSI.dwg",
+    "bytes": 158658,
+    "sha256": "9085bc29bb9dd0cf3059818b499e0012965cfc4cc71158dd6db95fd0bb5d26ab"
+  },
+  {
+    "original": "cad files/Templates/Metric/BSI.idw",
+    "repository_path": "cad/inventor/original/Templates/Metric/BSI.idw",
+    "bytes": 151552,
+    "sha256": "e7df8240af100292b2fbd85bdceb54b2087784db74fe6ad1b01146a564e9bb53"
+  },
+  {
+    "original": "cad files/Templates/Metric/DIN.dwg",
+    "repository_path": "cad/inventor/original/Templates/Metric/DIN.dwg",
+    "bytes": 166911,
+    "sha256": "4753cc32103b479fbda240eb9d7158f446fa68976b715a8734c288c833962eb5"
+  },
+  {
+    "original": "cad files/Templates/Metric/DIN.idw",
+    "repository_path": "cad/inventor/original/Templates/Metric/DIN.idw",
+    "bytes": 160768,
+    "sha256": "476b04c37ff6a117c946438356441615e4460ea696a2ae74d182082e5f2cd965"
+  },
+  {
+    "original": "cad files/Templates/Metric/GB.dwg",
+    "repository_path": "cad/inventor/original/Templates/Metric/GB.dwg",
+    "bytes": 201832,
+    "sha256": "13585c95a83c227f50d6886eafab1ad0519d89a5ebeecd02e28744a85f293b48"
+  },
+  {
+    "original": "cad files/Templates/Metric/GB.idw",
+    "repository_path": "cad/inventor/original/Templates/Metric/GB.idw",
+    "bytes": 193536,
+    "sha256": "3689abd6d52b7586b1b0e8439f73735dff7670c13737aa215ee7e0bfc1516361"
+  },
+  {
+    "original": "cad files/Templates/Metric/GOST.dwg",
+    "repository_path": "cad/inventor/original/Templates/Metric/GOST.dwg",
+    "bytes": 263467,
+    "sha256": "06ad562c3a8ec8c76dee0840121f976806b0b442e0ef6458422982b5717b1c83"
+  },
+  {
+    "original": "cad files/Templates/Metric/GOST.idw",
+    "repository_path": "cad/inventor/original/Templates/Metric/GOST.idw",
+    "bytes": 262144,
+    "sha256": "50d683bc020450217d82f27222e1b55fc4743c1b11df22ea59a02765c5c8cf65"
+  },
+  {
+    "original": "cad files/Templates/Metric/ISO.dwg",
+    "repository_path": "cad/inventor/original/Templates/Metric/ISO.dwg",
+    "bytes": 156003,
+    "sha256": "7ab22231a69483ddaacfea0a445c64f3938fac9bf23d987f5fab24d486f5230c"
+  },
+  {
+    "original": "cad files/Templates/Metric/ISO.idw",
+    "repository_path": "cad/inventor/original/Templates/Metric/ISO.idw",
+    "bytes": 151040,
+    "sha256": "35a84c2dbbdff81efe20c472b2509e83eb1495c5ce7cb1f56448b120a28181e0"
+  },
+  {
+    "original": "cad files/Templates/Metric/JIS.dwg",
+    "repository_path": "cad/inventor/original/Templates/Metric/JIS.dwg",
+    "bytes": 162717,
+    "sha256": "35bd49a977ef02ed6142dfb51a28217d43008d2c22d500c939a813e548c5cd7d"
+  },
+  {
+    "original": "cad files/Templates/Metric/JIS.idw",
+    "repository_path": "cad/inventor/original/Templates/Metric/JIS.idw",
+    "bytes": 152576,
+    "sha256": "f1d899fac5cf64eca8125abff70a106a6c2c3c986acf4267229fc5b3039588fe"
+  },
+  {
+    "original": "cad files/Templates/Metric/Mold Design (DIN).iam",
+    "repository_path": "cad/inventor/original/Templates/Metric/Mold Design (DIN).iam",
+    "bytes": 228352,
+    "sha256": "7d97dc8de9c7b4d5dd9327a21dadb88113d91f852217690f0f219635970fd33b"
+  },
+  {
+    "original": "cad files/Templates/Metric/Mold Design (mm).iam",
+    "repository_path": "cad/inventor/original/Templates/Metric/Mold Design (mm).iam",
+    "bytes": 228352,
+    "sha256": "979907e7ea2181c585fd1d3fa880b48b120656a5941df3c1bb25f1f739cc6a75"
+  },
+  {
+    "original": "cad files/Templates/Metric/Sheet Metal (DIN).ipt",
+    "repository_path": "cad/inventor/original/Templates/Metric/Sheet Metal (DIN).ipt",
+    "bytes": 75776,
+    "sha256": "123a3d0c5edb35aab9e96e3e270cb00c409e665aa191030da5f967fc2f4337a0"
+  },
+  {
+    "original": "cad files/Templates/Metric/Sheet Metal (mm).ipt",
+    "repository_path": "cad/inventor/original/Templates/Metric/Sheet Metal (mm).ipt",
+    "bytes": 76800,
+    "sha256": "c43310b6a7fb520d974fc6d42e26a3c89e0abae9dda91ff935c2c571597082d7"
+  },
+  {
+    "original": "cad files/Templates/Metric/Standard (DIN).iam",
+    "repository_path": "cad/inventor/original/Templates/Metric/Standard (DIN).iam",
+    "bytes": 67072,
+    "sha256": "e20a7104a7dab05aaf9879a8f3ab0b3300897b26c12aadae47444e47a7c2e41a"
+  },
+  {
+    "original": "cad files/Templates/Metric/Standard (DIN).ipn",
+    "repository_path": "cad/inventor/original/Templates/Metric/Standard (DIN).ipn",
+    "bytes": 197120,
+    "sha256": "a3a9720c378ddf3e2703bff74461d187bd06b4531e1abd087bb34578f20a4b29"
+  },
+  {
+    "original": "cad files/Templates/Metric/Standard (DIN).ipt",
+    "repository_path": "cad/inventor/original/Templates/Metric/Standard (DIN).ipt",
+    "bytes": 71680,
+    "sha256": "71c436577783057229a44ce31bd000f96f56d35a558946c098faf6b092d6130c"
+  },
+  {
+    "original": "cad files/Templates/Metric/Standard (mm).iam",
+    "repository_path": "cad/inventor/original/Templates/Metric/Standard (mm).iam",
+    "bytes": 74752,
+    "sha256": "5349c031030a0d88721f3a1a13a2c8bceb76c9a1e28e1d475d6ebe79f714276a"
+  },
+  {
+    "original": "cad files/Templates/Metric/Standard (mm).ipn",
+    "repository_path": "cad/inventor/original/Templates/Metric/Standard (mm).ipn",
+    "bytes": 196608,
+    "sha256": "014c9c1696eb787bac21f35f8cd0452e7360d394b764f9363409bfe2e46fb4d4"
+  },
+  {
+    "original": "cad files/Templates/Metric/Standard (mm).ipt",
+    "repository_path": "cad/inventor/original/Templates/Metric/Standard (mm).ipt",
+    "bytes": 71168,
+    "sha256": "d32fcff9f2af8bd2736fe83b8d6d53e0a066d1d3b7881b6a51cf1714b33918d0"
+  },
+  {
+    "original": "cad files/Templates/Metric/Weldment (ANSI - mm).iam",
+    "repository_path": "cad/inventor/original/Templates/Metric/Weldment (ANSI - mm).iam",
+    "bytes": 351744,
+    "sha256": "aa7b1772941af03a94dcdb73e687e463704c1146d9ba6e51e2d89654e44e96ed"
+  },
+  {
+    "original": "cad files/Templates/Metric/Weldment (BSI).iam",
+    "repository_path": "cad/inventor/original/Templates/Metric/Weldment (BSI).iam",
+    "bytes": 351232,
+    "sha256": "cf9c24d3734458ede5d6aa3bc181fef92195303ff72e5644a54319eb2d516e4b"
+  },
+  {
+    "original": "cad files/Templates/Metric/Weldment (DIN).iam",
+    "repository_path": "cad/inventor/original/Templates/Metric/Weldment (DIN).iam",
+    "bytes": 351744,
+    "sha256": "81565daf0f29acf6c2de1694a375c2f00d4202690ff68ea40813c1dee7921f7c"
+  },
+  {
+    "original": "cad files/Templates/Metric/Weldment (GB).iam",
+    "repository_path": "cad/inventor/original/Templates/Metric/Weldment (GB).iam",
+    "bytes": 351744,
+    "sha256": "1af88f420475f9b51dd3bed8c91b5f8564d4074811546e13902b0a816b08dd20"
+  },
+  {
+    "original": "cad files/Templates/Metric/Weldment (ISO).iam",
+    "repository_path": "cad/inventor/original/Templates/Metric/Weldment (ISO).iam",
+    "bytes": 351232,
+    "sha256": "f5b88add092dcefbd431a3881de9ec39b556a931c9a970a99bd94cba055eec41"
+  },
+  {
+    "original": "cad files/Templates/Metric/Weldment (JIS).iam",
+    "repository_path": "cad/inventor/original/Templates/Metric/Weldment (JIS).iam",
+    "bytes": 351744,
+    "sha256": "23ad855a97803d25e46b2816678cd7a7d6c53f5ac583c5e0df7a7e44110799dd"
+  },
+  {
+    "original": "cad files/Templates/Mold Design/Mold Design.iam",
+    "repository_path": "cad/inventor/original/Templates/Mold Design/Mold Design.iam",
+    "bytes": 227840,
+    "sha256": "b0053d73722cf702c2d05042bf728827327b7864a9e841a99b2161ea2b5ee56c"
+  },
+  {
+    "original": "cad files/Templates/OldTemplates/Sheet Metal.ipt",
+    "repository_path": "cad/inventor/original/Templates/OldTemplates/Sheet Metal.ipt",
+    "bytes": 77824,
+    "sha256": "7a048afade1e9c2c5392c1f024fcf22dd70b7714aec264fdcdf6ff14381b0911"
+  },
+  {
+    "original": "cad files/Templates/OldTemplates/standard.dwg",
+    "repository_path": "cad/inventor/original/Templates/OldTemplates/standard.dwg",
+    "bytes": 203944,
+    "sha256": "a91d07ceb945d6ea09d44117519594dc6afcf2843d7c4ed4525dabde7c73f18e"
+  },
+  {
+    "original": "cad files/Templates/OldTemplates/Standard.iam",
+    "repository_path": "cad/inventor/original/Templates/OldTemplates/Standard.iam",
+    "bytes": 65536,
+    "sha256": "07bca72c7814ac1eaa2e49479788abf3f36dc0874ba2a511f62162f0828257ba"
+  },
+  {
+    "original": "cad files/Templates/OldTemplates/Standard.idw",
+    "repository_path": "cad/inventor/original/Templates/OldTemplates/Standard.idw",
+    "bytes": 203264,
+    "sha256": "53191f6f64be2a5cabbd4896dc130b41826b8794dad2ebf3099a6a7819dcb446"
+  },
+  {
+    "original": "cad files/Templates/OldTemplates/Standard.ipn",
+    "repository_path": "cad/inventor/original/Templates/OldTemplates/Standard.ipn",
+    "bytes": 196608,
+    "sha256": "a3e573963eae20ff4c75ee12007fd38469cad3dfb98ed396dcc2d61b6a9569fc"
+  },
+  {
+    "original": "cad files/Templates/OldTemplates/Standard.ipt",
+    "repository_path": "cad/inventor/original/Templates/OldTemplates/Standard.ipt",
+    "bytes": 71680,
+    "sha256": "81dec46fd5ca233ebdae12d72f5afd425f69eac6aa11361d89fc8ec6108a7efd"
+  },
+  {
+    "original": "cad files/Templates/OldTemplates/Weldment.iam",
+    "repository_path": "cad/inventor/original/Templates/OldTemplates/Weldment.iam",
+    "bytes": 351232,
+    "sha256": "db80c607957aab2b9b8da8aab4d458ccf25de7e3e1ee0e1d84c95cec9eac72ed"
+  },
+  {
+    "original": "cad files/Templates/Mold Design/OldTemplates/Mold Design.iam",
+    "repository_path": "cad/inventor/original/Templates/Mold Design/OldTemplates/Mold Design.iam",
+    "bytes": 227840,
+    "sha256": "b0053d73722cf702c2d05042bf728827327b7864a9e841a99b2161ea2b5ee56c"
+  },
+  {
+    "original": "cad files/Workgroups/NotInProject/Aluminum Alloy Flange Coupling, 4 mm SHAFT HO.ipt",
+    "repository_path": "cad/inventor/original/Workgroups/NotInProject/Aluminum Alloy Flange Coupling, 4 mm SHAFT HO.ipt",
+    "bytes": 235520,
+    "sha256": "344c979a7af456e3a8bc34c8e65f21b91e1ade4be1191d555a7a9e834ced9e89"
+  },
+  {
+    "original": "cad files/Workgroups/NotInProject/Female DC-Power-to-Screw-Terminals-Adapter.ipt",
+    "repository_path": "cad/inventor/original/Workgroups/NotInProject/Female DC-Power-to-Screw-Terminals-Adapter.ipt",
+    "bytes": 895488,
+    "sha256": "0986ed0b83c5d10b6ecdfba699d2f7bc1bc127ba6fb1528f587aabd617034df0"
+  },
+  {
+    "original": "cad files/Workgroups/NotInProject/Half-Size Breadboard.ipt",
+    "repository_path": "cad/inventor/original/Workgroups/NotInProject/Half-Size Breadboard.ipt",
+    "bytes": 2135552,
+    "sha256": "4685a5e570f7178526240f03c6d2795b0342f4fc2c5f4348f5351575ea730ffa"
+  },
+  {
+    "original": "cad files/Workgroups/NotInProject/motor_JGA25-370_EN_LR25.ipt",
+    "repository_path": "cad/inventor/original/Workgroups/NotInProject/motor_JGA25-370_EN_LR25.ipt",
+    "bytes": 783360,
+    "sha256": "3dccce24a38b2a68d217eaac17e94638d24c6a7c3ade09b73b5767542db4756f"
+  },
+  {
+    "original": "cad files/Workgroups/NotInProject/Rigid Coupling.ipt",
+    "repository_path": "cad/inventor/original/Workgroups/NotInProject/Rigid Coupling.ipt",
+    "bytes": 251904,
+    "sha256": "c29b5e5c2144b9412a543ce36457e2461a2ab6527d16a30a7d93ea319cdab26c"
+  },
+  {
+    "original": "cad files/Workgroups/NotInProject/Threaded insert M3x5x4.ipt",
+    "repository_path": "cad/inventor/original/Workgroups/NotInProject/Threaded insert M3x5x4.ipt",
+    "bytes": 994816,
+    "sha256": "0cfc42795022788db789bc16c4173d713b3a1a34672b37cabd002b66179d0b68"
+  },
+  {
+    "original": "cad files/Workgroups/NotInProject/Untitled.ipt",
+    "repository_path": "cad/inventor/original/Workgroups/NotInProject/Untitled.ipt",
+    "bytes": 3492352,
+    "sha256": "c5e9ba2c630f89d39b27c133a03affec6a774447cff5e314991bfd0febf0995a"
+  },
+  {
+    "original": "cad files/Workspaces/Workspace/Aluminum Alloy Flange Coupling, 4 mm SHAFT HO.ipt",
+    "repository_path": "cad/inventor/original/Workspaces/Workspace/Aluminum Alloy Flange Coupling, 4 mm SHAFT HO.ipt",
+    "bytes": 235520,
+    "sha256": "344c979a7af456e3a8bc34c8e65f21b91e1ade4be1191d555a7a9e834ced9e89"
+  },
+  {
+    "original": "cad files/Workspaces/Workspace/body.ipt",
+    "repository_path": "cad/inventor/original/Workspaces/Workspace/body.ipt",
+    "bytes": 634368,
+    "sha256": "a07352e28ea293cd952630e97ad58414e9bd158b873393e773887be146d6767c"
+  },
+  {
+    "original": "cad files/Workspaces/Workspace/bracket for encoder.ipt",
+    "repository_path": "cad/inventor/original/Workspaces/Workspace/bracket for encoder.ipt",
+    "bytes": 268288,
+    "sha256": "51f58d18afd433fa932741f5acfde3ec29cfb1db556802a9a60ba959d3414c76"
+  },
+  {
+    "original": "cad files/Workspaces/Workspace/cover for electrical box.ipt",
+    "repository_path": "cad/inventor/original/Workspaces/Workspace/cover for electrical box.ipt",
+    "bytes": 215040,
+    "sha256": "90d3f3287cbc1d36e61ed4ceb7248b33b5cd3e23f9513758c46fb9a439bcf886"
+  },
+  {
+    "original": "cad files/Workspaces/Workspace/cover.ipt",
+    "repository_path": "cad/inventor/original/Workspaces/Workspace/cover.ipt",
+    "bytes": 240128,
+    "sha256": "ff9810b8ba55a42108fc319fdd6c9f66a90adc8bcce90998f404f1772e386c03"
+  },
+  {
+    "original": "cad files/Workspaces/Workspace/Female DC-Power-to-Screw-Terminals-Adapter.ipt",
+    "repository_path": "cad/inventor/original/Workspaces/Workspace/Female DC-Power-to-Screw-Terminals-Adapter.ipt",
+    "bytes": 895488,
+    "sha256": "0986ed0b83c5d10b6ecdfba699d2f7bc1bc127ba6fb1528f587aabd617034df0"
+  },
+  {
+    "original": "cad files/Workspaces/Workspace/Half-Size Breadboard.ipt",
+    "repository_path": "cad/inventor/original/Workspaces/Workspace/Half-Size Breadboard.ipt",
+    "bytes": 2135552,
+    "sha256": "4685a5e570f7178526240f03c6d2795b0342f4fc2c5f4348f5351575ea730ffa"
+  },
+  {
+    "original": "cad files/Workspaces/Workspace/modern conttrol.iam",
+    "repository_path": "cad/inventor/original/Workspaces/Workspace/modern conttrol.iam",
+    "bytes": 3518464,
+    "sha256": "2efc33fffdcfbe974b0dc541ec2d390a0f98efe86dffadd1e3aaa64c1aa44acd"
+  },
+  {
+    "original": "cad files/Workspaces/Workspace/motor holder.ipt",
+    "repository_path": "cad/inventor/original/Workspaces/Workspace/motor holder.ipt",
+    "bytes": 280064,
+    "sha256": "c78c8e77f4c1c6ba7e6f4cc47a3b2a2f826ad672bda252019c9036b83cd75e39"
+  },
+  {
+    "original": "cad files/Workspaces/Workspace/motor_JGA25-370_EN_LR25.ipt",
+    "repository_path": "cad/inventor/original/Workspaces/Workspace/motor_JGA25-370_EN_LR25.ipt",
+    "bytes": 783360,
+    "sha256": "3dccce24a38b2a68d217eaac17e94638d24c6a7c3ade09b73b5767542db4756f"
+  },
+  {
+    "original": "cad files/Workspaces/Workspace/part.ipt",
+    "repository_path": "cad/inventor/original/Workspaces/Workspace/part.ipt",
+    "bytes": 281600,
+    "sha256": "bca90106eb90d2eaa5947c9138568e41bd8f1d36023813fd01613b62f31f37e9"
+  },
+  {
+    "original": "cad files/Workspaces/Workspace/Rigid Coupling.ipt",
+    "repository_path": "cad/inventor/original/Workspaces/Workspace/Rigid Coupling.ipt",
+    "bytes": 251904,
+    "sha256": "c29b5e5c2144b9412a543ce36457e2461a2ab6527d16a30a7d93ea319cdab26c"
+  },
+  {
+    "original": "cad files/Workspaces/Workspace/shaft.ipt",
+    "repository_path": "cad/inventor/original/Workspaces/Workspace/shaft.ipt",
+    "bytes": 221184,
+    "sha256": "72cb9a01459ba968a02078cd79c8b607fd7c2b8c21bf736c07a853907e146f98"
+  },
+  {
+    "original": "cad files/Workspaces/Workspace/Untitled.ipt",
+    "repository_path": "cad/inventor/original/Workspaces/Workspace/Untitled.ipt",
+    "bytes": 3492352,
+    "sha256": "c5e9ba2c630f89d39b27c133a03affec6a774447cff5e314991bfd0febf0995a"
+  },
+  {
+    "original": "cad files/Workspaces/Workspace/OldVersions/modern conttrol.0012.iam",
+    "repository_path": "cad/inventor/original/Workspaces/Workspace/OldVersions/modern conttrol.0012.iam",
+    "bytes": 404992,
+    "sha256": "5c4c29b9138ca60db6fbfda66883767302fba5cada06f82eb518784a2ec50dfd"
+  },
+  {
+    "original": "cad files/Workspaces/Workspace/38-pin-esp32-wroom-esp-32d-development-kit-1.snapshot.3/ESP32 WROOM/ESP32 WROOM.ipt",
+    "repository_path": "cad/inventor/original/Workspaces/Workspace/38-pin-esp32-wroom-esp-32d-development-kit-1.snapshot.3/ESP32 WROOM/ESP32 WROOM.ipt",
+    "bytes": 1346048,
+    "sha256": "25dda12ce7124b633d34f2dedff04d59a107ded21ddce3321d78f55affc2be1b"
+  },
+  {
+    "original": "cad files/Workspaces/Workspace/buck-converter-lm2596-output-5v-1.snapshot.7/LM2596_5V/LM2596_5V.ipt",
+    "repository_path": "cad/inventor/original/Workspaces/Workspace/buck-converter-lm2596-output-5v-1.snapshot.7/LM2596_5V/LM2596_5V.ipt",
+    "bytes": 1453056,
+    "sha256": "c989666817a67100e759d0f37519971ff1437f3fb1d0aeae4d38c3b63b9ac7b2"
+  },
+  {
+    "original": "cad files/Workspaces/Workspace/rotary-encoder-16.snapshot.5/Rotary Encoder/rotary encoder.ipt",
+    "repository_path": "cad/inventor/original/Workspaces/Workspace/rotary-encoder-16.snapshot.5/Rotary Encoder/rotary encoder.ipt",
+    "bytes": 206848,
+    "sha256": "ce74026ee52b86a44f127d625ec6c11432cc58b2b73618de668da06a14affe8c"
+  },
+  {
+    "original": "cad files/Workspaces/Workspace/threaded-insert-m3x5x4-1.snapshot.2/Threaded insert M3x5x4/Threaded insert M3x5x4.ipt",
+    "repository_path": "cad/inventor/original/Workspaces/Workspace/threaded-insert-m3x5x4-1.snapshot.2/Threaded insert M3x5x4/Threaded insert M3x5x4.ipt",
+    "bytes": 1011200,
+    "sha256": "37400536cbc8d75c78616799c9b60b3c1fbf7db2de66c347ff88714851850c8f"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/modern conttrol.ipj",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/modern conttrol.ipj",
+    "bytes": 10984,
+    "sha256": "b6b813c3ed8714b2746d70d6c52e0e2490deae4bbaad42e46eb756c8a63a52ac"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/modern conttrol.ipj.old",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/modern conttrol.ipj.old",
+    "bytes": 10574,
+    "sha256": "c629a8e81e0341662fb99df33c1b13d76f29481a236d68547a873faf149a83bd"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/packngo.log",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/packngo.log",
+    "bytes": 6556,
+    "sha256": "70a39e1b7718de93b6628d26061a8cb793062e88f0c3e50e2e46ee6092488dc6"
+  },
+  {
+    "original": "Week6_Submission/evidence/cad_copy_manifest.json",
+    "repository_path": "archive/previous_week6_package/evidence/cad_copy_manifest.json",
+    "bytes": 56468,
+    "sha256": "44bd639993b864e88e4f2cd835a675105e147173d5e5677fcef6c78fa5624073"
+  },
+  {
+    "original": "Week6_Submission/evidence/cad_inventory.json",
+    "repository_path": "archive/previous_week6_package/evidence/cad_inventory.json",
+    "bytes": 6238,
+    "sha256": "7e29c9e7a3bccf0fbc10ebde89ef69cdd672c1f048b0b75a3fd5fd8ea206b7e3"
+  },
+  {
+    "original": "Week6_Submission/evidence/delivery_verification.log",
+    "repository_path": "archive/previous_week6_package/evidence/delivery_verification.log",
+    "bytes": 335,
+    "sha256": "bae7f58ea125d080d3d904943c9c30a6d4e6b5a34e73ace4beca07b89d6ef5e6"
+  },
+  {
+    "original": "Week6_Submission/evidence/final_source_verification.json",
+    "repository_path": "archive/previous_week6_package/evidence/final_source_verification.json",
+    "bytes": 154,
+    "sha256": "9f8f1166a7da4ec9821fa902e07b61f8089ac6cd3effedbdb8d03e3bcf024018"
+  },
+  {
+    "original": "Week6_Submission/evidence/Furuta_Pendulum_Electrical_Connections_Report.pdf",
+    "repository_path": "archive/previous_week6_package/evidence/Furuta_Pendulum_Electrical_Connections_Report.pdf",
+    "bytes": 817212,
+    "sha256": "f116c9711b5bfff7a2219ece78e0c68e57ce84e0c35319021372612460248c26"
+  },
+  {
+    "original": "Week6_Submission/evidence/matlab_environment.log",
+    "repository_path": "archive/previous_week6_package/evidence/matlab_environment.log",
+    "bytes": 11537,
+    "sha256": "6b826d4a87d0230ad17028878ea8f3a8b418d4733f6313c3a2a5bfec13ac5757"
+  },
+  {
+    "original": "Week6_Submission/evidence/model_build.log",
+    "repository_path": "archive/previous_week6_package/evidence/model_build.log",
+    "bytes": 438,
+    "sha256": "3b2b77598595f3b5834492c109cbe53195ee9f4b018335a61d60cfda21bd296f"
+  },
+  {
+    "original": "Week6_Submission/evidence/modern conttrol 3 .png",
+    "repository_path": "archive/previous_week6_package/evidence/modern conttrol 3 .png",
+    "bytes": 675751,
+    "sha256": "2287cd11a80f7409e5df4d7028f0a6cc74dedbb229602c6870ea9628369090f6"
+  },
+  {
+    "original": "Week6_Submission/evidence/modern conttrol.png",
+    "repository_path": "archive/previous_week6_package/evidence/modern conttrol.png",
+    "bytes": 762690,
+    "sha256": "616ca2755d32127acb2a7f95df29f8d152353d1e0a6c90023ac5d47fdc943aa6"
+  },
+  {
+    "original": "Week6_Submission/evidence/packngo_log_audit.json",
+    "repository_path": "archive/previous_week6_package/evidence/packngo_log_audit.json",
+    "bytes": 8664,
+    "sha256": "1f8c3d70b3f95dcd36e96e30b43a6c9107121ff684f335ee460fa7d1216d2399"
+  },
+  {
+    "original": "Week6_Submission/matlab/build_analytical_model.m",
+    "repository_path": "archive/previous_week6_package/matlab/build_analytical_model.m",
+    "bytes": 1712,
+    "sha256": "ece53d32fc497c2e0af4f3c26e61718f0863ad1f646fcc312a3c2f5cd35634fd"
+  },
+  {
+    "original": "Week6_Submission/matlab/furuta_analytical.slx",
+    "repository_path": "archive/previous_week6_package/matlab/furuta_analytical.slx",
+    "bytes": 48280,
+    "sha256": "40e41da41978bfc945f1fa2946117c58e3a656087bcc7722dfd30a21ede9e6a9"
+  },
+  {
+    "original": "Week6_Submission/matlab/furuta_parameters.m",
+    "repository_path": "archive/previous_week6_package/matlab/furuta_parameters.m",
+    "bytes": 392,
+    "sha256": "94e962daba5d292df230954f0326316e1f95b900291a5baf986d202d96b5b58c"
+  },
+  {
+    "original": "Week6_Submission/matlab/furuta_rhs.m",
+    "repository_path": "archive/previous_week6_package/matlab/furuta_rhs.m",
+    "bytes": 545,
+    "sha256": "696f798f80b9ecc5dd3d41988aaa17b2ae1d11d02de37dd765394d0c2cbcf2a8"
+  },
+  {
+    "original": "Week6_Submission/matlab/import_verified_cad.m",
+    "repository_path": "archive/previous_week6_package/matlab/import_verified_cad.m",
+    "bytes": 525,
+    "sha256": "f949397802dd5d3262249f4b979f975814d5e302882440de694cdd62dab6db66"
+  },
+  {
+    "original": "Week6_Submission/matlab/run_project_validation.m",
+    "repository_path": "archive/previous_week6_package/matlab/run_project_validation.m",
+    "bytes": 1377,
+    "sha256": "2d4d264b2e3d06fb6adb3a03349bcd3d4252baa12caceb7f9590a429beabc402"
+  },
+  {
+    "original": "Week6_Submission/matlab/software_test_log.txt",
+    "repository_path": "archive/previous_week6_package/matlab/software_test_log.txt",
+    "bytes": 183,
+    "sha256": "ed3d10bb37ce5391bee9028a620f42859836d763b168e83daf8babe8a4e28f47"
+  },
+  {
+    "original": "Week6_Submission/matlab/test_analytical.m",
+    "repository_path": "archive/previous_week6_package/matlab/test_analytical.m",
+    "bytes": 1370,
+    "sha256": "e36dc964844ab5e72b55815eabf61b58726a5f73443ea550aebe525f67c6a3c4"
+  },
+  {
+    "original": "Week6_Submission/matlab/validate_parameters.m",
+    "repository_path": "archive/previous_week6_package/matlab/validate_parameters.m",
+    "bytes": 685,
+    "sha256": "1bc6f31b6ba34740354831f957ef19bbac4ff9b4c4b2c86d5d1ee52c20aa3749"
+  },
+  {
+    "original": "Week6_Submission/matlab/verify_delivery.m",
+    "repository_path": "archive/previous_week6_package/matlab/verify_delivery.m",
+    "bytes": 621,
+    "sha256": "66047a22630f692fdf73ab3f09f8d8f1b55eb5766d0705e96a04b1507bbac48c"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/balloon.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/balloon.xml",
+    "bytes": 34807,
+    "sha256": "c336c1698ff9d4f479343ec50b14bb7e83e4d74b2ca4c41126693914e51bc247"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/centermark.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/centermark.xml",
+    "bytes": 7025,
+    "sha256": "35221e0e410e963bc203fcceda546f6c06e6b6a200c299b001da492ac6400efd"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/datumtarget.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/datumtarget.xml",
+    "bytes": 33565,
+    "sha256": "a749e9b2ba80646514d205217579409f6c937e850c4f64e2b393ed422bb16143"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/dimension.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/dimension.xml",
+    "bytes": 2494695,
+    "sha256": "7a40e73a7ac57a0af1791e8e63645b53ad6addfedb3195cbcd9e24eb0607eebb"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/edgesymbol.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/edgesymbol.xml",
+    "bytes": 1867,
+    "sha256": "24ad1a27b9f699e02fcfa7b88ff7fa1740794c832f782d7a72a1e392550227bc"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/externalmaterialmapping.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/externalmaterialmapping.xml",
+    "bytes": 11802,
+    "sha256": "1d8bedf571698dac2e8998076e2e247761a38cb422dd89b9fae0889b29ce26ec"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/featureautoname.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/featureautoname.xml",
+    "bytes": 19757,
+    "sha256": "36ad5f7b8970196fd51a1052d62be687e2a4f370a064ef04736b1ea344c587c4"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/featurecontrolframe.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/featurecontrolframe.xml",
+    "bytes": 35298,
+    "sha256": "0c7f98c4ab7ba5cfd6aa5c6bf3e1b2401cd9a388bb95f122af580871a83bb7aa"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/hatch.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/hatch.xml",
+    "bytes": 3927,
+    "sha256": "b09c695f820dfd71a068ff21b5beb6bb3e18f040adb5a26532c8b3440c925c60"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/holetable.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/holetable.xml",
+    "bytes": 1133662,
+    "sha256": "90d2d055d1634a8f43e49bdeefb318566ec799f3d1bb9565faea3ba3bcfc3b2f"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/id.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/id.xml",
+    "bytes": 39470,
+    "sha256": "9fc18bfaf65433cd036ce4af94008ce198793df0c3323b6b0ebf98e1d455b55c"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/layers.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/layers.xml",
+    "bytes": 89453,
+    "sha256": "b6ba09f85b481731eb6fa73dfc50d61d0a015a4248b81b90ec84b94103563a14"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/leader.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/leader.xml",
+    "bytes": 36758,
+    "sha256": "ee123069fad9e070c6dc33c027df8421a6a0e22532eb23a4d30977b272a680e9"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/lighting.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/lighting.xml",
+    "bytes": 47718,
+    "sha256": "c6d65257457ac7fb36adf1f103c1312b030af8cd5d0fc6fc8d21246a0bb6b2c5"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/mark.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/mark.xml",
+    "bytes": 2789,
+    "sha256": "a76d6af9473d76285b50654e56493572b4c2eadd6894f2754c062d8b0710b6e0"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/materialmapping.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/materialmapping.xml",
+    "bytes": 106745,
+    "sha256": "9e73a7c0112f0e7ffb395eedda5ff08acba57bdb30bc34b711c54139e7cc9aa5"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/objectdefaults.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/objectdefaults.xml",
+    "bytes": 300422,
+    "sha256": "9e452b217445eb05e6f3e119ec03d13d758d140aaaa637063c68c70bba41ea9c"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/partslist.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/partslist.xml",
+    "bytes": 187337,
+    "sha256": "aad1bbebb6eef02e0f09715ba761e13c32488af10359670909a8beb7f594f422"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/propertymap.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/propertymap.xml",
+    "bytes": 14552,
+    "sha256": "80d32eff5f1c12ffa71ee8f87cd587bf1e1703022c7bf0675ae7c4cbd8fdb1e5"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/proteinmapping.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/proteinmapping.xml",
+    "bytes": 341667,
+    "sha256": "543db5ef4928dc4f4de48990d4a7da9ad584de31dae1e2ba78daa7ed18c0c5e7"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/revisiontable.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/revisiontable.xml",
+    "bytes": 58082,
+    "sha256": "5331fa40a263d7f459b2b239cc17389cba8605ec1a0dd1429fcefc3976e1a9ca"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/sheetmetalrules.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/sheetmetalrules.xml",
+    "bytes": 3518,
+    "sha256": "1198f562d384f9821e76c2d4257513769b0a478b12e507464e117e572c44e5da"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/sheetmetalunfold.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/sheetmetalunfold.xml",
+    "bytes": 3335,
+    "sha256": "336178ad3e03a2cb188a3cc029c1296209536fd5bdaa009b4d920f7af35484b6"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/standard.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/standard.xml",
+    "bytes": 222153,
+    "sha256": "a3350a0de8b98f7426369de40c731ef2b768794bbe64b16ea06d3a84055cceb9"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/studioimagebasedlighting.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/studioimagebasedlighting.xml",
+    "bytes": 7545,
+    "sha256": "08c846b04b0ffa0176a900c129a03ac3445acae290d3f0acafa55797d1a6035b"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/studiolighting.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/studiolighting.xml",
+    "bytes": 29179,
+    "sha256": "7c087b58360ee4045071496929e0893ba08fd8a49eeeb8aa3024f9f6f96e8e01"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/studioscene.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/studioscene.xml",
+    "bytes": 12155,
+    "sha256": "4789a482bb15ad63a5d20e60dfb603662b28bb9ba669387e3f689d6d58e9f083"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/surfacetexture.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/surfacetexture.xml",
+    "bytes": 28238,
+    "sha256": "eb323a2ecb85df8be2c03f936a9ddf277fb35d2df14810bb1aa1aaf9d19a73f1"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/table.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/table.xml",
+    "bytes": 21036,
+    "sha256": "62a9e2c49d557a086fecaf16a6d005e6bffcb2944d366a31173f7fdc887a0d15"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Template.config",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Template.config",
+    "bytes": 133,
+    "sha256": "5c0c973145e294224b945289f12d9c2160da80274bb5a1c0b5ff9bd8a505af66"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/text.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/text.xml",
+    "bytes": 23354,
+    "sha256": "32206cfd3b7e827c3a28c5041e73577871f7ec1cb307cbd27bdf27d14de9bcf8"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/transitionsymbol.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/transitionsymbol.xml",
+    "bytes": 2006,
+    "sha256": "fe609affe69616ef0955db7c5bd4a5adb282005f5a07a4c8d7a3fc3d5da8c999"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/viewannotation.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/viewannotation.xml",
+    "bytes": 16118,
+    "sha256": "f567118d63929c9c9bafb4fae6c5e8374af6814c231cc5d7937cd9e27aca80a3"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/weld.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/weld.xml",
+    "bytes": 39680,
+    "sha256": "c6e142cea22089d20710882503923863710879f2ecef748597d0f9c55191dbea"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/weldbead.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/weldbead.xml",
+    "bytes": 7816,
+    "sha256": "9eef3a99da427369f5e15636230701fc17d0ddf61b65001f3c88376fab44e18e"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/OldVersions/modern conttrol.ipj.bak",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/OldVersions/modern conttrol.ipj.bak",
+    "bytes": 10984,
+    "sha256": "b6b813c3ed8714b2746d70d6c52e0e2490deae4bbaad42e46eb756c8a63a52ac"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/OldVersions/modern conttrol.ipj.old.bak",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/OldVersions/modern conttrol.ipj.old.bak",
+    "bytes": 10574,
+    "sha256": "c629a8e81e0341662fb99df33c1b13d76f29481a236d68547a873faf149a83bd"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Templates/Blank - DVR Carousel.pdf",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Templates/Blank - DVR Carousel.pdf",
+    "bytes": 54537,
+    "sha256": "ac9af115e12b9d63ec42bec8d3ac1101511e9776cf375e19a9ef6e0d0c05eb38"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Templates/Blank.pdf",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Templates/Blank.pdf",
+    "bytes": 31375,
+    "sha256": "094a0564a2a601347aebde64bbfca8a14939096b1ded8f5b8d17a3f37df550a4"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Templates/IMPORTANT - Template Files.txt",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Templates/IMPORTANT - Template Files.txt",
+    "bytes": 1083,
+    "sha256": "fd46f9a7d480289403b3791a28e9b2c21e8e1ea92131d94a09b985cd62207db6"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Templates/Sample Assembly Template.pdf",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Templates/Sample Assembly Template.pdf",
+    "bytes": 987794,
+    "sha256": "1fbf839eef8bd80de14368effc506232afeb8b75ffd787733ebf7868f4cd7124"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Templates/Sample Part Template.pdf",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Templates/Sample Part Template.pdf",
+    "bytes": 50312,
+    "sha256": "e68ee26e85a663657d171208a035da24576743d0ac63c533f9042c546c97ddd5"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Templates/Sheet Metal.ipt",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Templates/Sheet Metal.ipt",
+    "bytes": 77824,
+    "sha256": "7a048afade1e9c2c5392c1f024fcf22dd70b7714aec264fdcdf6ff14381b0911"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Templates/standard.dwg",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Templates/standard.dwg",
+    "bytes": 203944,
+    "sha256": "a91d07ceb945d6ea09d44117519594dc6afcf2843d7c4ed4525dabde7c73f18e"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Templates/Standard.iam",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Templates/Standard.iam",
+    "bytes": 65536,
+    "sha256": "07bca72c7814ac1eaa2e49479788abf3f36dc0874ba2a511f62162f0828257ba"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Templates/Standard.idw",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Templates/Standard.idw",
+    "bytes": 203264,
+    "sha256": "53191f6f64be2a5cabbd4896dc130b41826b8794dad2ebf3099a6a7819dcb446"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Templates/Standard.ipn",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Templates/Standard.ipn",
+    "bytes": 196608,
+    "sha256": "a3e573963eae20ff4c75ee12007fd38469cad3dfb98ed396dcc2d61b6a9569fc"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Templates/Standard.ipt",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Templates/Standard.ipt",
+    "bytes": 71680,
+    "sha256": "81dec46fd5ca233ebdae12d72f5afd425f69eac6aa11361d89fc8ec6108a7efd"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Templates/Weldment.iam",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Templates/Weldment.iam",
+    "bytes": 351232,
+    "sha256": "db80c607957aab2b9b8da8aab4d458ccf25de7e3e1ee0e1d84c95cec9eac72ed"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Bend Tables/bend table (in).txt",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Bend Tables/bend table (in).txt",
+    "bytes": 10593,
+    "sha256": "2b7a2dfcf8f729c3fadd15edcf0c53c452a9db5ed691c4cb4b768de5d12f9611"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Bend Tables/bend table (in).xlsx",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Bend Tables/bend table (in).xlsx",
+    "bytes": 25098,
+    "sha256": "5846c19288a57b0bbb2658bfcfdf88fbff681aec3fc1ac0fce1224730be3b27f"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Bend Tables/bend table (mm).txt",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Bend Tables/bend table (mm).txt",
+    "bytes": 10577,
+    "sha256": "946814fc0442ef587fb77429daaa54c48f21fd074fe292010a205234034cc468"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Bend Tables/bend table (mm).xlsx",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Bend Tables/bend table (mm).xlsx",
+    "bytes": 24985,
+    "sha256": "9c653c2ccce1e5f27f630e6e355b8982dc381ecaf361e123aae48364c6f42714"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Dictionaries/cat.dct",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Dictionaries/cat.dct",
+    "bytes": 639845,
+    "sha256": "5a94ba811afe4751eee6c753b2ed5fb45e089d63aa80d81c118b3700066bd336"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Dictionaries/csy.dct",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Dictionaries/csy.dct",
+    "bytes": 1146791,
+    "sha256": "0894ed5809187f9b32158ee9657e0d85c3aedcb8ef805a3241b736a569dd71a4"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Dictionaries/dan.dct",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Dictionaries/dan.dct",
+    "bytes": 7784,
+    "sha256": "cca7190f2ff97b69ccbaae5e9f8b408a319c5fcbc2a16af7310fc53b920503af"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Dictionaries/dan2.dct",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Dictionaries/dan2.dct",
+    "bytes": 749025,
+    "sha256": "c828045fd8da517869963ce4f3c13569fca1db6cf4bb1e87c8456dfa11a967ab"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Dictionaries/deu.dct",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Dictionaries/deu.dct",
+    "bytes": 9794,
+    "sha256": "d50c9aead4ea63ffa7ce257f945e2ab973d552df792b8376795c9c915733fe82"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Dictionaries/deu2.dct",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Dictionaries/deu2.dct",
+    "bytes": 901363,
+    "sha256": "ca68fb11205966190c00c0191f1320d1e2559863e89d0cbd21f4e4d123ef8f03"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Dictionaries/deuo2.dct",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Dictionaries/deuo2.dct",
+    "bytes": 905647,
+    "sha256": "7a27ea219e1cd619865acbccfd41e6c0b5c77147a0aef855c3169d9e76d1d79f"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Dictionaries/enc.dct",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Dictionaries/enc.dct",
+    "bytes": 7798,
+    "sha256": "029354cff3194df395eaf2c08d30b75c256c44716c65a12ba6abbdd0910edd15"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Dictionaries/enc2.dct",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Dictionaries/enc2.dct",
+    "bytes": 328407,
+    "sha256": "e131e26c8fd84b989c9b65ae86f5fe1bd60bbaa7206497d6a8ee280b8510e9d6"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Dictionaries/eng.dct",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Dictionaries/eng.dct",
+    "bytes": 7798,
+    "sha256": "029354cff3194df395eaf2c08d30b75c256c44716c65a12ba6abbdd0910edd15"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Dictionaries/eng2.dct",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Dictionaries/eng2.dct",
+    "bytes": 330075,
+    "sha256": "e52919edeee6f3759de4bb1845baa3534d43bd74bbbf97ac14247ea0caf46187"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Dictionaries/enu.dct",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Dictionaries/enu.dct",
+    "bytes": 7796,
+    "sha256": "019e3797c2fed58c9344d666744aa965d11a3996f9e4f5cce07f5dc96a910a0c"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Dictionaries/enu2.dct",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Dictionaries/enu2.dct",
+    "bytes": 327608,
+    "sha256": "32de74afb5493e0cedc104060bf91c17ff4aad5a9021b886f966a0f30865ea7d"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Dictionaries/esp.dct",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Dictionaries/esp.dct",
+    "bytes": 1756,
+    "sha256": "1b22aae0c79457568f90a10dbe375d85600edd3783e1d01b57d3660572c87788"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Dictionaries/esp2.dct",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Dictionaries/esp2.dct",
+    "bytes": 819704,
+    "sha256": "2a19a215370e599dad00abb5e9f6997e4f9308a5189a232ed222d9206e42eb56"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Dictionaries/fin.dct",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Dictionaries/fin.dct",
+    "bytes": 17536,
+    "sha256": "a0a50ce520b8635810dd0ddd308f5a117fb58a914e89c6d3241cd05b7ed1fdf9"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Dictionaries/fin2.dct",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Dictionaries/fin2.dct",
+    "bytes": 947604,
+    "sha256": "49ba839a86d7d8da0b8fe6b63c60b5801fdc8a7b925b74f677f20bdca8707bbf"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Dictionaries/fra.dct",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Dictionaries/fra.dct",
+    "bytes": 5538,
+    "sha256": "4685e882d5ff7a5b585cba08de079621e686249b868718a179594b16c78d5d51"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Dictionaries/fra2.dct",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Dictionaries/fra2.dct",
+    "bytes": 348158,
+    "sha256": "5b208ae8fbcfeeb505edeefc819073df6157e8e4652f7319d249d6883206dc1f"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Dictionaries/ita.dct",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Dictionaries/ita.dct",
+    "bytes": 7731,
+    "sha256": "8754b18f4c2358c536289dba2998e9f036d32247ce2ea92d39f64152b1afb21b"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Dictionaries/ita2.dct",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Dictionaries/ita2.dct",
+    "bytes": 978593,
+    "sha256": "a8bf56e5d5e60b6ce90accc676d2f8d2e28d4d39b8d76056318658b8681033da"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Dictionaries/nld.dct",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Dictionaries/nld.dct",
+    "bytes": 7895,
+    "sha256": "4ac0389267809d949060dfe48685fc9325dbf2d86716b26ce59598c16aad140e"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Dictionaries/nld2.dct",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Dictionaries/nld2.dct",
+    "bytes": 766185,
+    "sha256": "ac58b0ceb03643d86e319a3877a381aeea0b7049ffbe4221d8ef0f9fb838758f"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Dictionaries/nor.dct",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Dictionaries/nor.dct",
+    "bytes": 7150,
+    "sha256": "c933a676df0781f94fdd43d1b80ec063bc94ac0c1aeec7cfa263c8b6c8388d30"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Dictionaries/nor2.dct",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Dictionaries/nor2.dct",
+    "bytes": 311021,
+    "sha256": "ec47b869d6953cfc1f683194cbec961e964ef9403c0fb327447c8407f8752847"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Dictionaries/ptb.dct",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Dictionaries/ptb.dct",
+    "bytes": 8385,
+    "sha256": "1f20e4bb22aa2f626b3cac140f27ad16d17d1715b030688c6e4526c52f81e92c"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Dictionaries/ptb2.dct",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Dictionaries/ptb2.dct",
+    "bytes": 311004,
+    "sha256": "d29bdcd1b38189b03c5cc6e0d052ad647f7ff08252214d8f9b00f8d243ae9771"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Dictionaries/ptg.dct",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Dictionaries/ptg.dct",
+    "bytes": 6232,
+    "sha256": "f85a1907c101626b62673402963c45117015617d65d05f767e982d9b66c8c623"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Dictionaries/ptg2.dct",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Dictionaries/ptg2.dct",
+    "bytes": 376283,
+    "sha256": "6fd1b266f5b2e69dbba02d4e266d7124136ff47bf31404cb6cf03e73d145e81e"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Dictionaries/rus.dct",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Dictionaries/rus.dct",
+    "bytes": 734464,
+    "sha256": "32b78892f42045a17153e843bc871fdf6b9525b091ba306ad88ab327aafc6a67"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Dictionaries/sve.dct",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Dictionaries/sve.dct",
+    "bytes": 878,
+    "sha256": "2151cf3d40a4e1eb93b5be11c22d3a4087b5f1c3c03b278e01d8267386ea07ee"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Dictionaries/sve2.dct",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Dictionaries/sve2.dct",
+    "bytes": 303231,
+    "sha256": "732311065995798865478846f9e5406c6bc85c889869e8f7dbaf6e1fddbbb035"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/DWG-DXF/exportdwg.ini",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/DWG-DXF/exportdwg.ini",
+    "bytes": 1053,
+    "sha256": "d0e7dd22ad8c7dd3ad57e9aba8b1ae37e292a36072afde451f20212f50f33e78"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/DWG-DXF/exportdxf.ini",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/DWG-DXF/exportdxf.ini",
+    "bytes": 1031,
+    "sha256": "dc2c49d85fc876a10729168ed7709321f60c92a92856dd8a341e82495a854496"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/DWG-DXF/FaceLoops.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/DWG-DXF/FaceLoops.xml",
+    "bytes": 3229,
+    "sha256": "eeaa29b6dffa37effb6ab32b8294feae495d106efb99989ce74bdd87fc846fd7"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/DWG-DXF/FlatPattern.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/DWG-DXF/FlatPattern.xml",
+    "bytes": 3921,
+    "sha256": "9239090cbd6f698609025d5ce0b953fae670521badbad9befb600a13b18868c4"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/DWG-DXF/FlatPatternExportOpts.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/DWG-DXF/FlatPatternExportOpts.xml",
+    "bytes": 1664,
+    "sha256": "19ecd56c797e5c62f1f6b4aac2bc037e5c41f0f0c7695703c3e1d680491fcf22"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/DWG-DXF/importacad.ini",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/DWG-DXF/importacad.ini",
+    "bytes": 994,
+    "sha256": "584bf502f75f17a54cc8bd71abf01005ca2120e6e6e3be819c85544d43c53250"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/DWG-DXF/importdxf.ini",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/DWG-DXF/importdxf.ini",
+    "bytes": 986,
+    "sha256": "a90b7863c5ef71ba611622b436cd5fe97673b271fe12cf444d0137d2cfe980e0"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/DWG-DXF/importmdt.ini",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/DWG-DXF/importmdt.ini",
+    "bytes": 990,
+    "sha256": "2124370c6f0df7a789332ac0298791fa4b0707a4cb116476e713daf4f7b82919"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Import Properties/PropertyMap_Catia.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Import Properties/PropertyMap_Catia.xml",
+    "bytes": 4617,
+    "sha256": "bd599755abc692193d6c149f60297693ee837068a22ceba98601489b767ed837"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Import Properties/PropertyMap_Creo.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Import Properties/PropertyMap_Creo.xml",
+    "bytes": 4482,
+    "sha256": "d7c82d24022b329590302fe9ab80dacdcbc6c3cafcda0e460b63d77e2e246240"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Import Properties/PropertyMap_Fusion.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Import Properties/PropertyMap_Fusion.xml",
+    "bytes": 3698,
+    "sha256": "d755de0569dd1837c293fd2ad38cf31a7417bf70c102ca017443216b048cbb9d"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Import Properties/PropertyMap_NX.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Import Properties/PropertyMap_NX.xml",
+    "bytes": 4586,
+    "sha256": "b4e0ba97f516a89d99859db14a238df7d6916c43867b3eb1572eea59ec7c35be"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Import Properties/PropertyMap_SolidEdge.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Import Properties/PropertyMap_SolidEdge.xml",
+    "bytes": 3882,
+    "sha256": "94486476af84517630a3ef4b1835a8179e6a9a8c4776224b94923357609e277d"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Import Properties/PropertyMap_STEP.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Import Properties/PropertyMap_STEP.xml",
+    "bytes": 3849,
+    "sha256": "d5a8399e33609a9ef53f2f3be87c4df1cb62a5ba09a7f762dd6184511c3416d4"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Import Properties/PropertyMap_SW.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Import Properties/PropertyMap_SW.xml",
+    "bytes": 5155,
+    "sha256": "64bd80eec0ac12370771e377d55d641edbb6cc6e96acb9470b2fb673e61569bf"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary-chs.xlf",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary-chs.xlf",
+    "bytes": 1215337,
+    "sha256": "e137130de3e4cedecdbfe5eb8d8ed81b247a19502812c7f8b7d934193cb246c7"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary-cht.xlf",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary-cht.xlf",
+    "bytes": 1213745,
+    "sha256": "bd201f6fc48913e08adc4604d00d51f2d900c7a2ab9effb629730c019c2e3a40"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary-csy.xlf",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary-csy.xlf",
+    "bytes": 1271606,
+    "sha256": "fb6616f7c7a676216a65c96da8ed08fa89e07dc3d9fbd82f38199b6b46bf6e8b"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary-deu.xlf",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary-deu.xlf",
+    "bytes": 1255688,
+    "sha256": "01c0376d8fbe2728f77f74ae768c3f4e4084075f6aaf9ad9b6299d572e1a878f"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary-eng.xlf",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary-eng.xlf",
+    "bytes": 1226551,
+    "sha256": "d5732bcce30a2cd88e251b20e9aea4f607c9b7ba974de53000ecfe987893a389"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary-esp.xlf",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary-esp.xlf",
+    "bytes": 1261694,
+    "sha256": "6349ff4adc52e7d7a9a7fc7870104f7c5380b126522ec75ad485781c041c1763"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary-fra.xlf",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary-fra.xlf",
+    "bytes": 1260074,
+    "sha256": "0cffd093c8a0680e4b7eeae6e7cc69cb9b491c8947409b7a0b73ac3c777a5b8a"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary-hun.xlf",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary-hun.xlf",
+    "bytes": 951916,
+    "sha256": "92db681a6c4ecbeaed5599be0b78c57d6a9b4b508da2c6e57c72092898a07c56"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary-ita.xlf",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary-ita.xlf",
+    "bytes": 1270241,
+    "sha256": "af7e7773e101ef8254a613bbb739bff103135d9af9751fd36943264d6ae51bff"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary-jpn.xlf",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary-jpn.xlf",
+    "bytes": 1293078,
+    "sha256": "0b2b1285a73af58f45e9bedf2c50c8e390675d377b3438e886bad74104b12087"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary-kor.xlf",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary-kor.xlf",
+    "bytes": 1253721,
+    "sha256": "3c4a9adee99a264e0b71b8e1bce06b04c7fe7786b4ed51663b45f8e12cf0981f"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary-plk.xlf",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary-plk.xlf",
+    "bytes": 1281440,
+    "sha256": "9568844cd7622d8dfc27ba6ab23a93b64608a03eca0a020f7d123c31554c710c"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary-ptb.xlf",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary-ptb.xlf",
+    "bytes": 1260672,
+    "sha256": "6c0b6940f3deecef35ae06d7cf274ab11504e5d6161cfef5827933513cd43424"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary-rus.xlf",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary-rus.xlf",
+    "bytes": 1468319,
+    "sha256": "3cab5a2f83e6d0d942b2a9ca5555ddba5b62e3a472a10a3dccce97f35a8be4be"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary.adsklib",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary.adsklib",
+    "bytes": 163186,
+    "sha256": "cd9078ebd2f20425677e0c40de5c64aeb5df702895fe9a69f6444b49c958e6f7"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/AIT/Mold Design/mold design stop pin.ipt",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/AIT/Mold Design/mold design stop pin.ipt",
+    "bytes": 201728,
+    "sha256": "9084803fa98274c6a607b6eb47697fbc70dc2b3eef672ef68600be35758e9616"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/AIT/AIT Library/Configuration/mold base.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/AIT/AIT Library/Configuration/mold base.xml",
+    "bytes": 115608,
+    "sha256": "54f33c597f4f6ac6f2f446a56a49db2ff9e74df54ab767811a2d8a65a4bbd6e3"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Cable & Harness/en-US/Cable&HarnessDefaultLibrary.iwl",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Cable & Harness/en-US/Cable&HarnessDefaultLibrary.iwl",
+    "bytes": 421800,
+    "sha256": "f50c00ab14fcfcb73fe8acd1977a567dfa9f72f24284a55d7545ffaebdac4a5f"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Cable & Harness/en-US/harness.iam",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Cable & Harness/en-US/harness.iam",
+    "bytes": 241152,
+    "sha256": "d8ff329ff402f380496e1131f8b90cc8d8647ca101b4ccec88b1d49da85e4278"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Content Center/Settings/Favorites.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Content Center/Settings/Favorites.xml",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Dictionaries/Custom/Custom.cus",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Dictionaries/Custom/Custom.cus",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/GOST/en-US/Defaults.ini",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/GOST/en-US/Defaults.ini",
+    "bytes": 3818,
+    "sha256": "c7feacaee4dd8a0da2d336acc8610eeebb1c465e73ce99f8cfd791050909143f"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/GOST/en-US/MaterialsFavorites.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/GOST/en-US/MaterialsFavorites.xml",
+    "bytes": 2544,
+    "sha256": "4462264fe7cd8997a98567b9544c4d195d7ae7e8268d1889b2ec75a28b1ab204"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/GOST/en-US/PartsListGroup1.xls",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/GOST/en-US/PartsListGroup1.xls",
+    "bytes": 67072,
+    "sha256": "8f586ddb21d7c58c67a208ff27bad7933fca0db7c9b98dd5741b1be98e0c05e6"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/GOST/en-US/PartsListGroup1b.xls",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/GOST/en-US/PartsListGroup1b.xls",
+    "bytes": 73216,
+    "sha256": "eeb1a512d2a7cff07ad2269e36e00be0fd236504ca538955b8667159b704d39f"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/GOST/en-US/PartsListTemplate.xls",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/GOST/en-US/PartsListTemplate.xls",
+    "bytes": 56320,
+    "sha256": "fcef158172a5e5321e1277a4721ac419d377dddc3c142fd4188bc40d92ff3626"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/GOST/en-US/WeldFavorites.ini",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/GOST/en-US/WeldFavorites.ini",
+    "bytes": 988,
+    "sha256": "2174301f5eceaa395107433070a11506e64eb18479356b24dd69519700bf456d"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/GOST/Technical Requirements.Base/Assembly drawings.tr",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/GOST/Technical Requirements.Base/Assembly drawings.tr",
+    "bytes": 2822,
+    "sha256": "1836f6eb75b29434885821a2f2aee4fe06b3a60bdbddd33641e5e93bf07dedb1"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/GOST/Technical Requirements.Base/Cold punching parts.tr",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/GOST/Technical Requirements.Base/Cold punching parts.tr",
+    "bytes": 1576,
+    "sha256": "dcbd198883a3304d4166bcdccb8c7c4416084faf65921795c38f399ba8c37b63"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/GOST/Technical Requirements.Base/Electrical cases.tr",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/GOST/Technical Requirements.Base/Electrical cases.tr",
+    "bytes": 2186,
+    "sha256": "ae8003948a4723fbb4c5c6fd8eb55fb149d41f193489305f324ba75a664f0995"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/GOST/Technical Requirements.Base/Forged parts.tr",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/GOST/Technical Requirements.Base/Forged parts.tr",
+    "bytes": 1558,
+    "sha256": "550149a1a6c925bfc8cbf4a4e08ab88de60ba18197cfa47fcf3eb535d7889aa8"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/GOST/Technical Requirements.Base/Mechanical parts.tr",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/GOST/Technical Requirements.Base/Mechanical parts.tr",
+    "bytes": 2170,
+    "sha256": "87f3142d395afb40dc42dc778affc9641f3913ec47cfbd73362055151e928689"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/GOST/Technical Requirements.Base/Mold parts.tr",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/GOST/Technical Requirements.Base/Mold parts.tr",
+    "bytes": 2568,
+    "sha256": "3e7f473b0058b6be715229106c22528485bb4d536434f30f533b0e84f87e7fae"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/GOST/Technical Requirements.Base/Pipes.tr",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/GOST/Technical Requirements.Base/Pipes.tr",
+    "bytes": 1194,
+    "sha256": "4a7b1dad5dba29cd99b454bb149d14ab0cb2a7fddf904b06134feb5848ead0b4"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/GOST/Technical Requirements.Base/Steel mold parts.tr",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/GOST/Technical Requirements.Base/Steel mold parts.tr",
+    "bytes": 2084,
+    "sha256": "40f3e446eaef03a69c126507d7a952262659870a63adf2020e17ccb937877146"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/GOST/Technical Requirements.Base/Surface coatings.tr",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/GOST/Technical Requirements.Base/Surface coatings.tr",
+    "bytes": 384,
+    "sha256": "2f2cb767a15384a87809f2d388a98338043984b53af0d2b82b1357243655a23c"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/GOST/Technical Requirements.Base/Weld assemblies.tr",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/GOST/Technical Requirements.Base/Weld assemblies.tr",
+    "bytes": 1154,
+    "sha256": "5b39675f3e3e90736c7e8a674722919138558e4843daf8ce8e05fdd5ebe59baf"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/GOST/Technical Requirements/en-US/Assembly drawings.tr",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/GOST/Technical Requirements/en-US/Assembly drawings.tr",
+    "bytes": 2822,
+    "sha256": "1836f6eb75b29434885821a2f2aee4fe06b3a60bdbddd33641e5e93bf07dedb1"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/GOST/Technical Requirements/en-US/Cold punching parts.tr",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/GOST/Technical Requirements/en-US/Cold punching parts.tr",
+    "bytes": 1576,
+    "sha256": "dcbd198883a3304d4166bcdccb8c7c4416084faf65921795c38f399ba8c37b63"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/GOST/Technical Requirements/en-US/Electrical cases.tr",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/GOST/Technical Requirements/en-US/Electrical cases.tr",
+    "bytes": 2186,
+    "sha256": "ae8003948a4723fbb4c5c6fd8eb55fb149d41f193489305f324ba75a664f0995"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/GOST/Technical Requirements/en-US/Forged parts.tr",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/GOST/Technical Requirements/en-US/Forged parts.tr",
+    "bytes": 1558,
+    "sha256": "550149a1a6c925bfc8cbf4a4e08ab88de60ba18197cfa47fcf3eb535d7889aa8"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/GOST/Technical Requirements/en-US/Mechanical parts.tr",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/GOST/Technical Requirements/en-US/Mechanical parts.tr",
+    "bytes": 2170,
+    "sha256": "87f3142d395afb40dc42dc778affc9641f3913ec47cfbd73362055151e928689"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/GOST/Technical Requirements/en-US/Mold parts.tr",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/GOST/Technical Requirements/en-US/Mold parts.tr",
+    "bytes": 2568,
+    "sha256": "3e7f473b0058b6be715229106c22528485bb4d536434f30f533b0e84f87e7fae"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/GOST/Technical Requirements/en-US/Pipes.tr",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/GOST/Technical Requirements/en-US/Pipes.tr",
+    "bytes": 1194,
+    "sha256": "4a7b1dad5dba29cd99b454bb149d14ab0cb2a7fddf904b06134feb5848ead0b4"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/GOST/Technical Requirements/en-US/Steel mold parts.tr",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/GOST/Technical Requirements/en-US/Steel mold parts.tr",
+    "bytes": 2084,
+    "sha256": "40f3e446eaef03a69c126507d7a952262659870a63adf2020e17ccb937877146"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/GOST/Technical Requirements/en-US/Surface coatings.tr",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/GOST/Technical Requirements/en-US/Surface coatings.tr",
+    "bytes": 384,
+    "sha256": "2f2cb767a15384a87809f2d388a98338043984b53af0d2b82b1357243655a23c"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/GOST/Technical Requirements/en-US/Weld assemblies.tr",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/GOST/Technical Requirements/en-US/Weld assemblies.tr",
+    "bytes": 1154,
+    "sha256": "5b39675f3e3e90736c7e8a674722919138558e4843daf8ce8e05fdd5ebe59baf"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary.fbm/Graphics/GraphicsUI.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary.fbm/Graphics/GraphicsUI.xml",
+    "bytes": 3669,
+    "sha256": "0aee14899d9a030d3fa50550af5eb0c6089155cbf63d7bea289b7cc98cc3a462"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary.fbm/PhysicalMat/PhysMatUI.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary.fbm/PhysicalMat/PhysMatUI.xml",
+    "bytes": 3080,
+    "sha256": "9a1f267b75531269bbdf3ba6c79a0297ceb5c44ff297b56d2d9bb3804c0d8a92"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary.fbm/schema_files/CommonSchema.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary.fbm/schema_files/CommonSchema.xml",
+    "bytes": 2317,
+    "sha256": "d7dd5ae9a508076a1a3d12b7c74b01125990a4ab190d8d76aac7f951dfc9a702"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary.fbm/schema_files/PhysMatSchema.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary.fbm/schema_files/PhysMatSchema.xml",
+    "bytes": 3622,
+    "sha256": "eeb4d626c5f7aff8db50eda59cdb5fa56757212466734894e5ff001291e92d73"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary.fbm/schema_files/StructuralCommonSchema.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary.fbm/schema_files/StructuralCommonSchema.xml",
+    "bytes": 1926,
+    "sha256": "ac1f0b878b6901ddda6b8c5c4f2d4e3d5932a9d34203cd267986c56c5f54114c"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary.fbm/schema_files/StructuralConcreteSchema.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary.fbm/schema_files/StructuralConcreteSchema.xml",
+    "bytes": 1185,
+    "sha256": "f0d091981609d60039784b358c2513bc5885adb81fa92eaf279a258bdc6635f6"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary.fbm/schema_files/StructuralFatigueSchema.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary.fbm/schema_files/StructuralFatigueSchema.xml",
+    "bytes": 5560,
+    "sha256": "e69521685da91bb45a51c12cb6511977bf9729a5cb4493a6256730087883d06b"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary.fbm/schema_files/StructuralGenericSchema.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary.fbm/schema_files/StructuralGenericSchema.xml",
+    "bytes": 616,
+    "sha256": "a706cf60997d57bacd0f30e924273badf37b5027e7f77d93319955a6272a8d37"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary.fbm/schema_files/StructuralMetalSchema.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary.fbm/schema_files/StructuralMetalSchema.xml",
+    "bytes": 723,
+    "sha256": "0df2429af8d9ef652c118c7dbb7c9b9eaa13d00a914d30585fab27c21dcf7881"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary.fbm/schema_files/StructuralNonlinearSchema.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary.fbm/schema_files/StructuralNonlinearSchema.xml",
+    "bytes": 11473,
+    "sha256": "82243d85ff24a0c80828598ffb2b1d43a4b6d3c6d984d3ce5ee0c069d0039ed1"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary.fbm/schema_files/StructuralPlasticSchema.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary.fbm/schema_files/StructuralPlasticSchema.xml",
+    "bytes": 616,
+    "sha256": "9bf7d858e3c4bbb3f9183da46d3a3fc28f148e96348c872ed1b3d13358979017"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary.fbm/schema_files/StructuralWoodSchema.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary.fbm/schema_files/StructuralWoodSchema.xml",
+    "bytes": 3032,
+    "sha256": "a042c104e17042cfd9c3d3df8de80dbf785c7b9caf4b76723f3a77b5f2000ac5"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary.fbm/schema_files/ThermalCommonSchema.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary.fbm/schema_files/ThermalCommonSchema.xml",
+    "bytes": 1987,
+    "sha256": "cc9b0fca39acbd57a43a911a6914b251410c479feced3bc7b7f71961d857b609"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary.fbm/schema_files/ThermalGasSchema.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary.fbm/schema_files/ThermalGasSchema.xml",
+    "bytes": 1003,
+    "sha256": "28e522326a867502acfd0139348c0c33783bfff77a11bbf701b371b60d403cf3"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary.fbm/schema_files/ThermalLiquidSchema.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary.fbm/schema_files/ThermalLiquidSchema.xml",
+    "bytes": 1507,
+    "sha256": "a6c77abda32eddbd2b2d8fa8f5bb75e8c85d24a79c7e459f13522ebda63709d8"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary.fbm/schema_files/ThermalSolidSchema.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary.fbm/schema_files/ThermalSolidSchema.xml",
+    "bytes": 2636,
+    "sha256": "0aabfd642b3e44a05fe2680f4176269fbdaa1e6dfa9fe03022c227dd7bedbda6"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary.fbm/Structural/Basic/BasicStructuralUI.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary.fbm/Structural/Basic/BasicStructuralUI.xml",
+    "bytes": 1692,
+    "sha256": "2b96f450efa71e0822ddbca2b5125972af7a24109d94fd98ccaad866123eaf22"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary.fbm/Structural/Concrete/ConcreteStructuralUI.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary.fbm/Structural/Concrete/ConcreteStructuralUI.xml",
+    "bytes": 12989,
+    "sha256": "e03e1f35f0d4742e6bb0cb75fb1992e56dda6541d9620109e0ff6696cdf4f7a4"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary.fbm/Structural/Fatigue/FatigueStructuralUI.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary.fbm/Structural/Fatigue/FatigueStructuralUI.xml",
+    "bytes": 4616,
+    "sha256": "4eab9b01adb2ab97fa7735ba2bdee519939413d20b4f6dd35f525b9bfc19d742"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary.fbm/Structural/Gas/GasStructuralUI.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary.fbm/Structural/Gas/GasStructuralUI.xml",
+    "bytes": 1952,
+    "sha256": "a8607e2610c42b52cf412a78823ba32eaca8292a4399fea5088cfa651c2c2e57"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary.fbm/Structural/Generic/GenericStructuralUI.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary.fbm/Structural/Generic/GenericStructuralUI.xml",
+    "bytes": 12543,
+    "sha256": "9065564aaebb23f0854e7dced3b5e9fed71040070b4653475772d3505f886002"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary.fbm/Structural/Metal/MetalStructuralUI.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary.fbm/Structural/Metal/MetalStructuralUI.xml",
+    "bytes": 12672,
+    "sha256": "301c24a2c2cdfacd350d57f85e0b89e644655026d9c138b99cb0689d0116b4ca"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary.fbm/Structural/Nonlinear/NonlinearStructuralUI.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary.fbm/Structural/Nonlinear/NonlinearStructuralUI.xml",
+    "bytes": 9764,
+    "sha256": "663676a78c22444437a0c3d5d476ea442343706d3fb31ff9f3c4b3f0bd756849"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary.fbm/Structural/Plastic/PlasticStructuralUI.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary.fbm/Structural/Plastic/PlasticStructuralUI.xml",
+    "bytes": 12565,
+    "sha256": "f728ff42303a1cc9cdc05c8eb6d282c93a830929f6d35607bb65fa1520d5c193"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary.fbm/Structural/Wood/WoodStructuralUI.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary.fbm/Structural/Wood/WoodStructuralUI.xml",
+    "bytes": 14859,
+    "sha256": "ab6369597bd510b471d2c6c814e842af435902e825c75c9ca1be64045e8261ad"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary.fbm/Thermal/Gas/GasThermalUI.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary.fbm/Thermal/Gas/GasThermalUI.xml",
+    "bytes": 2215,
+    "sha256": "68e9ef0eb31641cf797e3570da3a4f450072fcf90333c15a7d4263ee2368a0d6"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary.fbm/Thermal/Liquid/LiquidThermalUI.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary.fbm/Thermal/Liquid/LiquidThermalUI.xml",
+    "bytes": 2681,
+    "sha256": "2094e823369cd7300b8da653d9b61f3ef1b639e2deea96f41e8c8b0f7fd137b9"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary.fbm/Thermal/Solid/SolidThermalUI.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Materials/InventorMaterialLibrary.fbm/Thermal/Solid/SolidThermalUI.xml",
+    "bytes": 4218,
+    "sha256": "4130e74250379cdfd15dcd0e9623753a538db7fcc3d4aafa73dbc212f7c44faa"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Simulation/Report/Autodesk_Logo_Black.png",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Simulation/Report/Autodesk_Logo_Black.png",
+    "bytes": 2636,
+    "sha256": "64a2710bc027197c1ef3ecf84e62e3bca4b6f0e8acc249b85cb3197c7b43b467"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Simulation/Report/Configuration.htm",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Simulation/Report/Configuration.htm",
+    "bytes": 20338,
+    "sha256": "98e7360dc430fe4a4fe5e6b0845215c6d0b404896cc4ebedf8aa3f627367c6f3"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Simulation/Report/Constraint.htm",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Simulation/Report/Constraint.htm",
+    "bytes": 439,
+    "sha256": "05809f1e45eb39174dc91ce28477eb22e3febeddff5eea357f467c4e7e40326c"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Simulation/Report/Contact.htm",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Simulation/Report/Contact.htm",
+    "bytes": 185,
+    "sha256": "63941ca1e58a97dfa36dee47435a28ce742d97d1becc6596df74bca5a903431f"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Simulation/Report/Figure.htm",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Simulation/Report/Figure.htm",
+    "bytes": 224,
+    "sha256": "a9b8236ec0118d92fa26925bcf94c4eafab64e6e1dffdefe42446d07132b6e82"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Simulation/Report/Load.htm",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Simulation/Report/Load.htm",
+    "bytes": 419,
+    "sha256": "a1889fa4d2c2a91748798844e54f49f889b6eda4ea93a87a8aac5a8b10626f9f"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Simulation/Report/Main.htm",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Simulation/Report/Main.htm",
+    "bytes": 4602,
+    "sha256": "3b2ced8b29197fb5a22853a0d4013c40469c84874713d3b5e39610ee87b05638"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Simulation/Report/Material.htm",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Simulation/Report/Material.htm",
+    "bytes": 954,
+    "sha256": "d6e4da932df88f642722efb3ea65a7800f29e136bb7a8ab13ec34d43a738ef3e"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Simulation/Report/ReactionForces.htm",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Simulation/Report/ReactionForces.htm",
+    "bytes": 287,
+    "sha256": "d4c2fca87be6f4e8cadb7a2aaeea943a6e09231dec0d5ea5fd055bb301a6fb2c"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Simulation/Report/Shell.htm",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Simulation/Report/Shell.htm",
+    "bytes": 181,
+    "sha256": "654b04c07b3095631a74bc1bd206577de31e8d4a9f75fe19e1f7d5f0e64b73f4"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Simulation/Report/Simulation.htm",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Simulation/Report/Simulation.htm",
+    "bytes": 3880,
+    "sha256": "ddc1e68e2c55133253a3d871b2ad3114aa834e411f842d208a115c233b8ec5c2"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/Tube & Pipe/en-US/piping runs.iam",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/Tube & Pipe/en-US/piping runs.iam",
+    "bytes": 451072,
+    "sha256": "969ae8d5c2bd0b4834d7fdea8e65bcbdea56d593576399d4ac9ad039183c7926"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/XLS/en-US/clearance.xlsx",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/XLS/en-US/clearance.xlsx",
+    "bytes": 65729,
+    "sha256": "cdeb81ff6dea03dacff49741d06e3484142c25e82b61967ad58a3b1a7a4be1f2"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/XLS/en-US/thread.xlsx",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/XLS/en-US/thread.xlsx",
+    "bytes": 771102,
+    "sha256": "9765cc7ef69accd61196e650f2155a50ef7f55bec8f01db6069b18a1b1d1dee9"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Design Data/XML/en-US/finish.xml",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Design Data/XML/en-US/finish.xml",
+    "bytes": 4363,
+    "sha256": "b717ff5504a527a1b6013ef1fe629a6c75a4c511929cc60e2b725f038c75f439"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Libraries/Content Center Files/en-US/ANSI AFBMA 21.1 NT(2)/ANSI_AFBMA 21.1 NT - 08NT01(1).ipt",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Libraries/Content Center Files/en-US/ANSI AFBMA 21.1 NT(2)/ANSI_AFBMA 21.1 NT - 08NT01(1).ipt",
+    "bytes": 179712,
+    "sha256": "892f096b6c2a49b181c345ba1471094a73c832c770b9185c0b1975fdd2e824aa"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Libraries/Content Center Files/en-US/ANSI AFBMA 21.1 NTW/ANSI_AFBMA 21.1 NTW - 08NTW12 8 x 21 x 0.8.ipt",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Libraries/Content Center Files/en-US/ANSI AFBMA 21.1 NTW/ANSI_AFBMA 21.1 NTW - 08NTW12 8 x 21 x 0.8.ipt",
+    "bytes": 112128,
+    "sha256": "5179a81643d291a9ace965b852a0a59d67ae4ed339b4ccc0439db41ca79e34ed"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Libraries/Content Center Files/en-US/AS 1427(03)/AS 1427 - M2.5 x 10(1).ipt",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Libraries/Content Center Files/en-US/AS 1427(03)/AS 1427 - M2.5 x 10(1).ipt",
+    "bytes": 166912,
+    "sha256": "84b49629a636038f042cf39007e066d4ac900a79762c20156b7a9e66253c03bd"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Libraries/Content Center Files/en-US/AS 1427(04)/AS 1427 - M3 x 8(5) I.ipt",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Libraries/Content Center Files/en-US/AS 1427(04)/AS 1427 - M3 x 8(5) I.ipt",
+    "bytes": 227328,
+    "sha256": "9225b94c35b56e61c857ac6839f68afcba125cccb3609a2335402b1e316317f6"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Libraries/Content Center Files/en-US/AS 1427(04)/AS 1427 - M3.5 x 16(5) I.ipt",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Libraries/Content Center Files/en-US/AS 1427(04)/AS 1427 - M3.5 x 16(5) I.ipt",
+    "bytes": 224256,
+    "sha256": "b9295556156906bde3eaf462de475b3ada9c13c89b3928065e34c887698db24a"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Libraries/Content Center Files/en-US/AS 1427(04)/AS 1427 - M3.5 x 20(5) I.ipt",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Libraries/Content Center Files/en-US/AS 1427(04)/AS 1427 - M3.5 x 20(5) I.ipt",
+    "bytes": 221696,
+    "sha256": "dcaac71a874351b52f0ae2f41584c9a5491edd489fdfef5f6ddad6c151e1e418"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Libraries/Content Center Files/en-US/AS 1427(04)/AS 1427 - M3.5 x 8(5) I.ipt",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Libraries/Content Center Files/en-US/AS 1427(04)/AS 1427 - M3.5 x 8(5) I.ipt",
+    "bytes": 229376,
+    "sha256": "cd1e6c400a75d9bd90673ec9f091ed86153a7ba86c58b8cc76dc054714e22c37"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Templates/English/ANSI (in).dwg",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Templates/English/ANSI (in).dwg",
+    "bytes": 203944,
+    "sha256": "a91d07ceb945d6ea09d44117519594dc6afcf2843d7c4ed4525dabde7c73f18e"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Templates/English/ANSI (in).idw",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Templates/English/ANSI (in).idw",
+    "bytes": 203264,
+    "sha256": "53191f6f64be2a5cabbd4896dc130b41826b8794dad2ebf3099a6a7819dcb446"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Templates/English/Mold Design (in).iam",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Templates/English/Mold Design (in).iam",
+    "bytes": 227840,
+    "sha256": "b0053d73722cf702c2d05042bf728827327b7864a9e841a99b2161ea2b5ee56c"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Templates/English/Sheet Metal (in).ipt",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Templates/English/Sheet Metal (in).ipt",
+    "bytes": 77824,
+    "sha256": "7a048afade1e9c2c5392c1f024fcf22dd70b7714aec264fdcdf6ff14381b0911"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Templates/English/Standard (in).iam",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Templates/English/Standard (in).iam",
+    "bytes": 65536,
+    "sha256": "07bca72c7814ac1eaa2e49479788abf3f36dc0874ba2a511f62162f0828257ba"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Templates/English/Standard (in).ipn",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Templates/English/Standard (in).ipn",
+    "bytes": 196608,
+    "sha256": "a3e573963eae20ff4c75ee12007fd38469cad3dfb98ed396dcc2d61b6a9569fc"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Templates/English/Standard (in).ipt",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Templates/English/Standard (in).ipt",
+    "bytes": 71680,
+    "sha256": "81dec46fd5ca233ebdae12d72f5afd425f69eac6aa11361d89fc8ec6108a7efd"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Templates/English/Weldment (ANSI).iam",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Templates/English/Weldment (ANSI).iam",
+    "bytes": 351232,
+    "sha256": "db80c607957aab2b9b8da8aab4d458ccf25de7e3e1ee0e1d84c95cec9eac72ed"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Templates/Metric/ANSI (mm).dwg",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Templates/Metric/ANSI (mm).dwg",
+    "bytes": 200001,
+    "sha256": "f0a0e76626afc4024308892bf1367d6c5d22daa05cea8c9368cbff84e999207c"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Templates/Metric/ANSI (mm).idw",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Templates/Metric/ANSI (mm).idw",
+    "bytes": 192512,
+    "sha256": "5905f6fd7e851597ec31b6336e9b0dce5b25c588b9f4ab6814e636dd9d21c90c"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Templates/Metric/BSI.dwg",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Templates/Metric/BSI.dwg",
+    "bytes": 158658,
+    "sha256": "9085bc29bb9dd0cf3059818b499e0012965cfc4cc71158dd6db95fd0bb5d26ab"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Templates/Metric/BSI.idw",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Templates/Metric/BSI.idw",
+    "bytes": 151552,
+    "sha256": "e7df8240af100292b2fbd85bdceb54b2087784db74fe6ad1b01146a564e9bb53"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Templates/Metric/DIN.dwg",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Templates/Metric/DIN.dwg",
+    "bytes": 166911,
+    "sha256": "4753cc32103b479fbda240eb9d7158f446fa68976b715a8734c288c833962eb5"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Templates/Metric/DIN.idw",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Templates/Metric/DIN.idw",
+    "bytes": 160768,
+    "sha256": "476b04c37ff6a117c946438356441615e4460ea696a2ae74d182082e5f2cd965"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Templates/Metric/GB.dwg",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Templates/Metric/GB.dwg",
+    "bytes": 201832,
+    "sha256": "13585c95a83c227f50d6886eafab1ad0519d89a5ebeecd02e28744a85f293b48"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Templates/Metric/GB.idw",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Templates/Metric/GB.idw",
+    "bytes": 193536,
+    "sha256": "3689abd6d52b7586b1b0e8439f73735dff7670c13737aa215ee7e0bfc1516361"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Templates/Metric/GOST.dwg",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Templates/Metric/GOST.dwg",
+    "bytes": 263467,
+    "sha256": "06ad562c3a8ec8c76dee0840121f976806b0b442e0ef6458422982b5717b1c83"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Templates/Metric/GOST.idw",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Templates/Metric/GOST.idw",
+    "bytes": 262144,
+    "sha256": "50d683bc020450217d82f27222e1b55fc4743c1b11df22ea59a02765c5c8cf65"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Templates/Metric/ISO.dwg",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Templates/Metric/ISO.dwg",
+    "bytes": 156003,
+    "sha256": "7ab22231a69483ddaacfea0a445c64f3938fac9bf23d987f5fab24d486f5230c"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Templates/Metric/ISO.idw",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Templates/Metric/ISO.idw",
+    "bytes": 151040,
+    "sha256": "35a84c2dbbdff81efe20c472b2509e83eb1495c5ce7cb1f56448b120a28181e0"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Templates/Metric/JIS.dwg",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Templates/Metric/JIS.dwg",
+    "bytes": 162717,
+    "sha256": "35bd49a977ef02ed6142dfb51a28217d43008d2c22d500c939a813e548c5cd7d"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Templates/Metric/JIS.idw",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Templates/Metric/JIS.idw",
+    "bytes": 152576,
+    "sha256": "f1d899fac5cf64eca8125abff70a106a6c2c3c986acf4267229fc5b3039588fe"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Templates/Metric/Mold Design (DIN).iam",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Templates/Metric/Mold Design (DIN).iam",
+    "bytes": 228352,
+    "sha256": "7d97dc8de9c7b4d5dd9327a21dadb88113d91f852217690f0f219635970fd33b"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Templates/Metric/Mold Design (mm).iam",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Templates/Metric/Mold Design (mm).iam",
+    "bytes": 228352,
+    "sha256": "979907e7ea2181c585fd1d3fa880b48b120656a5941df3c1bb25f1f739cc6a75"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Templates/Metric/Sheet Metal (DIN).ipt",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Templates/Metric/Sheet Metal (DIN).ipt",
+    "bytes": 75776,
+    "sha256": "123a3d0c5edb35aab9e96e3e270cb00c409e665aa191030da5f967fc2f4337a0"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Templates/Metric/Sheet Metal (mm).ipt",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Templates/Metric/Sheet Metal (mm).ipt",
+    "bytes": 76800,
+    "sha256": "c43310b6a7fb520d974fc6d42e26a3c89e0abae9dda91ff935c2c571597082d7"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Templates/Metric/Standard (DIN).iam",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Templates/Metric/Standard (DIN).iam",
+    "bytes": 67072,
+    "sha256": "e20a7104a7dab05aaf9879a8f3ab0b3300897b26c12aadae47444e47a7c2e41a"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Templates/Metric/Standard (DIN).ipn",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Templates/Metric/Standard (DIN).ipn",
+    "bytes": 197120,
+    "sha256": "a3a9720c378ddf3e2703bff74461d187bd06b4531e1abd087bb34578f20a4b29"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Templates/Metric/Standard (DIN).ipt",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Templates/Metric/Standard (DIN).ipt",
+    "bytes": 71680,
+    "sha256": "71c436577783057229a44ce31bd000f96f56d35a558946c098faf6b092d6130c"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Templates/Metric/Standard (mm).iam",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Templates/Metric/Standard (mm).iam",
+    "bytes": 74752,
+    "sha256": "5349c031030a0d88721f3a1a13a2c8bceb76c9a1e28e1d475d6ebe79f714276a"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Templates/Metric/Standard (mm).ipn",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Templates/Metric/Standard (mm).ipn",
+    "bytes": 196608,
+    "sha256": "014c9c1696eb787bac21f35f8cd0452e7360d394b764f9363409bfe2e46fb4d4"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Templates/Metric/Standard (mm).ipt",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Templates/Metric/Standard (mm).ipt",
+    "bytes": 71168,
+    "sha256": "d32fcff9f2af8bd2736fe83b8d6d53e0a066d1d3b7881b6a51cf1714b33918d0"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Templates/Metric/Weldment (ANSI - mm).iam",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Templates/Metric/Weldment (ANSI - mm).iam",
+    "bytes": 351744,
+    "sha256": "aa7b1772941af03a94dcdb73e687e463704c1146d9ba6e51e2d89654e44e96ed"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Templates/Metric/Weldment (BSI).iam",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Templates/Metric/Weldment (BSI).iam",
+    "bytes": 351232,
+    "sha256": "cf9c24d3734458ede5d6aa3bc181fef92195303ff72e5644a54319eb2d516e4b"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Templates/Metric/Weldment (DIN).iam",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Templates/Metric/Weldment (DIN).iam",
+    "bytes": 351744,
+    "sha256": "81565daf0f29acf6c2de1694a375c2f00d4202690ff68ea40813c1dee7921f7c"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Templates/Metric/Weldment (GB).iam",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Templates/Metric/Weldment (GB).iam",
+    "bytes": 351744,
+    "sha256": "1af88f420475f9b51dd3bed8c91b5f8564d4074811546e13902b0a816b08dd20"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Templates/Metric/Weldment (ISO).iam",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Templates/Metric/Weldment (ISO).iam",
+    "bytes": 351232,
+    "sha256": "f5b88add092dcefbd431a3881de9ec39b556a931c9a970a99bd94cba055eec41"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Templates/Metric/Weldment (JIS).iam",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Templates/Metric/Weldment (JIS).iam",
+    "bytes": 351744,
+    "sha256": "23ad855a97803d25e46b2816678cd7a7d6c53f5ac583c5e0df7a7e44110799dd"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Templates/Mold Design/Mold Design.iam",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Templates/Mold Design/Mold Design.iam",
+    "bytes": 227840,
+    "sha256": "b0053d73722cf702c2d05042bf728827327b7864a9e841a99b2161ea2b5ee56c"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Templates/OldTemplates/Sheet Metal.ipt",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Templates/OldTemplates/Sheet Metal.ipt",
+    "bytes": 77824,
+    "sha256": "7a048afade1e9c2c5392c1f024fcf22dd70b7714aec264fdcdf6ff14381b0911"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Templates/OldTemplates/standard.dwg",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Templates/OldTemplates/standard.dwg",
+    "bytes": 203944,
+    "sha256": "a91d07ceb945d6ea09d44117519594dc6afcf2843d7c4ed4525dabde7c73f18e"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Templates/OldTemplates/Standard.iam",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Templates/OldTemplates/Standard.iam",
+    "bytes": 65536,
+    "sha256": "07bca72c7814ac1eaa2e49479788abf3f36dc0874ba2a511f62162f0828257ba"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Templates/OldTemplates/Standard.idw",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Templates/OldTemplates/Standard.idw",
+    "bytes": 203264,
+    "sha256": "53191f6f64be2a5cabbd4896dc130b41826b8794dad2ebf3099a6a7819dcb446"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Templates/OldTemplates/Standard.ipn",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Templates/OldTemplates/Standard.ipn",
+    "bytes": 196608,
+    "sha256": "a3e573963eae20ff4c75ee12007fd38469cad3dfb98ed396dcc2d61b6a9569fc"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Templates/OldTemplates/Standard.ipt",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Templates/OldTemplates/Standard.ipt",
+    "bytes": 71680,
+    "sha256": "81dec46fd5ca233ebdae12d72f5afd425f69eac6aa11361d89fc8ec6108a7efd"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Templates/OldTemplates/Weldment.iam",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Templates/OldTemplates/Weldment.iam",
+    "bytes": 351232,
+    "sha256": "db80c607957aab2b9b8da8aab4d458ccf25de7e3e1ee0e1d84c95cec9eac72ed"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Templates/Mold Design/OldTemplates/Mold Design.iam",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Templates/Mold Design/OldTemplates/Mold Design.iam",
+    "bytes": 227840,
+    "sha256": "b0053d73722cf702c2d05042bf728827327b7864a9e841a99b2161ea2b5ee56c"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Workgroups/NotInProject/Aluminum Alloy Flange Coupling, 4 mm SHAFT HO.ipt",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Workgroups/NotInProject/Aluminum Alloy Flange Coupling, 4 mm SHAFT HO.ipt",
+    "bytes": 235520,
+    "sha256": "344c979a7af456e3a8bc34c8e65f21b91e1ade4be1191d555a7a9e834ced9e89"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Workgroups/NotInProject/Female DC-Power-to-Screw-Terminals-Adapter.ipt",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Workgroups/NotInProject/Female DC-Power-to-Screw-Terminals-Adapter.ipt",
+    "bytes": 895488,
+    "sha256": "0986ed0b83c5d10b6ecdfba699d2f7bc1bc127ba6fb1528f587aabd617034df0"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Workgroups/NotInProject/Half-Size Breadboard.ipt",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Workgroups/NotInProject/Half-Size Breadboard.ipt",
+    "bytes": 2135552,
+    "sha256": "4685a5e570f7178526240f03c6d2795b0342f4fc2c5f4348f5351575ea730ffa"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Workgroups/NotInProject/motor_JGA25-370_EN_LR25.ipt",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Workgroups/NotInProject/motor_JGA25-370_EN_LR25.ipt",
+    "bytes": 783360,
+    "sha256": "3dccce24a38b2a68d217eaac17e94638d24c6a7c3ade09b73b5767542db4756f"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Workgroups/NotInProject/Rigid Coupling.ipt",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Workgroups/NotInProject/Rigid Coupling.ipt",
+    "bytes": 251904,
+    "sha256": "c29b5e5c2144b9412a543ce36457e2461a2ab6527d16a30a7d93ea319cdab26c"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Workgroups/NotInProject/Threaded insert M3x5x4.ipt",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Workgroups/NotInProject/Threaded insert M3x5x4.ipt",
+    "bytes": 994816,
+    "sha256": "0cfc42795022788db789bc16c4173d713b3a1a34672b37cabd002b66179d0b68"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Workgroups/NotInProject/Untitled.ipt",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Workgroups/NotInProject/Untitled.ipt",
+    "bytes": 3492352,
+    "sha256": "c5e9ba2c630f89d39b27c133a03affec6a774447cff5e314991bfd0febf0995a"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Workspaces/Workspace/Aluminum Alloy Flange Coupling, 4 mm SHAFT HO.ipt",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Workspaces/Workspace/Aluminum Alloy Flange Coupling, 4 mm SHAFT HO.ipt",
+    "bytes": 235520,
+    "sha256": "344c979a7af456e3a8bc34c8e65f21b91e1ade4be1191d555a7a9e834ced9e89"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Workspaces/Workspace/body.ipt",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Workspaces/Workspace/body.ipt",
+    "bytes": 634368,
+    "sha256": "a07352e28ea293cd952630e97ad58414e9bd158b873393e773887be146d6767c"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Workspaces/Workspace/bracket for encoder.ipt",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Workspaces/Workspace/bracket for encoder.ipt",
+    "bytes": 268288,
+    "sha256": "51f58d18afd433fa932741f5acfde3ec29cfb1db556802a9a60ba959d3414c76"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Workspaces/Workspace/cover for electrical box.ipt",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Workspaces/Workspace/cover for electrical box.ipt",
+    "bytes": 215040,
+    "sha256": "90d3f3287cbc1d36e61ed4ceb7248b33b5cd3e23f9513758c46fb9a439bcf886"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Workspaces/Workspace/cover.ipt",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Workspaces/Workspace/cover.ipt",
+    "bytes": 240128,
+    "sha256": "ff9810b8ba55a42108fc319fdd6c9f66a90adc8bcce90998f404f1772e386c03"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Workspaces/Workspace/Female DC-Power-to-Screw-Terminals-Adapter.ipt",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Workspaces/Workspace/Female DC-Power-to-Screw-Terminals-Adapter.ipt",
+    "bytes": 895488,
+    "sha256": "0986ed0b83c5d10b6ecdfba699d2f7bc1bc127ba6fb1528f587aabd617034df0"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Workspaces/Workspace/Half-Size Breadboard.ipt",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Workspaces/Workspace/Half-Size Breadboard.ipt",
+    "bytes": 2135552,
+    "sha256": "4685a5e570f7178526240f03c6d2795b0342f4fc2c5f4348f5351575ea730ffa"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Workspaces/Workspace/modern conttrol.iam",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Workspaces/Workspace/modern conttrol.iam",
+    "bytes": 3429888,
+    "sha256": "7a3355d1901dfe5d1f554e3fc06a2cd62981283593a1d3926fed7d27a8b23457"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Workspaces/Workspace/motor holder.ipt",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Workspaces/Workspace/motor holder.ipt",
+    "bytes": 280064,
+    "sha256": "c78c8e77f4c1c6ba7e6f4cc47a3b2a2f826ad672bda252019c9036b83cd75e39"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Workspaces/Workspace/motor_JGA25-370_EN_LR25.ipt",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Workspaces/Workspace/motor_JGA25-370_EN_LR25.ipt",
+    "bytes": 783360,
+    "sha256": "3dccce24a38b2a68d217eaac17e94638d24c6a7c3ade09b73b5767542db4756f"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Workspaces/Workspace/part.ipt",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Workspaces/Workspace/part.ipt",
+    "bytes": 281600,
+    "sha256": "bca90106eb90d2eaa5947c9138568e41bd8f1d36023813fd01613b62f31f37e9"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Workspaces/Workspace/Rigid Coupling.ipt",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Workspaces/Workspace/Rigid Coupling.ipt",
+    "bytes": 251904,
+    "sha256": "c29b5e5c2144b9412a543ce36457e2461a2ab6527d16a30a7d93ea319cdab26c"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Workspaces/Workspace/shaft.ipt",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Workspaces/Workspace/shaft.ipt",
+    "bytes": 221184,
+    "sha256": "72cb9a01459ba968a02078cd79c8b607fd7c2b8c21bf736c07a853907e146f98"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Workspaces/Workspace/Untitled.ipt",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Workspaces/Workspace/Untitled.ipt",
+    "bytes": 3492352,
+    "sha256": "c5e9ba2c630f89d39b27c133a03affec6a774447cff5e314991bfd0febf0995a"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Workspaces/Workspace/OldVersions/modern conttrol.0009.iam",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Workspaces/Workspace/OldVersions/modern conttrol.0009.iam",
+    "bytes": 4260352,
+    "sha256": "4b0d5703125f6da7abcdc6738d47b2446c314597f789c3eb34a0057c3cce0284"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Workspaces/Workspace/38-pin-esp32-wroom-esp-32d-development-kit-1.snapshot.3/ESP32 WROOM/ESP32 WROOM.ipt",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Workspaces/Workspace/38-pin-esp32-wroom-esp-32d-development-kit-1.snapshot.3/ESP32 WROOM/ESP32 WROOM.ipt",
+    "bytes": 1346048,
+    "sha256": "25dda12ce7124b633d34f2dedff04d59a107ded21ddce3321d78f55affc2be1b"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Workspaces/Workspace/buck-converter-lm2596-output-5v-1.snapshot.7/LM2596_5V/LM2596_5V.ipt",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Workspaces/Workspace/buck-converter-lm2596-output-5v-1.snapshot.7/LM2596_5V/LM2596_5V.ipt",
+    "bytes": 1453056,
+    "sha256": "c989666817a67100e759d0f37519971ff1437f3fb1d0aeae4d38c3b63b9ac7b2"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Workspaces/Workspace/rotary-encoder-16.snapshot.5/Rotary Encoder/rotary encoder.ipt",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Workspaces/Workspace/rotary-encoder-16.snapshot.5/Rotary Encoder/rotary encoder.ipt",
+    "bytes": 206848,
+    "sha256": "ce74026ee52b86a44f127d625ec6c11432cc58b2b73618de668da06a14affe8c"
+  },
+  {
+    "original": "Week6_Submission/CAD_existing_PackAndGo/Workspaces/Workspace/threaded-insert-m3x5x4-1.snapshot.2/Threaded insert M3x5x4/Threaded insert M3x5x4.ipt",
+    "repository_path": "archive/previous_week6_package/CAD_existing_PackAndGo/Workspaces/Workspace/threaded-insert-m3x5x4-1.snapshot.2/Threaded insert M3x5x4/Threaded insert M3x5x4.ipt",
+    "bytes": 1011200,
+    "sha256": "37400536cbc8d75c78616799c9b60b3c1fbf7db2de66c347ff88714851850c8f"
+  },
+  {
+    "original": "xml files/videos/Assem11.avi",
+    "repository_path": "results/videos/videos/Assem11.avi",
+    "bytes": 10322166,
+    "sha256": "985d4f4d3034cabc7c1174dddda1b2f3401993ec731fe87942972ac81d77fbfb"
+  },
+  {
+    "original": "xml files/slprj/sim/varcache/Assem11/checksumOfCache.mat",
+    "repository_path": "archive/simulation_generated/slprj/sim/varcache/Assem11/checksumOfCache.mat",
+    "bytes": 392,
+    "sha256": "23abacf87b278811d3faab23f355eeca5a57536a534635f463f126e1b09fc73e"
+  },
+  {
+    "original": "xml files/slprj/sim/varcache/Assem11/varInfo.mat",
+    "repository_path": "archive/simulation_generated/slprj/sim/varcache/Assem11/varInfo.mat",
+    "bytes": 672,
+    "sha256": "e440dd5c81bbffa1001b0649702a711e5aff91f78b1782c9fdc26b34c06175bf"
+  },
+  {
+    "original": "xml files/slprj/sim/varcache/Assem11/tmwinternal/simulink_cache.xml",
+    "repository_path": "archive/simulation_generated/slprj/sim/varcache/Assem11/tmwinternal/simulink_cache.xml",
+    "bytes": 371,
+    "sha256": "5bd543996b7c429d83982f456e38fd0f9670ced92c3cc1d18adda312898679f8"
+  }
+]

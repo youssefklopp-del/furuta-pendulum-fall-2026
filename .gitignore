@@ -1,0 +1,5 @@
+# New generated files; existing archived evidence is intentionally preserved
+**/slprj/
+*.slxc
+*.autosave
+~$*
