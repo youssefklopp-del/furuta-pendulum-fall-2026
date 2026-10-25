@@ -1,5 +1,15 @@
 # Furuta Pendulum Fall 2026
 
+## Download the complete project
+
+[Download all project files (ZIP, 237 MB)](https://github.com/youssefklopp-del/furuta-pendulum-fall-2026/releases/download/project-files-2026-10-25/furuta-pendulum-complete.zip)
+
+The ZIP contains 634 files with the original `archive`, `cad`, `docs`, `results`, and `simulation` folders preserved. Extract the entire archive before opening CAD assemblies or MATLAB models. The folders in this repository contain download guides; the project files are in the ZIP release asset.
+
+SHA-256: `E575138F89D5D596EF57EE72A9342849222F89D0AFA8CEDE016D6737C0A0189C`
+
+Access follows this private repository’s permissions.
+
 Rotary inverted pendulum project using Inventor, SolidWorks and MATLAB Simscape Multibody.
 
 ## Repository structure
