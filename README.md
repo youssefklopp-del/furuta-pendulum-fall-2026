@@ -1,5 +1,27 @@
 # Furuta Pendulum Fall 2026
 
+## Current MATLAB study - November 2026
+
+[Download the complete current project](https://github.com/youssefklopp-del/furuta-pendulum-fall-2026/releases/tag/project-study-2026-11-17) from the release Assets. Choose `furuta-pendulum-complete-2026-11-17.zip`, not the automatic Source code archive.
+
+The package includes the nine Live Scripts, Simulink models, physical and linear model data, STEP geometry, controller results, tuning and pulse tests, original CAD, and reports.
+
+Extract the whole ZIP. Set MATLAB Current Folder to `Furuta_Pendulum/simulation/Furuta_Project`, then open `models/Furuta_Study.slx`. Choose the controller before Run. Multibody Explorer and 1x pacing are enabled. Controller Live Scripts temporarily select their own controller; Comparison reads saved results.
+
+Required: MATLAB R2026a, Simulink, Simscape, Simscape Multibody and Control System Toolbox. Re-deriving the model also needs Symbolic Math Toolbox.
+
+- [Redesigned dynamics and state-space report](docs/Furuta_From_CAD_to_Control.pdf)
+- [Mechanical drawing PDF](docs/modern%20conttrol.pdf)
+- [Mechanical drawing DWG](docs/modern%20conttrol.dwg)
+
+The controllers stabilize near upright. Swing-up and hardware validation are separate tasks.
+
+## Earlier project documentation
+
+The notes and older download below describe the previous package. Use the current release above for the latest MATLAB study.
+
+# Furuta Pendulum Fall 2026
+
 ## Download the complete project
 
 [Download all project files (ZIP, 237 MB)](https://github.com/youssefklopp-del/furuta-pendulum-fall-2026/releases/download/project-files-2026-10-25/furuta-pendulum-complete.zip)
