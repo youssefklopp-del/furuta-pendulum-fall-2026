@@ -2,7 +2,7 @@
 
 ## Current MATLAB study - November 2026
 
-[Download the complete current project](https://github.com/youssefklopp-del/furuta-pendulum-fall-2026/releases/tag/project-study-2026-11-17) from the release Assets. Choose `furuta-pendulum-complete-2026-11-17.zip`, not the automatic Source code archive.
+[Download the complete current project](https://github.com/youssefklopp-del/furuta-pendulum-fall-2026/releases/tag/project-study-2026-11-17) from the release Assets. For the current MATLAB study, choose `01-current-matlab-study.zip`. For all CAD and historical files, download all numbered ZIP assets (01-11) and extract each into the same parent folder. See `DOWNLOAD_INSTRUCTIONS.txt`. The automatic Source code archive does not contain the full package.
 
 The package includes the nine Live Scripts, Simulink models, physical and linear model data, STEP geometry, controller results, tuning and pulse tests, original CAD, and reports.
 
