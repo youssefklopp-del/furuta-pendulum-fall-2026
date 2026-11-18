@@ -1,0 +1,80 @@
+{
+  "model_max_errors": [
+    6.7954472623971948E-8,
+    5.1418411409209774E-7,
+    2.561789430866046E-7,
+    5.3193319189404065E-6
+  ],
+  "completed": [
+    "Furuta_Mathematical_Model",
+    "Furuta_State_Space",
+    "Furuta_PID",
+    "Furuta_Pole_Placement",
+    "Furuta_LQR",
+    "Furuta_Comparison"
+  ],
+  "A_difference": 1.1368683772161603E-13,
+  "B_difference": 4.5474735088646412E-12,
+  "Furuta_PID": {
+    "PeakPendulum_deg": 2.764589625598322,
+    "PeakArm_deg": 16.123336146224805,
+    "PendulumSettling_s": 0.93399999999999994,
+    "ArmSettling_s": 6.907,
+    "PeakTorque_Nm": 0.0092041963548358929,
+    "RmsTorque_Nm": 0.00068544105675131042,
+    "PendulumIAE_rad_s": 0.015343596622654094,
+    "SaturationFraction": 0
+  },
+  "Furuta_Pole_Placement": {
+    "PeakPendulum_deg": 3.0540843310013961,
+    "PeakArm_deg": 18.427091744985635,
+    "PendulumSettling_s": 1.3070000000000002,
+    "ArmSettling_s": 1.3379999999999999,
+    "PeakTorque_Nm": 0.0088045355744250185,
+    "RmsTorque_Nm": 0.00069794462367263669,
+    "PendulumIAE_rad_s": 0.017121920137966092,
+    "SaturationFraction": 0
+  },
+  "Furuta_LQR": {
+    "PeakPendulum_deg": 2.6749003162955756,
+    "PeakArm_deg": 15.088461725561704,
+    "PendulumSettling_s": 1.3880000000000001,
+    "ArmSettling_s": 1.373,
+    "PeakTorque_Nm": 0.0094818785559249563,
+    "RmsTorque_Nm": 0.00068136502683302546,
+    "PendulumIAE_rad_s": 0.013512046382405215,
+    "SaturationFraction": 0
+  },
+  "comparison": [
+    {
+      "PeakPendulum_deg": 2.764589625598322,
+      "PeakArm_deg": 16.123336146224805,
+      "PendulumSettling_s": 0.93399999999999994,
+      "ArmSettling_s": 6.907,
+      "PeakTorque_Nm": 0.0092041963548358929,
+      "RmsTorque_Nm": 0.00068544105675131042,
+      "PendulumIAE_rad_s": 0.015343596622654094,
+      "SaturationFraction": 0
+    },
+    {
+      "PeakPendulum_deg": 3.0540843310013961,
+      "PeakArm_deg": 18.427091744985635,
+      "PendulumSettling_s": 1.3070000000000002,
+      "ArmSettling_s": 1.3379999999999999,
+      "PeakTorque_Nm": 0.0088045355744250185,
+      "RmsTorque_Nm": 0.00069794462367263669,
+      "PendulumIAE_rad_s": 0.017121920137966092,
+      "SaturationFraction": 0
+    },
+    {
+      "PeakPendulum_deg": 2.6749003162955756,
+      "PeakArm_deg": 15.088461725561704,
+      "PendulumSettling_s": 1.3880000000000001,
+      "ArmSettling_s": 1.373,
+      "PeakTorque_Nm": 0.0094818785559249563,
+      "RmsTorque_Nm": 0.00068136502683302546,
+      "PendulumIAE_rad_s": 0.013512046382405215,
+      "SaturationFraction": 0
+    }
+  ]
+}

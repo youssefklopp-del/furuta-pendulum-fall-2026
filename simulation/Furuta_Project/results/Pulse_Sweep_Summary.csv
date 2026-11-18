@@ -1,0 +1,4 @@
+Controller,CompletedRuns,RecoveredRuns,TargetPasses,WorstPendulum_deg,WorstArm_deg,WorstPendulumSettling_s,WorstArmSettling_s,WorstSaturationFraction
+PID,10,10,10,9.87916901828706,97.2561281807225,1.951,8.86,0.0248
+Pole Placement,10,10,10,11.4038706199625,126.903547328141,1.844,1.869,0.0293
+LQR,10,10,10,8.98918001410214,99.8234128314384,1.987,2.301,0.0242

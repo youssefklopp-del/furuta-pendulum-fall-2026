@@ -1,0 +1,8 @@
+{
+  "CompletedRuns": 30,
+  "CasesPerController": 10,
+  "AcceptedGainsUsed": true,
+  "PositiveNominalMatchesPreviousTest": true,
+  "RecoveredRuns": 30,
+  "RunsMeetingTargets": 30
+}
