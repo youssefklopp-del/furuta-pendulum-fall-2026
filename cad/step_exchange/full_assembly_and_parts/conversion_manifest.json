@@ -1,0 +1,2467 @@
+﻿{
+    "Source":  "C:\\Users\\youss\\Downloads\\modern control\\cad files\\Workspaces\\Workspace\\modern conttrol.iam",
+    "InventorVersion":  "2027.1",
+    "ConstraintCount":  93,
+    "JointCount":  0,
+    "Exports":  [
+                    {
+                        "Source":  "C:\\Users\\youss\\OneDrive\\Documents\\Inventor\\Content Center Files\\R2027\\en-US\\AS 1427(04)\\AS 1427 - M3.5 x 8(5) I.ipt",
+                        "STEP":  "C:\\Users\\youss\\Downloads\\modern control\\sloidworks version\\01_AS 1427 - M3.5 x 8(5) I.step",
+                        "Bytes":  67986,
+                        "Status":  "exported"
+                    },
+                    {
+                        "Source":  "C:\\Users\\youss\\Downloads\\2-position-screw-down-terminal-block-to-female-dc-power-adapter-1.snapshot.16\\Female DC-Power-to-Screw-Terminals-Adapter\\Female DC-Power-to-Screw-Terminals-Adapter.ipt",
+                        "STEP":  "C:\\Users\\youss\\Downloads\\modern control\\sloidworks version\\02_Female DC-Power-to-Screw-Terminals-Adapter.step",
+                        "Bytes":  2159419,
+                        "Status":  "exported"
+                    },
+                    {
+                        "Source":  "C:\\Users\\youss\\Downloads\\modern control model inventor\\threaded-insert-m3x5x4-1.snapshot.2\\Threaded insert M3x5x4\\Threaded insert M3x5x4.ipt",
+                        "STEP":  "C:\\Users\\youss\\Downloads\\modern control\\sloidworks version\\03_Threaded insert M3x5x4.step",
+                        "Bytes":  2456064,
+                        "Status":  "exported"
+                    },
+                    {
+                        "Source":  "C:\\Users\\youss\\Downloads\\half-size-breadboard-1.snapshot.1 (1)\\Half-Size Breadboard\\STEP\\Half-Size Breadboard\\Half-Size Breadboard.ipt",
+                        "STEP":  "C:\\Users\\youss\\Downloads\\modern control\\sloidworks version\\04_Half-Size Breadboard.step",
+                        "Bytes":  6617534,
+                        "Status":  "exported"
+                    },
+                    {
+                        "Source":  "C:\\Users\\youss\\Downloads\\modern control model inventor\\38-pin-esp32-wroom-esp-32d-development-kit-1.snapshot.3\\ESP32 WROOM\\ESP32 WROOM.ipt",
+                        "STEP":  "C:\\Users\\youss\\Downloads\\modern control\\sloidworks version\\05_ESP32 WROOM.step",
+                        "Bytes":  3518516,
+                        "Status":  "exported"
+                    },
+                    {
+                        "Source":  "C:\\Users\\youss\\Downloads\\modern control model inventor\\buck-converter-lm2596-output-5v-1.snapshot.7\\LM2596_5V\\LM2596_5V.ipt",
+                        "STEP":  "C:\\Users\\youss\\Downloads\\modern control\\sloidworks version\\06_LM2596_5V.step",
+                        "Bytes":  3524970,
+                        "Status":  "exported"
+                    },
+                    {
+                        "Source":  "C:\\Users\\youss\\Downloads\\tb6612fng-2.snapshot.1\\Untitled\\Untitled.ipt",
+                        "STEP":  "C:\\Users\\youss\\Downloads\\modern control\\sloidworks version\\07_Untitled.step",
+                        "Bytes":  8094831,
+                        "Status":  "exported"
+                    },
+                    {
+                        "Source":  "C:\\Users\\youss\\Downloads\\modern control model inventor\\cover for electrical box.ipt",
+                        "STEP":  "C:\\Users\\youss\\Downloads\\modern control\\sloidworks version\\08_cover for electrical box.step",
+                        "Bytes":  74951,
+                        "Status":  "exported"
+                    },
+                    {
+                        "Source":  "C:\\Users\\youss\\Downloads\\modern control model inventor\\body.ipt",
+                        "STEP":  "C:\\Users\\youss\\Downloads\\modern control\\sloidworks version\\09_body.step",
+                        "Bytes":  50337,
+                        "Status":  "exported"
+                    },
+                    {
+                        "Source":  "C:\\Users\\youss\\OneDrive\\Documents\\Inventor\\Content Center Files\\R2027\\en-US\\AS 1427(04)\\AS 1427 - M3.5 x 20(5) I.ipt",
+                        "STEP":  "C:\\Users\\youss\\Downloads\\modern control\\sloidworks version\\10_AS 1427 - M3.5 x 20(5) I.step",
+                        "Bytes":  67902,
+                        "Status":  "exported"
+                    },
+                    {
+                        "Source":  "C:\\Users\\youss\\OneDrive\\Documents\\Inventor\\Content Center Files\\R2027\\en-US\\AS 1427(04)\\AS 1427 - M3 x 8(5) I.ipt",
+                        "STEP":  "C:\\Users\\youss\\Downloads\\modern control\\sloidworks version\\11_AS 1427 - M3 x 8(5) I.step",
+                        "Bytes":  66198,
+                        "Status":  "exported"
+                    },
+                    {
+                        "Source":  "C:\\Users\\youss\\OneDrive\\Documents\\Inventor\\Content Center Files\\R2027\\en-US\\AS 1427(04)\\AS 1427 - M3.5 x 16(5) I.ipt",
+                        "STEP":  "C:\\Users\\youss\\Downloads\\modern control\\sloidworks version\\12_AS 1427 - M3.5 x 16(5) I.step",
+                        "Bytes":  67921,
+                        "Status":  "exported"
+                    },
+                    {
+                        "Source":  "C:\\Users\\youss\\Downloads\\modern control model inventor\\bracket for encoder.ipt",
+                        "STEP":  "C:\\Users\\youss\\Downloads\\modern control\\sloidworks version\\13_bracket for encoder.step",
+                        "Bytes":  52861,
+                        "Status":  "exported"
+                    },
+                    {
+                        "Source":  "C:\\Users\\youss\\OneDrive\\Documents\\Inventor\\Content Center Files\\R2027\\en-US\\AS 1427(03)\\AS 1427 - M2.5 x 10(1).ipt",
+                        "STEP":  "C:\\Users\\youss\\Downloads\\modern control\\sloidworks version\\14_AS 1427 - M2.5 x 10(1).step",
+                        "Bytes":  19090,
+                        "Status":  "exported"
+                    },
+                    {
+                        "Source":  "C:\\Users\\youss\\Downloads\\modern control\\cad files\\Workspaces\\Workspace\\motor_JGA25-370_EN_LR25.ipt",
+                        "STEP":  "C:\\Users\\youss\\Downloads\\modern control\\sloidworks version\\15_motor_JGA25-370_EN_LR25.step",
+                        "Bytes":  876030,
+                        "Status":  "exported"
+                    },
+                    {
+                        "Source":  "C:\\Users\\youss\\Downloads\\modern control\\cad files\\Workspaces\\Workspace\\Rigid Coupling.ipt",
+                        "STEP":  "C:\\Users\\youss\\Downloads\\modern control\\sloidworks version\\16_Rigid Coupling.step",
+                        "Bytes":  62759,
+                        "Status":  "exported"
+                    },
+                    {
+                        "Source":  "C:\\Users\\youss\\Downloads\\modern control model inventor\\shaft.ipt",
+                        "STEP":  "C:\\Users\\youss\\Downloads\\modern control\\sloidworks version\\17_shaft.step",
+                        "Bytes":  14752,
+                        "Status":  "exported"
+                    },
+                    {
+                        "Source":  "C:\\Users\\youss\\Downloads\\modern control model inventor\\cover.ipt",
+                        "STEP":  "C:\\Users\\youss\\Downloads\\modern control\\sloidworks version\\18_cover.step",
+                        "Bytes":  29994,
+                        "Status":  "exported"
+                    },
+                    {
+                        "Source":  "C:\\Users\\youss\\Downloads\\modern control model inventor\\part.ipt",
+                        "STEP":  "C:\\Users\\youss\\Downloads\\modern control\\sloidworks version\\19_part.step",
+                        "Bytes":  54746,
+                        "Status":  "exported"
+                    },
+                    {
+                        "Source":  "C:\\Users\\youss\\Downloads\\modern control\\cad files\\Workspaces\\Workspace\\Aluminum Alloy Flange Coupling, 4 mm SHAFT HO.ipt",
+                        "STEP":  "C:\\Users\\youss\\Downloads\\modern control\\sloidworks version\\20_Aluminum Alloy Flange Coupling, 4 mm SHAFT HO.step",
+                        "Bytes":  38008,
+                        "Status":  "exported"
+                    },
+                    {
+                        "Source":  "C:\\Users\\youss\\OneDrive\\Documents\\Inventor\\Content Center Files\\R2027\\en-US\\ANSI AFBMA 21.1 NTW\\ANSI_AFBMA 21.1 NTW - 08NTW12 8 x 21 x 0.8.ipt",
+                        "STEP":  "C:\\Users\\youss\\Downloads\\modern control\\sloidworks version\\21_ANSI_AFBMA 21.1 NTW - 08NTW12 8 x 21 x 0.8.step",
+                        "Bytes":  14366,
+                        "Status":  "exported"
+                    },
+                    {
+                        "Source":  "C:\\Users\\youss\\OneDrive\\Documents\\Inventor\\Content Center Files\\R2027\\en-US\\ANSI AFBMA 21.1 NT(2)\\ANSI_AFBMA 21.1 NT - 08NT01(1).ipt",
+                        "STEP":  "C:\\Users\\youss\\Downloads\\modern control\\sloidworks version\\22_ANSI_AFBMA 21.1 NT - 08NT01(1).step",
+                        "Bytes":  61440,
+                        "Status":  "exported"
+                    },
+                    {
+                        "Source":  "C:\\Users\\youss\\Downloads\\modern control model inventor\\motor holder.ipt",
+                        "STEP":  "C:\\Users\\youss\\Downloads\\modern control\\sloidworks version\\23_motor holder.step",
+                        "Bytes":  44475,
+                        "Status":  "exported"
+                    },
+                    {
+                        "Source":  "C:\\Users\\youss\\Downloads\\modern control model inventor\\rotary-encoder-16.snapshot.5\\Rotary Encoder\\rotary encoder.ipt",
+                        "STEP":  "C:\\Users\\youss\\Downloads\\modern control\\sloidworks version\\24_rotary encoder.step",
+                        "Bytes":  42216,
+                        "Status":  "exported"
+                    },
+                    {
+                        "Source":  "C:\\Users\\youss\\Downloads\\modern control\\cad files\\Workspaces\\Workspace\\modern conttrol.iam",
+                        "STEP":  "C:\\Users\\youss\\Downloads\\modern control\\sloidworks version\\25_modern conttrol.step",
+                        "Bytes":  29071863,
+                        "Status":  "exported"
+                    }
+                ],
+    "Occurrences":  [
+                        {
+                            "Name":  "rotary encoder:1",
+                            "Source":  "C:\\Users\\youss\\Downloads\\modern control model inventor\\rotary-encoder-16.snapshot.5\\Rotary Encoder\\rotary encoder.ipt",
+                            "Grounded":  false,
+                            "Suppressed":  false,
+                            "TransformRowMajor":  [
+                                                      -0.74351561239549291,
+                                                      0.00017031373182494112,
+                                                      0.66871855448849615,
+                                                      -24.614772375577477,
+                                                      -0.6687185539217313,
+                                                      6.8629060226934954E-05,
+                                                      -0.74351562924422943,
+                                                      -3.9147318354770482,
+                                                      -0.00017252444743749785,
+                                                      -0.99999998314188943,
+                                                      6.28651747164948E-05,
+                                                      -47.715729024957376,
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                        },
+                        {
+                            "Name":  "motor holder:1",
+                            "Source":  "C:\\Users\\youss\\Downloads\\modern control model inventor\\motor holder.ipt",
+                            "Grounded":  true,
+                            "Suppressed":  false,
+                            "TransformRowMajor":  [
+                                                      0.73842449503413632,
+                                                      -0.674336144757652,
+                                                      0.00017031371616536985,
+                                                      -27.104088069178047,
+                                                      -0.67433616158089049,
+                                                      -0.738424496122931,
+                                                      6.8629077653403073E-05,
+                                                      -6.3655283189822311,
+                                                      7.9484752399187225E-05,
+                                                      -0.00016552608963443371,
+                                                      -0.99999998314174077,
+                                                      -42.790321502430537,
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                        },
+                        {
+                            "Name":  "ANSI/AFBMA 21.1 NT - Thrust Needle Roller And Cage Assembly (Inch) 08NT01:1",
+                            "Source":  "C:\\Users\\youss\\OneDrive\\Documents\\Inventor\\Content Center Files\\R2027\\en-US\\ANSI AFBMA 21.1 NT(2)\\ANSI_AFBMA 21.1 NT - 08NT01(1).ipt",
+                            "Grounded":  false,
+                            "Suppressed":  false,
+                            "TransformRowMajor":  [
+                                                      0.99999988088700242,
+                                                      -0.00017031371616455348,
+                                                      -0.00045740487446980604,
+                                                      -27.217840024390316,
+                                                      -0.00045741656849874486,
+                                                      -6.8629077652504242E-05,
+                                                      -0.99999989303006065,
+                                                      -6.2555542324413729,
+                                                      0.00017028230667148116,
+                                                      0.999999983141743,
+                                                      -6.8706973793517464E-05,
+                                                      -43.236333136047762,
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                        },
+                        {
+                            "Name":  "ANSI/AFBMA 21.1 NTW - Thrust Washer (Metric) 08NTW12 8 x 21 x 0.8:1",
+                            "Source":  "C:\\Users\\youss\\OneDrive\\Documents\\Inventor\\Content Center Files\\R2027\\en-US\\ANSI AFBMA 21.1 NTW\\ANSI_AFBMA 21.1 NTW - 08NTW12 8 x 21 x 0.8.ipt",
+                            "Grounded":  false,
+                            "Suppressed":  false,
+                            "TransformRowMajor":  [
+                                                      0.19423359782630584,
+                                                      -0.00017031371616357493,
+                                                      0.98095528973989143,
+                                                      -27.217809367955461,
+                                                      0.98095529938664661,
+                                                      -6.86290776525044E-05,
+                                                      -0.194233611651806,
+                                                      -6.2555418792211253,
+                                                      0.00010040270495750702,
+                                                      0.99999998314174543,
+                                                      0.00015374006976096873,
+                                                      -43.41633293301328,
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                        },
+                        {
+                            "Name":  "ANSI/AFBMA 21.1 NTW - Thrust Washer (Metric) 08NTW12 8 x 21 x 0.8:2",
+                            "Source":  "C:\\Users\\youss\\OneDrive\\Documents\\Inventor\\Content Center Files\\R2027\\en-US\\ANSI AFBMA 21.1 NTW\\ANSI_AFBMA 21.1 NTW - 08NTW12 8 x 21 x 0.8.ipt",
+                            "Grounded":  false,
+                            "Suppressed":  false,
+                            "TransformRowMajor":  [
+                                                      0.8394295198027647,
+                                                      -0.00017031371616377822,
+                                                      -0.54346853844252674,
+                                                      -27.217857055727876,
+                                                      -0.54346855485641132,
+                                                      -6.862907765253E-05,
+                                                      -0.83942952364822387,
+                                                      -6.255561095335409,
+                                                      0.00010566861710284503,
+                                                      0.99999998314211913,
+                                                      -0.00015016942289538572,
+                                                      -43.136333337733561,
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                        },
+                        {
+                            "Name":  "Aluminum Alloy Flange Coupling, 4 mm SHAFT HO:1",
+                            "Source":  "C:\\Users\\youss\\Downloads\\modern control\\cad files\\Workspaces\\Workspace\\Aluminum Alloy Flange Coupling, 4 mm SHAFT HO.ipt",
+                            "Grounded":  false,
+                            "Suppressed":  false,
+                            "TransformRowMajor":  [
+                                                      -0.74351561240635311,
+                                                      -0.00017031371616691452,
+                                                      -0.66871855447628137,
+                                                      -27.21758796012444,
+                                                      -0.66871855390944912,
+                                                      -6.8629077652832809E-05,
+                                                      0.7435156292550027,
+                                                      -6.2554526614201684,
+                                                      -0.00017252444744948967,
+                                                      0.99999998314212069,
+                                                      -6.2865151286451047E-05,
+                                                      -44.716332911098043,
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                        },
+                        {
+                            "Name":  "part:1",
+                            "Source":  "C:\\Users\\youss\\Downloads\\modern control model inventor\\part.ipt",
+                            "Grounded":  false,
+                            "Suppressed":  false,
+                            "TransformRowMajor":  [
+                                                      0.66871855447639206,
+                                                      -0.74351561240637865,
+                                                      0.00017031371616682182,
+                                                      -27.217587960124458,
+                                                      -0.74351562925511949,
+                                                      -0.66871855390962109,
+                                                      6.8629077652818051E-05,
+                                                      -6.2554526614201782,
+                                                      6.286515128634943E-05,
+                                                      -0.00017252444744954851,
+                                                      -0.99999998314190508,
+                                                      -44.716332911098029,
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                        },
+                        {
+                            "Name":  "cover:1",
+                            "Source":  "C:\\Users\\youss\\Downloads\\modern control model inventor\\cover.ipt",
+                            "Grounded":  false,
+                            "Suppressed":  false,
+                            "TransformRowMajor":  [
+                                                      -0.20736944995541118,
+                                                      0.97826268569249386,
+                                                      0.00017031371616900185,
+                                                      -27.216583109199068,
+                                                      0.97826270000055793,
+                                                      0.20736944104020175,
+                                                      6.862907765285387E-05,
+                                                      -6.2550477498620207,
+                                                      3.1819405697407195E-05,
+                                                      0.00018084312991026435,
+                                                      -0.99999998314242877,
+                                                      -50.616332811635615,
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                        },
+                        {
+                            "Name":  "shaft:1",
+                            "Source":  "C:\\Users\\youss\\Downloads\\modern control model inventor\\shaft.ipt",
+                            "Grounded":  false,
+                            "Suppressed":  false,
+                            "TransformRowMajor":  [
+                                                      -0.74351561239548158,
+                                                      0.3849511349513926,
+                                                      0.54680632569840926,
+                                                      -23.291783048495834,
+                                                      -0.66871855392195945,
+                                                      -0.4277974435337259,
+                                                      -0.60811581376126089,
+                                                      -2.3948599835049396,
+                                                      -0.0001725244474380724,
+                                                      -0.81780313707255081,
+                                                      0.57549804450554487,
+                                                      -47.888033389414176,
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                        },
+                        {
+                            "Name":  "Rigid Coupling:1",
+                            "Source":  "C:\\Users\\youss\\Downloads\\modern control\\cad files\\Workspaces\\Workspace\\Rigid Coupling.ipt",
+                            "Grounded":  false,
+                            "Suppressed":  false,
+                            "TransformRowMajor":  [
+                                                      -0.74351561239548569,
+                                                      0.63670818627988,
+                                                      -0.20441922524154132,
+                                                      -23.425147395744343,
+                                                      -0.66871855392196278,
+                                                      -0.708003660731778,
+                                                      0.22703812902443882,
+                                                      -2.8447821492019845,
+                                                      -0.00017252444743749609,
+                                                      0.30550532223611843,
+                                                      0.95219035298664245,
+                                                      -47.7154529858415,
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                        },
+                        {
+                            "Name":  "motor_JGA25-370_EN_LR25:1",
+                            "Source":  "C:\\Users\\youss\\Downloads\\modern control\\cad files\\Workspaces\\Workspace\\motor_JGA25-370_EN_LR25.ipt",
+                            "Grounded":  false,
+                            "Suppressed":  false,
+                            "TransformRowMajor":  [
+                                                      -0.73842449503403851,
+                                                      0.00017031371616147109,
+                                                      -0.67433614475793,
+                                                      -27.21791598427367,
+                                                      0.6743361615811182,
+                                                      6.8629077652658727E-05,
+                                                      -0.73842449612270755,
+                                                      -6.2555848409962787,
+                                                      -7.9484752396957441E-05,
+                                                      -0.99999998314184824,
+                                                      -0.00016552608963113106,
+                                                      -42.790333343566473,
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                        },
+                        {
+                            "Name":  "AS 1427 - Metric M2.5 x 10:1",
+                            "Source":  "C:\\Users\\youss\\OneDrive\\Documents\\Inventor\\Content Center Files\\R2027\\en-US\\AS 1427(03)\\AS 1427 - M2.5 x 10(1).ipt",
+                            "Grounded":  false,
+                            "Suppressed":  false,
+                            "TransformRowMajor":  [
+                                                      -0.000170313715999987,
+                                                      -1.1687999940973803E-08,
+                                                      -0.999999985497,
+                                                      -26.644697731309655,
+                                                      -6.8629077653428145E-05,
+                                                      0.99999999764499981,
+                                                      2.5588177509551133E-22,
+                                                      -5.6279109111381294,
+                                                      0.99999998314210581,
+                                                      6.8629076653441078E-05,
+                                                      -0.00017031371700001292,
+                                                      -42.981192643170338,
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                        },
+                        {
+                            "Name":  "AS 1427 - Metric M2.5 x 10:2",
+                            "Source":  "C:\\Users\\youss\\OneDrive\\Documents\\Inventor\\Content Center Files\\R2027\\en-US\\AS 1427(03)\\AS 1427 - M2.5 x 10(1).ipt",
+                            "Grounded":  false,
+                            "Suppressed":  false,
+                            "TransformRowMajor":  [
+                                                      -0.000170313715999987,
+                                                      -1.1687999940973803E-08,
+                                                      -0.999999985497,
+                                                      -27.791069177397716,
+                                                      -6.8629077653428145E-05,
+                                                      0.99999999764499981,
+                                                      2.5588177509551133E-22,
+                                                      -6.8832325545471713,
+                                                      0.99999998314210581,
+                                                      6.8629076653441078E-05,
+                                                      -0.00017031371700001292,
+                                                      -42.981474037522723,
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                        },
+                        {
+                            "Name":  "bracket for encoder:1",
+                            "Source":  "C:\\Users\\youss\\Downloads\\modern control model inventor\\bracket for encoder.ipt",
+                            "Grounded":  false,
+                            "Suppressed":  false,
+                            "TransformRowMajor":  [
+                                                      0.66871855447639317,
+                                                      0.00017031371615043494,
+                                                      0.74351561240637187,
+                                                      -26.250506722847671,
+                                                      -0.74351562925510217,
+                                                      6.8629077652983229E-05,
+                                                      0.66871855390962187,
+                                                      -5.3859126541047315,
+                                                      6.2865151275425023E-05,
+                                                      -0.99999998314190663,
+                                                      0.00017252444743750793,
+                                                      -47.71610857874208,
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                        },
+                        {
+                            "Name":  "Threaded insert M3x5x4:1",
+                            "Source":  "C:\\Users\\youss\\Downloads\\modern control model inventor\\threaded-insert-m3x5x4-1.snapshot.2\\Threaded insert M3x5x4\\Threaded insert M3x5x4.ipt",
+                            "Grounded":  false,
+                            "Suppressed":  false,
+                            "TransformRowMajor":  [
+                                                      0.78373275679086762,
+                                                      0.0001703137161679795,
+                                                      -0.62109817011984769,
+                                                      -27.901106670511204,
+                                                      0.62109816850456034,
+                                                      6.8629077652802709E-05,
+                                                      0.78373277357166149,
+                                                      -3.0268631947535054,
+                                                      0.00017610583569681917,
+                                                      -0.99999998314168159,
+                                                      -5.1994680958283112E-05,
+                                                      -49.416227827826312,
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                        },
+                        {
+                            "Name":  "Threaded insert M3x5x4:2",
+                            "Source":  "C:\\Users\\youss\\Downloads\\modern control model inventor\\threaded-insert-m3x5x4-1.snapshot.2\\Threaded insert M3x5x4\\Threaded insert M3x5x4.ipt",
+                            "Grounded":  false,
+                            "Suppressed":  false,
+                            "TransformRowMajor":  [
+                                                      0.92975317196324991,
+                                                      0.00017031371616738197,
+                                                      0.36818339209898093,
+                                                      -24.763185964717714,
+                                                      -0.36818340743921718,
+                                                      6.8629077651766971E-05,
+                                                      0.92975317895476772,
+                                                      -4.0483588768534267,
+                                                      0.00013308163241979582,
+                                                      -0.99999998314168026,
+                                                      0.00012651478698778726,
+                                                      -49.415763501188515,
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                        },
+                        {
+                            "Name":  "Threaded insert M3x5x4:3",
+                            "Source":  "C:\\Users\\youss\\Downloads\\modern control model inventor\\threaded-insert-m3x5x4-1.snapshot.2\\Threaded insert M3x5x4\\Threaded insert M3x5x4.ipt",
+                            "Grounded":  false,
+                            "Suppressed":  false,
+                            "TransformRowMajor":  [
+                                                      0.14602041517238129,
+                                                      0.00017031371616618612,
+                                                      0.9892815622188269,
+                                                      -24.078866779865017,
+                                                      -0.98928157594377586,
+                                                      6.8629077651767E-05,
+                                                      0.14602040538310535,
+                                                      -7.2766257868551421,
+                                                      -4.3024203276056727E-05,
+                                                      -0.99999998314168026,
+                                                      0.00017850946794533467,
+                                                      -49.415868505227316,
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                        },
+                        {
+                            "Name":  "Threaded insert M3x5x4:4",
+                            "Source":  "C:\\Users\\youss\\Downloads\\modern control model inventor\\threaded-insert-m3x5x4-1.snapshot.2\\Threaded insert M3x5x4\\Threaded insert M3x5x4.ipt",
+                            "Grounded":  false,
+                            "Suppressed":  false,
+                            "TransformRowMajor":  [
+                                                      -0.78373275679086907,
+                                                      0.00017031371616558818,
+                                                      0.62109817011984647,
+                                                      -26.532468300805785,
+                                                      -0.62109816850455879,
+                                                      6.8629077652802628E-05,
+                                                      -0.78373277357166271,
+                                                      -9.4833970147569246,
+                                                      -0.00017610583569488606,
+                                                      -0.99999998314168026,
+                                                      5.1994680956811484E-05,
+                                                      -49.416437835903913,
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                        },
+                        {
+                            "Name":  "Threaded insert M3x5x4:5",
+                            "Source":  "C:\\Users\\youss\\Downloads\\modern control model inventor\\threaded-insert-m3x5x4-1.snapshot.2\\Threaded insert M3x5x4\\Threaded insert M3x5x4.ipt",
+                            "Grounded":  false,
+                            "Suppressed":  false,
+                            "TransformRowMajor":  [
+                                                      -0.92975317196324969,
+                                                      0.00017031371616618612,
+                                                      -0.36818339209898077,
+                                                      -29.670389006599233,
+                                                      0.36818340743921713,
+                                                      6.8629077653838271E-05,
+                                                      -0.92975317895476739,
+                                                      -8.46190133265699,
+                                                      -0.00013308163241786274,
+                                                      -0.99999998314168026,
+                                                      -0.00012651478698925904,
+                                                      -49.416902162541675,
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                        },
+                        {
+                            "Name":  "Threaded insert M3x5x4:6",
+                            "Source":  "C:\\Users\\youss\\Downloads\\modern control model inventor\\threaded-insert-m3x5x4-1.snapshot.2\\Threaded insert M3x5x4\\Threaded insert M3x5x4.ipt",
+                            "Grounded":  false,
+                            "Suppressed":  false,
+                            "TransformRowMajor":  [
+                                                      -0.14602041517238179,
+                                                      0.00017031371616738194,
+                                                      -0.98928156221882713,
+                                                      -30.35470819145193,
+                                                      0.98928157594377608,
+                                                      6.8629077653838285E-05,
+                                                      -0.14602040538310562,
+                                                      -5.2336344226552676,
+                                                      4.302420327798969E-05,
+                                                      -0.99999998314168026,
+                                                      -0.00017850946794680647,
+                                                      -49.416797158502867,
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                        },
+                        {
+                            "Name":  "AS 1427 H - Metric M3.5 x 16:1",
+                            "Source":  "C:\\Users\\youss\\OneDrive\\Documents\\Inventor\\Content Center Files\\R2027\\en-US\\AS 1427(04)\\AS 1427 - M3.5 x 16(5) I.ipt",
+                            "Grounded":  false,
+                            "Suppressed":  false,
+                            "TransformRowMajor":  [
+                                                      -0.00017031371617060086,
+                                                      0.79171307716842043,
+                                                      0.610893095748885,
+                                                      -29.670108057689589,
+                                                      -6.862907765281225E-05,
+                                                      -0.61089311242417565,
+                                                      0.7917130796460502,
+                                                      -8.4617881223711411,
+                                                      0.999999983141823,
+                                                      9.2914567029730893E-05,
+                                                      0.00015837801441163972,
+                                                      -51.066498634732739,
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                        },
+                        {
+                            "Name":  "AS 1427 H - Metric M3.5 x 16:2",
+                            "Source":  "C:\\Users\\youss\\OneDrive\\Documents\\Inventor\\Content Center Files\\R2027\\en-US\\AS 1427(04)\\AS 1427 - M3.5 x 16(5) I.ipt",
+                            "Grounded":  false,
+                            "Suppressed":  false,
+                            "TransformRowMajor":  [
+                                                      -0.00017031371617048268,
+                                                      0.50298635395342739,
+                                                      0.86429433570386238,
+                                                      -24.078585830954182,
+                                                      -6.8629077652811247E-05,
+                                                      -0.86429435208279659,
+                                                      0.50298634996162139,
+                                                      -7.276512576569055,
+                                                      0.99999998314180838,
+                                                      2.6349751365165684E-05,
+                                                      0.0001817206725121031,
+                                                      -51.065464977418365,
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                        },
+                        {
+                            "Name":  "AS 1427 H - Metric M3.5 x 16:3",
+                            "Source":  "C:\\Users\\youss\\OneDrive\\Documents\\Inventor\\Content Center Files\\R2027\\en-US\\AS 1427(04)\\AS 1427 - M3.5 x 16(5) I.ipt",
+                            "Grounded":  false,
+                            "Suppressed":  false,
+                            "TransformRowMajor":  [
+                                                      -0.00017031371617030921,
+                                                      0.34193958062693308,
+                                                      0.93972192386502007,
+                                                      -24.762905015807164,
+                                                      -6.8629077652804647E-05,
+                                                      -0.939721939277836,
+                                                      0.34193957379699641,
+                                                      -4.04824566656668,
+                                                      0.99999998314171223,
+                                                      -6.2552493654701923E-06,
+                                                      0.00018351453367648472,
+                                                      -51.065359973379579,
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                        },
+                        {
+                            "Name":  "AS 1427 H - Metric M3.5 x 16:4",
+                            "Source":  "C:\\Users\\youss\\OneDrive\\Documents\\Inventor\\Content Center Files\\R2027\\en-US\\AS 1427(04)\\AS 1427 - M3.5 x 16(5) I.ipt",
+                            "Grounded":  false,
+                            "Suppressed":  false,
+                            "TransformRowMajor":  [
+                                                      -0.00017031371617015845,
+                                                      0.44649953743273052,
+                                                      0.89478384767736519,
+                                                      -27.90082572160134,
+                                                      -6.862907765280191E-05,
+                                                      -0.894783863766389,
+                                                      0.44649953239829621,
+                                                      -3.0267499844665324,
+                                                      0.9999999831416716,
+                                                      1.4636804466681774E-05,
+                                                      0.00018303681643342179,
+                                                      -51.065824300017368,
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                        },
+                        {
+                            "Name":  "AS 1427 H - Metric M3.5 x 16:5",
+                            "Source":  "C:\\Users\\youss\\OneDrive\\Documents\\Inventor\\Content Center Files\\R2027\\en-US\\AS 1427(04)\\AS 1427 - M3.5 x 16(5) I.ipt",
+                            "Grounded":  false,
+                            "Suppressed":  false,
+                            "TransformRowMajor":  [
+                                                      -0.00017031371617001498,
+                                                      0.94413078054121136,
+                                                      0.32957099421268143,
+                                                      -30.354427242542567,
+                                                      -6.8629077652794117E-05,
+                                                      -0.3295710092518932,
+                                                      0.94413078815862328,
+                                                      -5.233521212368764,
+                                                      0.99999998314155814,
+                                                      0.00013818026972808146,
+                                                      0.00012092528797928175,
+                                                      -51.066393630693959,
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                        },
+                        {
+                            "Name":  "AS 1427 H - Metric M3.5 x 16:6",
+                            "Source":  "C:\\Users\\youss\\OneDrive\\Documents\\Inventor\\Content Center Files\\R2027\\en-US\\AS 1427(04)\\AS 1427 - M3.5 x 16(5) I.ipt",
+                            "Grounded":  false,
+                            "Suppressed":  false,
+                            "TransformRowMajor":  [
+                                                      -0.00017031371616988493,
+                                                      0.62183763437502249,
+                                                      0.78314617247872975,
+                                                      -26.532187351895406,
+                                                      -6.86290776528069E-05,
+                                                      -0.78314618926103674,
+                                                      0.62183763277556658,
+                                                      -9.4832838044712879,
+                                                      0.99999998314174465,
+                                                      5.2160878607779659E-05,
+                                                      0.00017605668109426097,
+                                                      -51.06603430809497,
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                        },
+                        {
+                            "Name":  "AS 1427 H - Metric M3.5 x 16:7",
+                            "Source":  "C:\\Users\\youss\\OneDrive\\Documents\\Inventor\\Content Center Files\\R2027\\en-US\\AS 1427(04)\\AS 1427 - M3.5 x 16(5) I.ipt",
+                            "Grounded":  false,
+                            "Suppressed":  false,
+                            "TransformRowMajor":  [
+                                                      -0.00017031371617667526,
+                                                      0.2149089067804108,
+                                                      0.97663408335957791,
+                                                      -28.807853878034496,
+                                                      -6.8629077652934E-05,
+                                                      -0.97663409773610221,
+                                                      0.214908897975844,
+                                                      -5.53387233532447,
+                                                      0.99999998314171024,
+                                                      -3.0423563291693051E-05,
+                                                      0.00018108318258206632,
+                                                      -45.566150748131264,
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                        },
+                        {
+                            "Name":  "AS 1427 H - Metric M3.5 x 16:8",
+                            "Source":  "C:\\Users\\youss\\OneDrive\\Documents\\Inventor\\Content Center Files\\R2027\\en-US\\AS 1427(04)\\AS 1427 - M3.5 x 16(5) I.ipt",
+                            "Grounded":  false,
+                            "Suppressed":  false,
+                            "TransformRowMajor":  [
+                                                      -0.00017031371617668963,
+                                                      0.20242638785226436,
+                                                      0.97929746680652785,
+                                                      -26.667954503709414,
+                                                      -6.8629077652853016E-05,
+                                                      -0.9792974810698134,
+                                                      0.20242637886469655,
+                                                      -7.9131223489414833,
+                                                      0.99999998314211225,
+                                                      -3.2732293058170475E-05,
+                                                      0.00018068012953450087,
+                                                      -45.565949579647167,
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                        },
+                        {
+                            "Name":  "AS 1427 H - Metric M3.5 x 16:9",
+                            "Source":  "C:\\Users\\youss\\OneDrive\\Documents\\Inventor\\Content Center Files\\R2027\\en-US\\AS 1427(04)\\AS 1427 - M3.5 x 16(5) I.ipt",
+                            "Grounded":  false,
+                            "Suppressed":  false,
+                            "TransformRowMajor":  [
+                                                      -0.00017031371617719576,
+                                                      0.22061344032621594,
+                                                      0.97536130789600772,
+                                                      -27.766932020665404,
+                                                      -6.8629077652931987E-05,
+                                                      -0.975361322323743,
+                                                      0.22061343160583297,
+                                                      -4.5976663598508427,
+                                                      0.9999999831416807,
+                                                      -2.9364653563869418E-05,
+                                                      0.00018125790834791402,
+                                                      -45.565909213904845,
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                        },
+                        {
+                            "Name":  "AS 1427 H - Metric M3.5 x 16:10",
+                            "Source":  "C:\\Users\\youss\\OneDrive\\Documents\\Inventor\\Content Center Files\\R2027\\en-US\\AS 1427(04)\\AS 1427 - M3.5 x 16(5) I.ipt",
+                            "Grounded":  false,
+                            "Suppressed":  false,
+                            "TransformRowMajor":  [
+                                                      -0.00017031371617548475,
+                                                      0.28681339805939776,
+                                                      0.957986453811515,
+                                                      -25.627032646340325,
+                                                      -6.8629077652819663E-05,
+                                                      -0.9579864688020221,
+                                                      0.28681339034628572,
+                                                      -6.9769163734678656,
+                                                      0.9999999831416263,
+                                                      -1.6897472370233726E-05,
+                                                      0.00018284197451491066,
+                                                      -45.565708045420763,
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                        },
+                        {
+                            "Name":  "AS 1427 H - Metric M3 x 8:1",
+                            "Source":  "C:\\Users\\youss\\OneDrive\\Documents\\Inventor\\Content Center Files\\R2027\\en-US\\AS 1427(04)\\AS 1427 - M3 x 8(5) I.ipt",
+                            "Grounded":  false,
+                            "Suppressed":  false,
+                            "TransformRowMajor":  [
+                                                      -0.00017031371616502467,
+                                                      0.8990782915584411,
+                                                      0.43778784432783358,
+                                                      -27.752504954310144,
+                                                      -6.8629077652821859E-05,
+                                                      -0.43778786015519638,
+                                                      0.89907829736377787,
+                                                      -5.660616847206092,
+                                                      0.99999998314196037,
+                                                      0.00012308038998356082,
+                                                      0.00013626419124243311,
+                                                      -45.056046947492881,
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                        },
+                        {
+                            "Name":  "AS 1427 H - Metric M3 x 8:2",
+                            "Source":  "C:\\Users\\youss\\OneDrive\\Documents\\Inventor\\Content Center Files\\R2027\\en-US\\AS 1427(04)\\AS 1427 - M3 x 8(5) I.ipt",
+                            "Grounded":  false,
+                            "Suppressed":  false,
+                            "TransformRowMajor":  [
+                                                      -0.0001703137161526124,
+                                                      0.8678157788590396,
+                                                      0.49688604826104832,
+                                                      -26.682555267147741,
+                                                      -6.86290776528036E-05,
+                                                      -0.49688606444086825,
+                                                      0.86781578359378475,
+                                                      -6.8502418540144969,
+                                                      0.99999998314169425,
+                                                      0.00011370009984906771,
+                                                      0.00014418390861502215,
+                                                      -45.055946363250833,
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                        },
+                        {
+                            "Name":  "AS 1427 H - Metric M3 x 8:3",
+                            "Source":  "C:\\Users\\youss\\OneDrive\\Documents\\Inventor\\Content Center Files\\R2027\\en-US\\AS 1427(04)\\AS 1427 - M3 x 8(5) I.ipt",
+                            "Grounded":  false,
+                            "Suppressed":  false,
+                            "TransformRowMajor":  [
+                                                      -0.00017031371615401495,
+                                                      0.89487002549300987,
+                                                      0.44632679559572719,
+                                                      -26.622717620803751,
+                                                      -6.8629077652840331E-05,
+                                                      -0.44632681147772812,
+                                                      0.89487003114745034,
+                                                      -5.7204545074825166,
+                                                      0.99999998314222971,
+                                                      0.00012177764416613802,
+                                                      0.00013742968235094558,
+                                                      -45.055858635813884,
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                        },
+                        {
+                            "Name":  "AS 1427 H - Metric M3 x 8:4",
+                            "Source":  "C:\\Users\\youss\\OneDrive\\Documents\\Inventor\\Content Center Files\\R2027\\en-US\\AS 1427(04)\\AS 1427 - M3 x 8(5) I.ipt",
+                            "Grounded":  false,
+                            "Suppressed":  false,
+                            "TransformRowMajor":  [
+                                                      -0.00017031371616094067,
+                                                      0.86563170884143548,
+                                                      0.50068125153722165,
+                                                      -27.812342600654144,
+                                                      -6.8629077652819555E-05,
+                                                      -0.50068126773777533,
+                                                      0.86563171350534351,
+                                                      -6.7904041937380821,
+                                                      0.99999998314192684,
+                                                      0.00011306766146285283,
+                                                      0.00014468039308557213,
+                                                      -45.056134674929822,
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                        },
+                        {
+                            "Name":  "AS 1427 H - Metric M3.5 x 20:1",
+                            "Source":  "C:\\Users\\youss\\OneDrive\\Documents\\Inventor\\Content Center Files\\R2027\\en-US\\AS 1427(04)\\AS 1427 - M3.5 x 20(5) I.ipt",
+                            "Grounded":  false,
+                            "Suppressed":  false,
+                            "TransformRowMajor":  [
+                                                      -0.00017031371599999219,
+                                                      -1.1687999940973399E-08,
+                                                      -0.999999985497,
+                                                      -26.220134352724315,
+                                                      -6.8629077653425217E-05,
+                                                      0.99999999764499981,
+                                                      1.6097875283321723E-22,
+                                                      -9.4011174256239585,
+                                                      0.9999999831420634,
+                                                      6.8629076653432973E-05,
+                                                      -0.00017031371700000774,
+                                                      -43.405975793047624,
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                        },
+                        {
+                            "Name":  "AS 1427 H - Metric M3.5 x 20:2",
+                            "Source":  "C:\\Users\\youss\\OneDrive\\Documents\\Inventor\\Content Center Files\\R2027\\en-US\\AS 1427(04)\\AS 1427 - M3.5 x 20(5) I.ipt",
+                            "Grounded":  false,
+                            "Suppressed":  false,
+                            "TransformRowMajor":  [
+                                                      -0.00017031371599999219,
+                                                      -1.1687999940973399E-08,
+                                                      -0.999999985497,
+                                                      -23.994825075023947,
+                                                      -6.8629077653425217E-05,
+                                                      0.99999999764499981,
+                                                      1.6097875283321723E-22,
+                                                      -6.9643165884181677,
+                                                      0.9999999831420634,
+                                                      6.8629076653432973E-05,
+                                                      -0.00017031371700000774,
+                                                      -43.40542955695183,
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                        },
+                        {
+                            "Name":  "AS 1427 H - Metric M3.5 x 20:3",
+                            "Source":  "C:\\Users\\youss\\OneDrive\\Documents\\Inventor\\Content Center Files\\R2027\\en-US\\AS 1427(04)\\AS 1427 - M3.5 x 20(5) I.ipt",
+                            "Grounded":  false,
+                            "Suppressed":  false,
+                            "TransformRowMajor":  [
+                                                      -0.00017031371612803882,
+                                                      0.97414789742103913,
+                                                      -0.22591114391194547,
+                                                      -24.992501862045518,
+                                                      -6.8629077653425231E-05,
+                                                      0.225911135269551,
+                                                      0.97414791189622951,
+                                                      -3.8187417559706871,
+                                                      0.99999998314206318,
+                                                      0.00018141482436688345,
+                                                      2.8379106136573092E-05,
+                                                      -43.405383597092744,
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                        },
+                        {
+                            "Name":  "AS 1427 H - Metric M3.5 x 20:4",
+                            "Source":  "C:\\Users\\youss\\OneDrive\\Documents\\Inventor\\Content Center Files\\R2027\\en-US\\AS 1427(04)\\AS 1427 - M3.5 x 20(5) I.ipt",
+                            "Grounded":  false,
+                            "Suppressed":  false,
+                            "TransformRowMajor":  [
+                                                      -0.00017031371619230989,
+                                                      -0.99385820045374629,
+                                                      -0.11066096142692503,
+                                                      -28.215487926767459,
+                                                      -6.8629077653425285E-05,
+                                                      0.1106609743883924,
+                                                      -0.9938582112345381,
+                                                      -3.1099677607290004,
+                                                      0.99999998314206429,
+                                                      -0.00016167312561316861,
+                                                      -8.7054653999832788E-05,
+                                                      -43.405883873329444,
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                        },
+                        {
+                            "Name":  "AS 1427 H - Metric M3.5 x 20:5",
+                            "Source":  "C:\\Users\\youss\\OneDrive\\Documents\\Inventor\\Content Center Files\\R2027\\en-US\\AS 1427(04)\\AS 1427 - M3.5 x 20(5) I.ipt",
+                            "Grounded":  false,
+                            "Suppressed":  false,
+                            "TransformRowMajor":  [
+                                                      -0.0001703137160115503,
+                                                      -0.36724060457584867,
+                                                      -0.93012596423512861,
+                                                      -30.440797204467842,
+                                                      -6.8629077653425326E-05,
+                                                      0.93012597982695588,
+                                                      -0.36724059816607424,
+                                                      -5.5467685979347907,
+                                                      0.99999998314206451,
+                                                      1.2875760783792736E-06,
+                                                      -0.00018361659655108294,
+                                                      -43.406430109425237,
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                        },
+                        {
+                            "Name":  "AS 1427 H - Metric M3.5 x 20:6",
+                            "Source":  "C:\\Users\\youss\\OneDrive\\Documents\\Inventor\\Content Center Files\\R2027\\en-US\\AS 1427(04)\\AS 1427 - M3.5 x 20(5) I.ipt",
+                            "Grounded":  false,
+                            "Suppressed":  false,
+                            "TransformRowMajor":  [
+                                                      -0.00017031371599999219,
+                                                      -1.1687999940973399E-08,
+                                                      -0.999999985497,
+                                                      -29.443120417446252,
+                                                      -6.8629077653425217E-05,
+                                                      0.99999999764499981,
+                                                      1.6097875283321723E-22,
+                                                      -8.6923434303822678,
+                                                      0.9999999831420634,
+                                                      6.8629076653432973E-05,
+                                                      -0.00017031371700000774,
+                                                      -43.406476069284331,
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                        },
+                        {
+                            "Name":  "body:1",
+                            "Source":  "C:\\Users\\youss\\Downloads\\modern control model inventor\\body.ipt",
+                            "Grounded":  false,
+                            "Suppressed":  false,
+                            "TransformRowMajor":  [
+                                                      -0.95320447956736754,
+                                                      0.30232629909745085,
+                                                      -0.00017031371616542255,
+                                                      -27.218086297989821,
+                                                      -0.30232629162874486,
+                                                      -0.95320449468098789,
+                                                      -6.8629077652810339E-05,
+                                                      -6.2556534700739306,
+                                                      -0.00018309217481170492,
+                                                      -1.3927230026136067E-05,
+                                                      0.9999999831417925,
+                                                      -41.790333360424746,
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                        },
+                        {
+                            "Name":  "Threaded insert M3x5x4:19",
+                            "Source":  "C:\\Users\\youss\\Downloads\\modern control model inventor\\threaded-insert-m3x5x4-1.snapshot.2\\Threaded insert M3x5x4\\Threaded insert M3x5x4.ipt",
+                            "Grounded":  false,
+                            "Suppressed":  false,
+                            "TransformRowMajor":  [
+                                                      0.99999997099519966,
+                                                      0.00017031371616539625,
+                                                      0.00017030202562228532,
+                                                      -28.215848241869505,
+                                                      -0.00017031371616387157,
+                                                      6.8629077652800337E-05,
+                                                      0.99999998314157079,
+                                                      -3.1101129521654998,
+                                                      0.00017030202562327075,
+                                                      -0.99999998314164706,
+                                                      6.8658082424154557E-05,
+                                                      -41.290287408994836,
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                        },
+                        {
+                            "Name":  "Threaded insert M3x5x4:20",
+                            "Source":  "C:\\Users\\youss\\Downloads\\modern control model inventor\\threaded-insert-m3x5x4-1.snapshot.2\\Threaded insert M3x5x4\\Threaded insert M3x5x4.ipt",
+                            "Grounded":  false,
+                            "Suppressed":  false,
+                            "TransformRowMajor":  [
+                                                      0.50014747137810422,
+                                                      0.00017031371616539699,
+                                                      -0.86594022765269552,
+                                                      -30.441157519569956,
+                                                      0.86594023232656658,
+                                                      6.8629077652799145E-05,
+                                                      0.50014748757559679,
+                                                      -5.5469137893711311,
+                                                      0.00014461065636608186,
+                                                      -0.99999998314164684,
+                                                      -0.00011315683929358423,
+                                                      -41.290833645090622,
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                        },
+                        {
+                            "Name":  "Threaded insert M3x5x4:21",
+                            "Source":  "C:\\Users\\youss\\Downloads\\modern control model inventor\\threaded-insert-m3x5x4-1.snapshot.2\\Threaded insert M3x5x4\\Threaded insert M3x5x4.ipt",
+                            "Grounded":  false,
+                            "Suppressed":  false,
+                            "TransformRowMajor":  [
+                                                      -0.4998524996170951,
+                                                      0.0001703137161653985,
+                                                      -0.866110529678318,
+                                                      -29.443480732548359,
+                                                      0.86611054604273052,
+                                                      6.8629077652799118E-05,
+                                                      -0.4998524955659735,
+                                                      -8.6924886218183843,
+                                                      -2.5691369257160265E-05,
+                                                      -0.99999998314164684,
+                                                      -0.00018181492171772263,
+                                                      -41.2908796049497,
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                        },
+                        {
+                            "Name":  "Threaded insert M3x5x4:22",
+                            "Source":  "C:\\Users\\youss\\Downloads\\modern control model inventor\\threaded-insert-m3x5x4-1.snapshot.2\\Threaded insert M3x5x4\\Threaded insert M3x5x4.ipt",
+                            "Grounded":  false,
+                            "Suppressed":  false,
+                            "TransformRowMajor":  [
+                                                      -0.99999997099519966,
+                                                      0.00017031371616539918,
+                                                      -0.00017030202562240781,
+                                                      -26.220494667826305,
+                                                      0.00017031371616399403,
+                                                      6.8629077652800365E-05,
+                                                      -0.99999998314157068,
+                                                      -9.4012626170600111,
+                                                      -0.0001703020256232137,
+                                                      -0.99999998314164684,
+                                                      -6.8658082424122207E-05,
+                                                      -41.290379328712994,
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                        },
+                        {
+                            "Name":  "Threaded insert M3x5x4:23",
+                            "Source":  "C:\\Users\\youss\\Downloads\\modern control model inventor\\threaded-insert-m3x5x4-1.snapshot.2\\Threaded insert M3x5x4\\Threaded insert M3x5x4.ipt",
+                            "Grounded":  false,
+                            "Suppressed":  false,
+                            "TransformRowMajor":  [
+                                                      -0.50014747137810422,
+                                                      0.0001703137161653985,
+                                                      0.86594022765269518,
+                                                      -23.995185390125858,
+                                                      -0.86594023232656614,
+                                                      6.8629077652801666E-05,
+                                                      -0.50014748757559657,
+                                                      -6.96446177985438,
+                                                      -0.00014461065636602483,
+                                                      -0.99999998314164684,
+                                                      0.00011315683929361659,
+                                                      -41.289833092617208,
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                        },
+                        {
+                            "Name":  "Threaded insert M3x5x4:24",
+                            "Source":  "C:\\Users\\youss\\Downloads\\modern control model inventor\\threaded-insert-m3x5x4-1.snapshot.2\\Threaded insert M3x5x4\\Threaded insert M3x5x4.ipt",
+                            "Grounded":  false,
+                            "Suppressed":  false,
+                            "TransformRowMajor":  [
+                                                      0.49985249961709483,
+                                                      0.00017031371616539704,
+                                                      0.86611052967831825,
+                                                      -24.992862177147451,
+                                                      -0.86611054604273086,
+                                                      6.8629077652801639E-05,
+                                                      0.49985249556597328,
+                                                      -3.8188869474071256,
+                                                      2.5691369257217273E-05,
+                                                      -0.99999998314164684,
+                                                      0.00018181492171775502,
+                                                      -41.289787132758129,
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                        },
+                        {
+                            "Name":  "cover for electrical box:1",
+                            "Source":  "C:\\Users\\youss\\Downloads\\modern control model inventor\\cover for electrical box.ipt",
+                            "Grounded":  true,
+                            "Suppressed":  false,
+                            "TransformRowMajor":  [
+                                                      0.95320447956733312,
+                                                      -0.30232629909745679,
+                                                      -0.00017031371554484729,
+                                                      -27.219346619489436,
+                                                      0.30232629162869273,
+                                                      0.95320449468100377,
+                                                      -6.8629077653402273E-05,
+                                                      -6.2561613252485584,
+                                                      0.00018309217422061777,
+                                                      1.3927230213623845E-05,
+                                                      0.99999998314173,
+                                                      -34.39033348517551,
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                        },
+                        {
+                            "Name":  "Threaded insert M3x5x4:25",
+                            "Source":  "C:\\Users\\youss\\Downloads\\modern control model inventor\\threaded-insert-m3x5x4-1.snapshot.2\\Threaded insert M3x5x4\\Threaded insert M3x5x4.ipt",
+                            "Grounded":  false,
+                            "Suppressed":  false,
+                            "TransformRowMajor":  [
+                                                      0.99999997099500237,
+                                                      0.00017031371616507124,
+                                                      0.00017030203851514655,
+                                                      -23.08425460415571,
+                                                      -0.00017031372902252912,
+                                                      6.8629077653665843E-05,
+                                                      0.99999998314168459,
+                                                      -10.032478144640496,
+                                                      0.00017030202562200552,
+                                                      -0.99999998314174454,
+                                                      6.8658082426962017E-05,
+                                                      -33.889888378991216,
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                        },
+                        {
+                            "Name":  "Untitled:1",
+                            "Source":  "C:\\Users\\youss\\Downloads\\tb6612fng-2.snapshot.1\\Untitled\\Untitled.ipt",
+                            "Grounded":  false,
+                            "Suppressed":  false,
+                            "TransformRowMajor":  [
+                                                      0.73838973926882923,
+                                                      -0.67437420171273843,
+                                                      0.00017031371554476844,
+                                                      -25.831520518200872,
+                                                      -0.67437421853597546,
+                                                      -0.73838974035667182,
+                                                      6.86290776534082E-05,
+                                                      -4.4799282403041492,
+                                                      7.9476220743492085E-05,
+                                                      -0.00016553018558124248,
+                                                      -0.99999998314169758,
+                                                      -33.959975210862169,
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                        },
+                        {
+                            "Name":  "LM2596_5V:1",
+                            "Source":  "C:\\Users\\youss\\Downloads\\modern control model inventor\\buck-converter-lm2596-output-5v-1.snapshot.7\\LM2596_5V\\LM2596_5V.ipt",
+                            "Grounded":  false,
+                            "Suppressed":  false,
+                            "TransformRowMajor":  [
+                                                      -0.738389739268865,
+                                                      0.00017031371554290578,
+                                                      -0.67437420171276508,
+                                                      -27.2061854013303,
+                                                      0.67437421853600921,
+                                                      6.8629077653401433E-05,
+                                                      -0.73838974035670168,
+                                                      -8.2337596511828046,
+                                                      -7.9476220742114863E-05,
+                                                      -0.99999998314163741,
+                                                      -0.00016553018557995786,
+                                                      -33.481911319883338,
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                        },
+                        {
+                            "Name":  "ESP32 WROOM:1",
+                            "Source":  "C:\\Users\\youss\\Downloads\\modern control model inventor\\38-pin-esp32-wroom-esp-32d-development-kit-1.snapshot.3\\ESP32 WROOM\\ESP32 WROOM.ipt",
+                            "Grounded":  false,
+                            "Suppressed":  false,
+                            "TransformRowMajor":  [
+                                                      -0.738389739268824,
+                                                      0.674374201712735,
+                                                      0.00017031371554409604,
+                                                      -28.486353619225362,
+                                                      0.67437421853596879,
+                                                      0.73838974035666838,
+                                                      6.8629077655389019E-05,
+                                                      -7.38678020742486,
+                                                      -7.9476220743409157E-05,
+                                                      0.000165530185581332,
+                                                      -0.99999998314174687,
+                                                      -34.01662686087613,
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                        },
+                        {
+                            "Name":  "Half-Size Breadboard:1",
+                            "Source":  "C:\\Users\\youss\\Downloads\\half-size-breadboard-1.snapshot.1 (1)\\Half-Size Breadboard\\STEP\\Half-Size Breadboard\\Half-Size Breadboard.ipt",
+                            "Grounded":  false,
+                            "Suppressed":  false,
+                            "TransformRowMajor":  [
+                                                      0.73838973926881468,
+                                                      0.00017031371554370993,
+                                                      0.67437420171272489,
+                                                      -34.015705503159985,
+                                                      -0.67437421853596125,
+                                                      6.8629077655836659E-05,
+                                                      0.73838974035665716,
+                                                      -9.2915631318592631,
+                                                      7.9476220743599231E-05,
+                                                      -0.99999998314176053,
+                                                      0.00016553018558133846,
+                                                      -28.934386524814677,
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                        },
+                        {
+                            "Name":  "Threaded insert M3x5x4:26",
+                            "Source":  "C:\\Users\\youss\\Downloads\\modern control model inventor\\threaded-insert-m3x5x4-1.snapshot.2\\Threaded insert M3x5x4\\Threaded insert M3x5x4.ipt",
+                            "Grounded":  false,
+                            "Suppressed":  false,
+                            "TransformRowMajor":  [
+                                                      0.99999997099501448,
+                                                      0.00017031371616509127,
+                                                      0.00017030203859286219,
+                                                      -29.147916276390763,
+                                                      -0.00017031372905167242,
+                                                      6.8629077653369937E-05,
+                                                      0.99999998314171434,
+                                                      -10.950792361195345,
+                                                      0.00017030202562196128,
+                                                      -0.99999998314125915,
+                                                      6.8658082426626741E-05,
+                                                      -33.890984126820562,
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                        },
+                        {
+                            "Name":  "Threaded insert M3x5x4:27",
+                            "Source":  "C:\\Users\\youss\\Downloads\\modern control model inventor\\threaded-insert-m3x5x4-1.snapshot.2\\Threaded insert M3x5x4\\Threaded insert M3x5x4.ipt",
+                            "Grounded":  false,
+                            "Suppressed":  false,
+                            "TransformRowMajor":  [
+                                                      0.99999997099510984,
+                                                      0.00017031371616515114,
+                                                      0.00017030203865697757,
+                                                      -26.016663862961643,
+                                                      -0.00017031372902491604,
+                                                      6.8629077653355856E-05,
+                                                      0.99999998314176852,
+                                                      -0.78688590181360618,
+                                                      0.00017030202562194548,
+                                                      -0.999999983141054,
+                                                      6.8658082426574022E-05,
+                                                      -33.889753292039472,
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                        },
+                        {
+                            "Name":  "Threaded insert M3x5x4:28",
+                            "Source":  "C:\\Users\\youss\\Downloads\\modern control model inventor\\threaded-insert-m3x5x4-1.snapshot.2\\Threaded insert M3x5x4\\Threaded insert M3x5x4.ipt",
+                            "Grounded":  false,
+                            "Suppressed":  false,
+                            "TransformRowMajor":  [
+                                                      0.99999997099505555,
+                                                      0.00017031371616509203,
+                                                      0.00017030203853479753,
+                                                      -32.152880241372415,
+                                                      -0.00017031372906327428,
+                                                      6.8629077653372363E-05,
+                                                      0.99999998314172134,
+                                                      -8.2063470935462224,
+                                                      0.0001703020256219815,
+                                                      -0.99999998314129446,
+                                                      6.86580824266414E-05,
+                                                      -33.891307564658455,
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                        },
+                        {
+                            "Name":  "Threaded insert M3x5x4:29",
+                            "Source":  "C:\\Users\\youss\\Downloads\\modern control model inventor\\threaded-insert-m3x5x4-1.snapshot.2\\Threaded insert M3x5x4\\Threaded insert M3x5x4.ipt",
+                            "Grounded":  false,
+                            "Suppressed":  false,
+                            "TransformRowMajor":  [
+                                                      0.999999970995156,
+                                                      0.00017031371616518134,
+                                                      0.0001703020386765175,
+                                                      -31.354608948538708,
+                                                      -0.00017031372899488451,
+                                                      6.8629077653345027E-05,
+                                                      0.99999998314179073,
+                                                      -2.4799131349342876,
+                                                      0.00017030202562193887,
+                                                      -0.99999998314089611,
+                                                      6.86580824265408E-05,
+                                                      -33.890778608218518,
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                        },
+                        {
+                            "Name":  "Threaded insert M3x5x4:30",
+                            "Source":  "C:\\Users\\youss\\Downloads\\modern control model inventor\\threaded-insert-m3x5x4-1.snapshot.2\\Threaded insert M3x5x4\\Threaded insert M3x5x4.ipt",
+                            "Grounded":  false,
+                            "Suppressed":  false,
+                            "TransformRowMajor":  [
+                                                      0.99999997099506288,
+                                                      0.0001703137161651197,
+                                                      0.00017030203862561377,
+                                                      -21.881486690770156,
+                                                      -0.00017031372903801668,
+                                                      6.8629077653361453E-05,
+                                                      0.99999998314174154,
+                                                      -4.56316840666671,
+                                                      0.00017030202562195348,
+                                                      -0.99999998314113547,
+                                                      6.8658082426596966E-05,
+                                                      -33.889308177426017,
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                        },
+                        {
+                            "Name":  "Female DC-Power-to-Screw-Terminals-Adapter:1",
+                            "Source":  "C:\\Users\\youss\\Downloads\\2-position-screw-down-terminal-block-to-female-dc-power-adapter-1.snapshot.16\\Female DC-Power-to-Screw-Terminals-Adapter\\Female DC-Power-to-Screw-Terminals-Adapter.ipt",
+                            "Grounded":  true,
+                            "Suppressed":  false,
+                            "TransformRowMajor":  [
+                                                      0.30232629909744424,
+                                                      0.0001703137155446022,
+                                                      0.95320447956735788,
+                                                      -27.703490306143379,
+                                                      -0.95320449468100465,
+                                                      6.8629077653332112E-05,
+                                                      0.30232629162872188,
+                                                      -2.3425682233304861,
+                                                      -1.3927230213623815E-05,
+                                                      -0.99999998314164551,
+                                                      0.0001830921742203404,
+                                                      -33.6614059725087,
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                        },
+                        {
+                            "Name":  "AS 1427 H - Metric M3.5 x 8:1",
+                            "Source":  "C:\\Users\\youss\\OneDrive\\Documents\\Inventor\\Content Center Files\\R2027\\en-US\\AS 1427(04)\\AS 1427 - M3.5 x 8(5) I.ipt",
+                            "Grounded":  false,
+                            "Suppressed":  false,
+                            "TransformRowMajor":  [
+                                                      -0.00017031371599999964,
+                                                      -1.1687999940871292E-08,
+                                                      -0.99999998549699987,
+                                                      -26.016502133653145,
+                                                      -6.8629077652824732E-05,
+                                                      0.99999999764499981,
+                                                      1.214541720555279E-23,
+                                                      -0.78682073188152957,
+                                                      0.99999998314200211,
+                                                      6.8629076652825007E-05,
+                                                      -0.00017031371700000023,
+                                                      -34.839349776031618,
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                        },
+                        {
+                            "Name":  "AS 1427 H - Metric M3.5 x 8:2",
+                            "Source":  "C:\\Users\\youss\\OneDrive\\Documents\\Inventor\\Content Center Files\\R2027\\en-US\\AS 1427(04)\\AS 1427 - M3.5 x 8(5) I.ipt",
+                            "Grounded":  false,
+                            "Suppressed":  false,
+                            "TransformRowMajor":  [
+                                                      -0.00017031371599999964,
+                                                      -1.1687999940871292E-08,
+                                                      -0.99999998549699987,
+                                                      -32.152718512064119,
+                                                      -6.8629077652824732E-05,
+                                                      0.99999999764499981,
+                                                      1.214541720555279E-23,
+                                                      -8.2062819236145419,
+                                                      0.99999998314200211,
+                                                      6.8629076652825007E-05,
+                                                      -0.00017031371700000023,
+                                                      -34.840904048650692,
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                        },
+                        {
+                            "Name":  "AS 1427 H - Metric M3.5 x 8:3",
+                            "Source":  "C:\\Users\\youss\\OneDrive\\Documents\\Inventor\\Content Center Files\\R2027\\en-US\\AS 1427(04)\\AS 1427 - M3.5 x 8(5) I.ipt",
+                            "Grounded":  false,
+                            "Suppressed":  false,
+                            "TransformRowMajor":  [
+                                                      -0.00017031371599999964,
+                                                      -1.1687999940871292E-08,
+                                                      -0.99999998549699987,
+                                                      -29.147754547082389,
+                                                      -6.8629077652824732E-05,
+                                                      0.99999999764499981,
+                                                      1.214541720555279E-23,
+                                                      -10.95072719126356,
+                                                      0.99999998314200211,
+                                                      6.8629076652825007E-05,
+                                                      -0.00017031371700000023,
+                                                      -34.840580610812808,
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                        },
+                        {
+                            "Name":  "AS 1427 H - Metric M3.5 x 8:4",
+                            "Source":  "C:\\Users\\youss\\OneDrive\\Documents\\Inventor\\Content Center Files\\R2027\\en-US\\AS 1427(04)\\AS 1427 - M3.5 x 8(5) I.ipt",
+                            "Grounded":  false,
+                            "Suppressed":  false,
+                            "TransformRowMajor":  [
+                                                      -0.00017031371599999964,
+                                                      -1.1687999940871292E-08,
+                                                      -0.99999998549699987,
+                                                      -23.084092874847219,
+                                                      -6.8629077652824732E-05,
+                                                      0.99999999764499981,
+                                                      1.214541720555279E-23,
+                                                      -10.032412974708427,
+                                                      0.99999998314200211,
+                                                      6.8629076652825007E-05,
+                                                      -0.00017031371700000023,
+                                                      -34.839484862983689,
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                        },
+                        {
+                            "Name":  "AS 1427 H - Metric M3.5 x 8:5",
+                            "Source":  "C:\\Users\\youss\\OneDrive\\Documents\\Inventor\\Content Center Files\\R2027\\en-US\\AS 1427(04)\\AS 1427 - M3.5 x 8(5) I.ipt",
+                            "Grounded":  false,
+                            "Suppressed":  false,
+                            "TransformRowMajor":  [
+                                                      -0.00017031371599999964,
+                                                      -1.1687999940871292E-08,
+                                                      -0.99999998549699987,
+                                                      -21.881324961461594,
+                                                      -6.8629077652824732E-05,
+                                                      0.99999999764499981,
+                                                      1.214541720555279E-23,
+                                                      -4.563103236734503,
+                                                      0.99999998314200211,
+                                                      6.8629076652825007E-05,
+                                                      -0.00017031371700000023,
+                                                      -34.838904661418184,
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                        },
+                        {
+                            "Name":  "AS 1427 H - Metric M3.5 x 8:6",
+                            "Source":  "C:\\Users\\youss\\OneDrive\\Documents\\Inventor\\Content Center Files\\R2027\\en-US\\AS 1427(04)\\AS 1427 - M3.5 x 8(5) I.ipt",
+                            "Grounded":  false,
+                            "Suppressed":  false,
+                            "TransformRowMajor":  [
+                                                      -0.00017031371599999964,
+                                                      -1.1687999940871292E-08,
+                                                      -0.99999998549699987,
+                                                      -31.35444721923033,
+                                                      -6.8629077652824732E-05,
+                                                      0.99999999764499981,
+                                                      1.214541720555279E-23,
+                                                      -2.479847965002477,
+                                                      0.99999998314200211,
+                                                      6.8629076652825007E-05,
+                                                      -0.00017031371700000023,
+                                                      -34.840375092210571,
+                                                      0,
+                                                      0,
+                                                      0,
+                                                      1
+                                                  ]
+                        }
+                    ],
+    "Constraints":  [
+                        {
+                            "Name":  "Tangent:1",
+                            "Type":  100665600,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "ANSI/AFBMA 21.1 NTW - Thrust Washer (Metric) 08NTW12 8 x 21 x 0.8:2",
+                            "OccurrenceTwo":  "ANSI/AFBMA 21.1 NT - Thrust Needle Roller And Cage Assembly (Inch) 08NT01:1"
+                        },
+                        {
+                            "Name":  "Mate:20",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "ANSI/AFBMA 21.1 NT - Thrust Needle Roller And Cage Assembly (Inch) 08NT01:1",
+                            "OccurrenceTwo":  "ANSI/AFBMA 21.1 NTW - Thrust Washer (Metric) 08NTW12 8 x 21 x 0.8:2"
+                        },
+                        {
+                            "Name":  "Mate:21",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "ANSI/AFBMA 21.1 NTW - Thrust Washer (Metric) 08NTW12 8 x 21 x 0.8:1",
+                            "OccurrenceTwo":  "ANSI/AFBMA 21.1 NT - Thrust Needle Roller And Cage Assembly (Inch) 08NT01:1"
+                        },
+                        {
+                            "Name":  "Tangent:2",
+                            "Type":  100665600,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "ANSI/AFBMA 21.1 NT - Thrust Needle Roller And Cage Assembly (Inch) 08NT01:1",
+                            "OccurrenceTwo":  "ANSI/AFBMA 21.1 NTW - Thrust Washer (Metric) 08NTW12 8 x 21 x 0.8:1"
+                        },
+                        {
+                            "Name":  "Mate:25",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "ANSI/AFBMA 21.1 NTW - Thrust Washer (Metric) 08NTW12 8 x 21 x 0.8:1",
+                            "OccurrenceTwo":  "Aluminum Alloy Flange Coupling, 4 mm SHAFT HO:1"
+                        },
+                        {
+                            "Name":  "Mate:55",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "part:1",
+                            "OccurrenceTwo":  "Aluminum Alloy Flange Coupling, 4 mm SHAFT HO:1"
+                        },
+                        {
+                            "Name":  "Mate:57",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "part:1",
+                            "OccurrenceTwo":  "Aluminum Alloy Flange Coupling, 4 mm SHAFT HO:1"
+                        },
+                        {
+                            "Name":  "Mate:65",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "cover:1",
+                            "OccurrenceTwo":  "part:1"
+                        },
+                        {
+                            "Name":  "Mate:67",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "part:1",
+                            "OccurrenceTwo":  "cover:1"
+                        },
+                        {
+                            "Name":  "Mate:77",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "motor_JGA25-370_EN_LR25:1",
+                            "OccurrenceTwo":  "part:1"
+                        },
+                        {
+                            "Name":  "Mate:78",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "motor_JGA25-370_EN_LR25:1",
+                            "OccurrenceTwo":  "motor holder:1"
+                        },
+                        {
+                            "Name":  "Mate:79",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "motor_JGA25-370_EN_LR25:1",
+                            "OccurrenceTwo":  "motor holder:1"
+                        },
+                        {
+                            "Name":  "Mate:80",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "ANSI/AFBMA 21.1 NT - Thrust Needle Roller And Cage Assembly (Inch) 08NT01:1",
+                            "OccurrenceTwo":  "motor_JGA25-370_EN_LR25:1"
+                        },
+                        {
+                            "Name":  "Mate:81",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "motor_JGA25-370_EN_LR25:1",
+                            "OccurrenceTwo":  "motor holder:1"
+                        },
+                        {
+                            "Name":  "Mate:86",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "AS 1427 - Metric M2.5 x 10:1",
+                            "OccurrenceTwo":  "motor holder:1"
+                        },
+                        {
+                            "Name":  "Mate:87",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "AS 1427 - Metric M2.5 x 10:2",
+                            "OccurrenceTwo":  "motor holder:1"
+                        },
+                        {
+                            "Name":  "Mate:88",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "motor holder:1",
+                            "OccurrenceTwo":  "ANSI/AFBMA 21.1 NTW - Thrust Washer (Metric) 08NTW12 8 x 21 x 0.8:2"
+                        },
+                        {
+                            "Name":  "Mate:95",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "cover:1",
+                            "OccurrenceTwo":  "motor holder:1"
+                        },
+                        {
+                            "Name":  "Mate:102",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "Rigid Coupling:1",
+                            "OccurrenceTwo":  "rotary encoder:1"
+                        },
+                        {
+                            "Name":  "Mate:103",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "rotary encoder:1",
+                            "OccurrenceTwo":  "Rigid Coupling:1"
+                        },
+                        {
+                            "Name":  "Mate:110",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "bracket for encoder:1",
+                            "OccurrenceTwo":  "rotary encoder:1"
+                        },
+                        {
+                            "Name":  "Mate:111",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "rotary encoder:1",
+                            "OccurrenceTwo":  "bracket for encoder:1"
+                        },
+                        {
+                            "Name":  "Mate:112",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "rotary encoder:1",
+                            "OccurrenceTwo":  "bracket for encoder:1"
+                        },
+                        {
+                            "Name":  "Mate:113",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "bracket for encoder:1",
+                            "OccurrenceTwo":  "part:1"
+                        },
+                        {
+                            "Name":  "Mate:114",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "bracket for encoder:1",
+                            "OccurrenceTwo":  "part:1"
+                        },
+                        {
+                            "Name":  "Mate:115",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "part:1",
+                            "OccurrenceTwo":  "bracket for encoder:1"
+                        },
+                        {
+                            "Name":  "Mate:117",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "shaft:1",
+                            "OccurrenceTwo":  "Rigid Coupling:1"
+                        },
+                        {
+                            "Name":  "Mate:118",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "rotary encoder:1",
+                            "OccurrenceTwo":  "shaft:1"
+                        },
+                        {
+                            "Name":  "Mate:119",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "Threaded insert M3x5x4:1",
+                            "OccurrenceTwo":  "part:1"
+                        },
+                        {
+                            "Name":  "Flush:40",
+                            "Type":  100666368,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "Threaded insert M3x5x4:1",
+                            "OccurrenceTwo":  "part:1"
+                        },
+                        {
+                            "Name":  "Mate:120",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "cover:1",
+                            "OccurrenceTwo":  "Threaded insert M3x5x4:5"
+                        },
+                        {
+                            "Name":  "Mate:121",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "AS 1427 H - Metric M3.5 x 16:1",
+                            "OccurrenceTwo":  "cover:1"
+                        },
+                        {
+                            "Name":  "Mate:122",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "AS 1427 H - Metric M3.5 x 16:2",
+                            "OccurrenceTwo":  "cover:1"
+                        },
+                        {
+                            "Name":  "Mate:123",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "AS 1427 H - Metric M3.5 x 16:3",
+                            "OccurrenceTwo":  "cover:1"
+                        },
+                        {
+                            "Name":  "Mate:124",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "AS 1427 H - Metric M3.5 x 16:4",
+                            "OccurrenceTwo":  "cover:1"
+                        },
+                        {
+                            "Name":  "Mate:125",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "AS 1427 H - Metric M3.5 x 16:5",
+                            "OccurrenceTwo":  "cover:1"
+                        },
+                        {
+                            "Name":  "Mate:126",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "AS 1427 H - Metric M3.5 x 16:6",
+                            "OccurrenceTwo":  "cover:1"
+                        },
+                        {
+                            "Name":  "Mate:127",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "AS 1427 H - Metric M3.5 x 16:7",
+                            "OccurrenceTwo":  "bracket for encoder:1"
+                        },
+                        {
+                            "Name":  "Mate:128",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "AS 1427 H - Metric M3.5 x 16:8",
+                            "OccurrenceTwo":  "bracket for encoder:1"
+                        },
+                        {
+                            "Name":  "Mate:129",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "AS 1427 H - Metric M3.5 x 16:9",
+                            "OccurrenceTwo":  "bracket for encoder:1"
+                        },
+                        {
+                            "Name":  "Mate:130",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "AS 1427 H - Metric M3.5 x 16:10",
+                            "OccurrenceTwo":  "bracket for encoder:1"
+                        },
+                        {
+                            "Name":  "Mate:131",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "Aluminum Alloy Flange Coupling, 4 mm SHAFT HO:1",
+                            "OccurrenceTwo":  "part:1"
+                        },
+                        {
+                            "Name":  "Mate:132",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "AS 1427 H - Metric M3 x 8:1",
+                            "OccurrenceTwo":  "part:1"
+                        },
+                        {
+                            "Name":  "Mate:133",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "AS 1427 H - Metric M3 x 8:2",
+                            "OccurrenceTwo":  "part:1"
+                        },
+                        {
+                            "Name":  "Mate:134",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "AS 1427 H - Metric M3 x 8:3",
+                            "OccurrenceTwo":  "part:1"
+                        },
+                        {
+                            "Name":  "Mate:135",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "AS 1427 H - Metric M3 x 8:4",
+                            "OccurrenceTwo":  "part:1"
+                        },
+                        {
+                            "Name":  "Mate:136",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "AS 1427 H - Metric M3.5 x 20:1",
+                            "OccurrenceTwo":  "motor holder:1"
+                        },
+                        {
+                            "Name":  "Mate:137",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "AS 1427 H - Metric M3.5 x 20:2",
+                            "OccurrenceTwo":  "motor holder:1"
+                        },
+                        {
+                            "Name":  "Mate:138",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "AS 1427 H - Metric M3.5 x 20:3",
+                            "OccurrenceTwo":  "motor holder:1"
+                        },
+                        {
+                            "Name":  "Mate:139",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "AS 1427 H - Metric M3.5 x 20:4",
+                            "OccurrenceTwo":  "motor holder:1"
+                        },
+                        {
+                            "Name":  "Mate:140",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "AS 1427 H - Metric M3.5 x 20:5",
+                            "OccurrenceTwo":  "motor holder:1"
+                        },
+                        {
+                            "Name":  "Mate:141",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "AS 1427 H - Metric M3.5 x 20:6",
+                            "OccurrenceTwo":  "motor holder:1"
+                        },
+                        {
+                            "Name":  "Mate:142",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "body:1",
+                            "OccurrenceTwo":  "part:1"
+                        },
+                        {
+                            "Name":  "Mate:143",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "body:1",
+                            "OccurrenceTwo":  "AS 1427 H - Metric M3.5 x 20:4"
+                        },
+                        {
+                            "Name":  "Mate:144",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "Threaded insert M3x5x4:19",
+                            "OccurrenceTwo":  "body:1"
+                        },
+                        {
+                            "Name":  "Flush:41",
+                            "Type":  100666368,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "Threaded insert M3x5x4:19",
+                            "OccurrenceTwo":  "body:1"
+                        },
+                        {
+                            "Name":  "Mate:145",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "body:1",
+                            "OccurrenceTwo":  "motor holder:1"
+                        },
+                        {
+                            "Name":  "Flush:42",
+                            "Type":  100666368,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "Threaded insert M3x5x4:25",
+                            "OccurrenceTwo":  "cover for electrical box:1"
+                        },
+                        {
+                            "Name":  "Mate:149",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "ESP32 WROOM:1",
+                            "OccurrenceTwo":  "Half-Size Breadboard:1"
+                        },
+                        {
+                            "Name":  "Mate:150",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "Untitled:1",
+                            "OccurrenceTwo":  "Half-Size Breadboard:1"
+                        },
+                        {
+                            "Name":  "Mate:151",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "Half-Size Breadboard:1",
+                            "OccurrenceTwo":  "Untitled:1"
+                        },
+                        {
+                            "Name":  "Mate:152",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "Half-Size Breadboard:1",
+                            "OccurrenceTwo":  "ESP32 WROOM:1"
+                        },
+                        {
+                            "Name":  "Mate:153",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "Half-Size Breadboard:1",
+                            "OccurrenceTwo":  "ESP32 WROOM:1"
+                        },
+                        {
+                            "Name":  "Mate:154",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "Untitled:1",
+                            "OccurrenceTwo":  "Half-Size Breadboard:1"
+                        },
+                        {
+                            "Name":  "Mate:155",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "Half-Size Breadboard:1",
+                            "OccurrenceTwo":  "cover for electrical box:1"
+                        },
+                        {
+                            "Name":  "Mate:159",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "Threaded insert M3x5x4:25",
+                            "OccurrenceTwo":  "cover for electrical box:1"
+                        },
+                        {
+                            "Name":  "Flush:43",
+                            "Type":  100666368,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "Threaded insert M3x5x4:25",
+                            "OccurrenceTwo":  "cover for electrical box:1"
+                        },
+                        {
+                            "Name":  "Mate:160",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "Threaded insert M3x5x4:26",
+                            "OccurrenceTwo":  "cover for electrical box:1"
+                        },
+                        {
+                            "Name":  "Mate:161",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "Threaded insert M3x5x4:30",
+                            "OccurrenceTwo":  "cover for electrical box:1"
+                        },
+                        {
+                            "Name":  "Mate:162",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "Threaded insert M3x5x4:27",
+                            "OccurrenceTwo":  "cover for electrical box:1"
+                        },
+                        {
+                            "Name":  "Mate:163",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "Threaded insert M3x5x4:29",
+                            "OccurrenceTwo":  "cover for electrical box:1"
+                        },
+                        {
+                            "Name":  "Mate:164",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "Threaded insert M3x5x4:28",
+                            "OccurrenceTwo":  "cover for electrical box:1"
+                        },
+                        {
+                            "Name":  "Flush:44",
+                            "Type":  100666368,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "Threaded insert M3x5x4:28",
+                            "OccurrenceTwo":  "cover for electrical box:1"
+                        },
+                        {
+                            "Name":  "Flush:45",
+                            "Type":  100666368,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "Threaded insert M3x5x4:29",
+                            "OccurrenceTwo":  "cover for electrical box:1"
+                        },
+                        {
+                            "Name":  "Flush:46",
+                            "Type":  100666368,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "Threaded insert M3x5x4:27",
+                            "OccurrenceTwo":  "cover for electrical box:1"
+                        },
+                        {
+                            "Name":  "Flush:47",
+                            "Type":  100666368,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "Threaded insert M3x5x4:30",
+                            "OccurrenceTwo":  "cover for electrical box:1"
+                        },
+                        {
+                            "Name":  "Flush:48",
+                            "Type":  100666368,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "Threaded insert M3x5x4:26",
+                            "OccurrenceTwo":  "cover for electrical box:1"
+                        },
+                        {
+                            "Name":  "Mate:165",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "cover for electrical box:1",
+                            "OccurrenceTwo":  "body:1"
+                        },
+                        {
+                            "Name":  "Mate:166",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "Threaded insert M3x5x4:25",
+                            "OccurrenceTwo":  "body:1"
+                        },
+                        {
+                            "Name":  "Mate:167",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "Half-Size Breadboard:1",
+                            "OccurrenceTwo":  "cover for electrical box:1"
+                        },
+                        {
+                            "Name":  "Mate:168",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "cover for electrical box:1",
+                            "OccurrenceTwo":  "Half-Size Breadboard:1"
+                        },
+                        {
+                            "Name":  "Mate:169",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "LM2596_5V:1",
+                            "OccurrenceTwo":  "Half-Size Breadboard:1"
+                        },
+                        {
+                            "Name":  "Mate:170",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "ESP32 WROOM:1",
+                            "OccurrenceTwo":  "LM2596_5V:1"
+                        },
+                        {
+                            "Name":  "Flush:49",
+                            "Type":  100666368,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "ESP32 WROOM:1",
+                            "OccurrenceTwo":  "LM2596_5V:1"
+                        },
+                        {
+                            "Name":  "Mate:171",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "Female DC-Power-to-Screw-Terminals-Adapter:1",
+                            "OccurrenceTwo":  "cover for electrical box:1"
+                        },
+                        {
+                            "Name":  "Angle:1",
+                            "Type":  100665088,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "Female DC-Power-to-Screw-Terminals-Adapter:1",
+                            "OccurrenceTwo":  "cover for electrical box:1"
+                        },
+                        {
+                            "Name":  "Mate:172",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "cover for electrical box:1",
+                            "OccurrenceTwo":  "body:1"
+                        },
+                        {
+                            "Name":  "Mate:173",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "AS 1427 H - Metric M3.5 x 8:1",
+                            "OccurrenceTwo":  "body:1"
+                        },
+                        {
+                            "Name":  "Mate:174",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "AS 1427 H - Metric M3.5 x 8:2",
+                            "OccurrenceTwo":  "body:1"
+                        },
+                        {
+                            "Name":  "Mate:175",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "AS 1427 H - Metric M3.5 x 8:3",
+                            "OccurrenceTwo":  "body:1"
+                        },
+                        {
+                            "Name":  "Mate:176",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "AS 1427 H - Metric M3.5 x 8:4",
+                            "OccurrenceTwo":  "body:1"
+                        },
+                        {
+                            "Name":  "Mate:177",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "AS 1427 H - Metric M3.5 x 8:5",
+                            "OccurrenceTwo":  "body:1"
+                        },
+                        {
+                            "Name":  "Mate:178",
+                            "Type":  100665856,
+                            "Suppressed":  false,
+                            "Health":  11778,
+                            "OccurrenceOne":  "AS 1427 H - Metric M3.5 x 8:6",
+                            "OccurrenceTwo":  "body:1"
+                        }
+                    ],
+    "Note":  "STEP copies contain geometry and placement; Inventor constraints are recorded for reference, not converted to SolidWorks mates."
+}

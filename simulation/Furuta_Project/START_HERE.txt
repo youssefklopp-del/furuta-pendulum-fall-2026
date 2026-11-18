@@ -1,0 +1,5 @@
+Set MATLAB Current Folder to this directory.
+Open models/Furuta_StudyF.slx for the current controller study.
+The analytical validation model is models/Furuta_Validation_Study1.slx.
+Read ../../docs/REPRODUCIBILITY.md before regenerating results.
+Run the Live Scripts in the order shown in the root README.

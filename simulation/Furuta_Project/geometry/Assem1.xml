@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<SimscapeMultibodyImportXML version="2.0" xmlns="urn:mathworks:SimscapeMultibody:import" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Created by="" on="10/22/26||14:08:17" using="Simscape Multibody Link Version 7.4" from="SolidWorks 34.2.1"/>
+<ModelUnits mass="kilogram" length="millimeter"/>
+<DataUnits mass="kilogram" length="meter"/>
+<RootAssembly name="Assem1" uid="Assem1" version="124">
+<AssemblyFile name="Assem1.SLDASM" type="SolidWorks Assembly"/>
+<InstanceTree>
+<Instance name="modern conttrol_ horizontal_arm .stp-1" uid="modern conttrol_ horizontal_arm .stp-1" entityUid="modern conttrol_ horizontal_arm .stp*:*Default">
+<Transform>
+<Rotation>0.25719975292482933 -0.9663582599576892 -2.2515630725588345e-05 0.00017031371556555379 6.8629077493563985e-05 -0.99999998314164384 0.96635824521170466 0.25719974475414353 0.00018223544759566086</Rotation>
+<Translation>-0.82927490714842622 -0.32485267722773264 2.1158030020770449</Translation>
+</Transform>
+</Instance>
+<Instance name="modern conttrol_Pendulum .stp-1" uid="modern conttrol_Pendulum .stp-1" entityUid="modern conttrol_Pendulum .stp*:*Default">
+<Transform>
+<Rotation>0.25719975292500014 -0.96635825995764391 -2.2515630614080188e-05 0.00017031371564927851 6.8629077400490893e-05 -0.99999998314164384 0.96635824521165903 0.25719974475431434 0.00018223544765263473</Rotation>
+<Translation>-0.82745494846733181 -0.32485267722771133 2.1122410152158508</Translation>
+</Transform>
+</Instance>
+<Instance name="modern conttrol_ BASE .stp-1" uid="modern conttrol_ BASE .stp-1" grounded="true" entityUid="modern conttrol_ BASE .stp*:*Default">
+<Transform>
+<Rotation>6.8629077653542704e-05 -0.99999999529085193 -6.8617390013924921e-05 0.00017031371554487198 6.862907765354265e-05 -0.99999998314164396 0.99999998314164396 6.8617390013924989e-05 0.00017031842469313901</Rotation>
+<Translation>-0.9013848547987956 -0.32485267722772088 2.1088694268837673</Translation>
+</Transform>
+</Instance>
+</InstanceTree>
+<Constraints>
+<Concentric name="Concentric1">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>modern conttrol_ horizontal_arm .stp-1</Uid>
+</InstancePath>
+<Position>-0.2721758796012439 -0.0625545266142018 -0.44716332911097895</Position>
+<Axis>0.00017031371616691509 6.8629077652632706e-05 -0.99999998314164373</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>modern conttrol_ BASE .stp-1</Uid>
+</InstancePath>
+<Position>-0.27218086297989807 -0.062556534700739186 -0.41790333360424708</Position>
+<Axis>-0.00017031371616497198 -6.8629077653404441e-05 0.99999998314164384</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident1">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>modern conttrol_ horizontal_arm .stp-1</Uid>
+</InstancePath>
+<Position>-0.27217809367955392 -0.06255541879221127 -0.43416332933013896</Position>
+<Axis>-0.00017031371616676414 -6.8629077652737508e-05 0.99999998314164373</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>modern conttrol_ BASE .stp-1</Uid>
+</InstancePath>
+<Position>-0.27358628726379597 -0.069667344712764367 -0.43416405724974261</Position>
+<Axis>0.00017031371616356401 6.862907765252823e-05 -0.99999998314164384</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric2">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>modern conttrol_Pendulum .stp-1</Uid>
+</InstancePath>
+<Position>-0.24466069253098 -0.037809881246927191 -0.47715694520067786</Position>
+<Axis>0.74351561239548558 0.66871855392196289 0.00017252444743752398</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>modern conttrol_ horizontal_arm .stp-1</Uid>
+</InstancePath>
+<Position>-0.25246760646113731 -0.044831426063105972 -0.47715875670737795</Position>
+<Axis>-0.74351561239560415 -0.66871855392183077 -0.0001725244474375239</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident2">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>modern conttrol_Pendulum .stp-1</Uid>
+</InstancePath>
+<Position>-0.25655694232930792 -0.048509378109678591 -0.47715970559183696</Position>
+<Axis>-0.74351561239548558 -0.66871855392196289 -0.00017252444743749598</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>modern conttrol_ horizontal_arm .stp-1</Uid>
+</InstancePath>
+<Position>-0.25953100477889524 -0.051184252325363389 -0.47716039568962698</Position>
+<Axis>0.74351561239560415 0.66871855392183077 0.0001725244474375239</Axis>
+</ConstraintGeometry>
+</Coincident>
+</Constraints>
+</RootAssembly>
+<Assemblies>
+</Assemblies>
+<Parts>
+<Part name="modern conttrol_ BASE .stp" uid="modern conttrol_ BASE .stp*:*Default" version="114">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="modern conttrol_ BASE .stp.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.27714254947068445</Mass>
+<CenterOfMass>-0.27245396094991797 -0.061696182843317647 -0.36651099782410435</CenterOfMass>
+<Inertia>0.0005825320161331356 0.00057818041305833078 0.00042612614602244607 -7.512458012328754e-06 3.2757422688430394e-06 3.216931945541683e-07</Inertia>
+</MassProperties>
+<GeometryFile name="modern conttrol_ BASE .stp_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.74509803921568629" g="0.73725490196078436" b="0.72941176470588232" a="1"/>
+<Diffuse r="0.74509803921568629" g="0.73725490196078436" b="0.72941176470588232" a="1"/>
+<Specular r="0.37254901960784315" g="0.36862745098039218" b="0.36470588235294116" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="modern conttrol_ horizontal_arm .stp" uid="modern conttrol_ horizontal_arm .stp*:*Default" version="114">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="modern conttrol_ horizontal_arm .stp.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.18331795701844122</Mass>
+<CenterOfMass>-0.27269707615006245 -0.063024846306213536 -0.47355366328094906</CenterOfMass>
+<Inertia>0.00015132368356817955 0.00015123508970754545 0.00014229106336334271 -5.5769438717444764e-07 -6.2075923355803386e-07 4.0653767446742292e-07</Inertia>
+</MassProperties>
+<GeometryFile name="modern conttrol_ horizontal_arm .stp_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.74509803921568629" g="0.73725490196078436" b="0.72941176470588232" a="1"/>
+<Diffuse r="0.74509803921568629" g="0.73725490196078436" b="0.72941176470588232" a="1"/>
+<Specular r="0.37254901960784315" g="0.36862745098039218" b="0.36470588235294116" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="modern conttrol_Pendulum .stp" uid="modern conttrol_Pendulum .stp*:*Default" version="114">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="modern conttrol_Pendulum .stp.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0072212528623423573</Mass>
+<CenterOfMass>-0.22679494467871492 -0.046242060268869775 -0.46433637995102806</CenterOfMass>
+<Inertia>4.6505082453533575e-06 6.8905045295288037e-06 6.2145779911776551e-06 2.1108948684307222e-06 -3.1871426190007217e-06 2.3435561929317297e-06</Inertia>
+</MassProperties>
+<GeometryFile name="modern conttrol_Pendulum .stp_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.89411764705882346" g="0.89411764705882346" b="0.89411764705882346" a="1"/>
+<Diffuse r="0.89411764705882346" g="0.89411764705882346" b="0.89411764705882346" a="1"/>
+<Specular r="0.44705882352941173" g="0.44705882352941173" b="0.44705882352941173" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+</Parts>
+</SimscapeMultibodyImportXML>

@@ -1,0 +1,177 @@
+﻿[
+    {
+        "Path":  "C:\\Users\\youss\\Downloads\\modern control\\sloidworks version\\01_AS 1427 - M3.5 x 8(5) I.step",
+        "Bytes":  67986,
+        "HeaderValid":  true,
+        "EndMarkerValid":  true,
+        "SHA256":  "9033B8BA5B4FCBD51E2A7AB9816733C39076960F79FFC111975BB2BB16380FD1"
+    },
+    {
+        "Path":  "C:\\Users\\youss\\Downloads\\modern control\\sloidworks version\\02_Female DC-Power-to-Screw-Terminals-Adapter.step",
+        "Bytes":  2159419,
+        "HeaderValid":  true,
+        "EndMarkerValid":  true,
+        "SHA256":  "77A3884A74565420238EA3789595A64E17995A17C81DCB8916D4B84BC53B744C"
+    },
+    {
+        "Path":  "C:\\Users\\youss\\Downloads\\modern control\\sloidworks version\\03_Threaded insert M3x5x4.step",
+        "Bytes":  2456064,
+        "HeaderValid":  true,
+        "EndMarkerValid":  true,
+        "SHA256":  "355DDAB24D1D38F30DA7BCEDF369E8F085D2DA0B8674F3F6905389667349BD3B"
+    },
+    {
+        "Path":  "C:\\Users\\youss\\Downloads\\modern control\\sloidworks version\\04_Half-Size Breadboard.step",
+        "Bytes":  6617534,
+        "HeaderValid":  true,
+        "EndMarkerValid":  true,
+        "SHA256":  "9DEDCC7E3A29C8DF0585B2D5D4B20F81B348990FBD8321BC7CDD66C110F35B27"
+    },
+    {
+        "Path":  "C:\\Users\\youss\\Downloads\\modern control\\sloidworks version\\05_ESP32 WROOM.step",
+        "Bytes":  3518516,
+        "HeaderValid":  true,
+        "EndMarkerValid":  true,
+        "SHA256":  "BF46BDAFC742B1AF80A5C12EA9A22F75B8FB5D3366C067E644EEC725B8ED9FC1"
+    },
+    {
+        "Path":  "C:\\Users\\youss\\Downloads\\modern control\\sloidworks version\\06_LM2596_5V.step",
+        "Bytes":  3524970,
+        "HeaderValid":  true,
+        "EndMarkerValid":  true,
+        "SHA256":  "D46544812865AC8B084E03A89DD11D0A7AD070EB50CF0DE4300B8D570D71D9B0"
+    },
+    {
+        "Path":  "C:\\Users\\youss\\Downloads\\modern control\\sloidworks version\\07_Untitled.step",
+        "Bytes":  8094831,
+        "HeaderValid":  true,
+        "EndMarkerValid":  true,
+        "SHA256":  "F38C895F333814E827256E923EBE3B26DA6A2C99F01D0D22D473F835F5ABE933"
+    },
+    {
+        "Path":  "C:\\Users\\youss\\Downloads\\modern control\\sloidworks version\\08_cover for electrical box.step",
+        "Bytes":  74951,
+        "HeaderValid":  true,
+        "EndMarkerValid":  true,
+        "SHA256":  "FA813AD1E0CFDA8C0D4B57A3D29B5F9FF31B97E5315130215FABFEE9ED71B984"
+    },
+    {
+        "Path":  "C:\\Users\\youss\\Downloads\\modern control\\sloidworks version\\09_body.step",
+        "Bytes":  50337,
+        "HeaderValid":  true,
+        "EndMarkerValid":  true,
+        "SHA256":  "F7C0C9F337D2C7CFBE45BDC5765FD68A6AB6C625ACD012C0665DA6EC6788D11C"
+    },
+    {
+        "Path":  "C:\\Users\\youss\\Downloads\\modern control\\sloidworks version\\10_AS 1427 - M3.5 x 20(5) I.step",
+        "Bytes":  67902,
+        "HeaderValid":  true,
+        "EndMarkerValid":  true,
+        "SHA256":  "1A122768887537B289740EC9BAA76B9E6E6B0C7997D1C6276A0BAF74254E8AD1"
+    },
+    {
+        "Path":  "C:\\Users\\youss\\Downloads\\modern control\\sloidworks version\\11_AS 1427 - M3 x 8(5) I.step",
+        "Bytes":  66198,
+        "HeaderValid":  true,
+        "EndMarkerValid":  true,
+        "SHA256":  "B0965710528E6268A27A257D75555A2777E4D9D36E049549D3997ADF1CFAF5CF"
+    },
+    {
+        "Path":  "C:\\Users\\youss\\Downloads\\modern control\\sloidworks version\\12_AS 1427 - M3.5 x 16(5) I.step",
+        "Bytes":  67921,
+        "HeaderValid":  true,
+        "EndMarkerValid":  true,
+        "SHA256":  "17B7C9941DFA77F696C6E8AA725C0F3A70FF9D3869708C63870FA4541044203A"
+    },
+    {
+        "Path":  "C:\\Users\\youss\\Downloads\\modern control\\sloidworks version\\13_bracket for encoder.step",
+        "Bytes":  52861,
+        "HeaderValid":  true,
+        "EndMarkerValid":  true,
+        "SHA256":  "6929A2D11A952B33EB1511CA0520559B38A1227BCEF0087F2848DDCA067E3569"
+    },
+    {
+        "Path":  "C:\\Users\\youss\\Downloads\\modern control\\sloidworks version\\14_AS 1427 - M2.5 x 10(1).step",
+        "Bytes":  19090,
+        "HeaderValid":  true,
+        "EndMarkerValid":  true,
+        "SHA256":  "EC504D986353B6A22A11412755EF69141A193EB5D23CEBEF6C236E96A9E49B9B"
+    },
+    {
+        "Path":  "C:\\Users\\youss\\Downloads\\modern control\\sloidworks version\\15_motor_JGA25-370_EN_LR25.step",
+        "Bytes":  876030,
+        "HeaderValid":  true,
+        "EndMarkerValid":  true,
+        "SHA256":  "78F2CEDC9164990C90545ACC624E1DA4E684A4A8AE875A99CC0B0788878ADF46"
+    },
+    {
+        "Path":  "C:\\Users\\youss\\Downloads\\modern control\\sloidworks version\\16_Rigid Coupling.step",
+        "Bytes":  62759,
+        "HeaderValid":  true,
+        "EndMarkerValid":  true,
+        "SHA256":  "4F2E11EF80E303EDE48CA7D824A9AD214D2E0F160B2F514C8D39D76ADD2C2502"
+    },
+    {
+        "Path":  "C:\\Users\\youss\\Downloads\\modern control\\sloidworks version\\17_shaft.step",
+        "Bytes":  14752,
+        "HeaderValid":  true,
+        "EndMarkerValid":  true,
+        "SHA256":  "A0E3DBDE9651AE54CEEADFF7FE5CC167FD017C506A7E7C2AD43FE8884E5110E1"
+    },
+    {
+        "Path":  "C:\\Users\\youss\\Downloads\\modern control\\sloidworks version\\18_cover.step",
+        "Bytes":  29994,
+        "HeaderValid":  true,
+        "EndMarkerValid":  true,
+        "SHA256":  "32C179681701864E2065C4C142D8323C17F5CFBB796FBF06347B723908013E7F"
+    },
+    {
+        "Path":  "C:\\Users\\youss\\Downloads\\modern control\\sloidworks version\\19_part.step",
+        "Bytes":  54746,
+        "HeaderValid":  true,
+        "EndMarkerValid":  true,
+        "SHA256":  "DB287BE757FC956A615519B85CBD26E7D599C220E0F464479AFAFE3683841790"
+    },
+    {
+        "Path":  "C:\\Users\\youss\\Downloads\\modern control\\sloidworks version\\20_Aluminum Alloy Flange Coupling, 4 mm SHAFT HO.step",
+        "Bytes":  38008,
+        "HeaderValid":  true,
+        "EndMarkerValid":  true,
+        "SHA256":  "392A0CA5CE94FFEFF0EA357E483AAB43C8E117B47C826C761713081976BD7013"
+    },
+    {
+        "Path":  "C:\\Users\\youss\\Downloads\\modern control\\sloidworks version\\21_ANSI_AFBMA 21.1 NTW - 08NTW12 8 x 21 x 0.8.step",
+        "Bytes":  14366,
+        "HeaderValid":  true,
+        "EndMarkerValid":  true,
+        "SHA256":  "E8618F48A718A2341AFC781A45AF520361DEF35348ABB38B90FFA9828B107663"
+    },
+    {
+        "Path":  "C:\\Users\\youss\\Downloads\\modern control\\sloidworks version\\22_ANSI_AFBMA 21.1 NT - 08NT01(1).step",
+        "Bytes":  61440,
+        "HeaderValid":  true,
+        "EndMarkerValid":  true,
+        "SHA256":  "ABA3E4B437382B3AF5D7FF71AB268286EDD867F9E61C8676761648B897579760"
+    },
+    {
+        "Path":  "C:\\Users\\youss\\Downloads\\modern control\\sloidworks version\\23_motor holder.step",
+        "Bytes":  44475,
+        "HeaderValid":  true,
+        "EndMarkerValid":  true,
+        "SHA256":  "A69442638527864046065523BBC55D06E76CECB98A3C44FB6C28B35C58FB5DE4"
+    },
+    {
+        "Path":  "C:\\Users\\youss\\Downloads\\modern control\\sloidworks version\\24_rotary encoder.step",
+        "Bytes":  42216,
+        "HeaderValid":  true,
+        "EndMarkerValid":  true,
+        "SHA256":  "1B4A938EB161A3781291414CE537F70E062DF92056A25D12EF8AAF2039A28982"
+    },
+    {
+        "Path":  "C:\\Users\\youss\\Downloads\\modern control\\sloidworks version\\25_modern conttrol.step",
+        "Bytes":  29071863,
+        "HeaderValid":  true,
+        "EndMarkerValid":  true,
+        "SHA256":  "07C87E16903A20440B680818304C975C61C3137111E2A358D15CA80FB337C198"
+    }
+]
