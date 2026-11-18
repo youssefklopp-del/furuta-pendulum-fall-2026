@@ -1,5 +1,18 @@
-# New generated files; existing archived evidence is intentionally preserved
+# MATLAB / Simulink generated files
 **/slprj/
 *.slxc
+*.asv
 *.autosave
+*.mexw64
+*.log
+*.tmp
+__pycache__/
+
+# CAD locks and automatic backups
+**/OldVersions/
+*.iwl
+*.bak
+*.old
 ~$*
+Thumbs.db
+.DS_Store
